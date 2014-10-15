@@ -1,0 +1,10 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+baseurl: /etc
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

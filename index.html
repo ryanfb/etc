@@ -1,0 +1,12 @@
+---
+layout: default
+title: index
+---
+
+<div id="content">
+  {% for post in site.posts %}
+    <div class="post hentry">
+      <h2 id="post-{{ post.wordpress_id }}" class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+    </div>
+  {% endfor %}
+</div>
