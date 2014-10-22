@@ -23,7 +23,7 @@ Next extract (key)frames with `ffmpeg`:
 
 The `-r 1/1` flag specifies the rate at which to extract frames (1 frame for every 1 second), so dropping it will extract every frame.
 
-Now you want to use VisualSFM to reconstruct a point cloud from your video frames. The first few times you do this it may be helpful to do the reconstruction with the interactive GUI (both to make sure your VisualSFM install actually works, and see the different steps of the process). There are a few guides online for this process, which I used myself:
+Now you want to use VisualSFM to reconstruct a point cloud from your video frames. The first few times you do this it may be helpful to do the reconstruction with the interactive GUI (both to make sure your VisualSFM install actually works, and to see the different steps of the process). There are a few guides online for this process, which I used myself:
 
  * ["Open Source Photogrammetry: Ditching 123D Catch"](http://wedidstuff.heavyimage.com/index.php/2013/07/12/open-source-photogrammetry-workflow/)
  * ["Generating a Photogrammetric model using VisualSFM, and post-processing with Meshlab"](http://www.academia.edu/3649828/Generating_a_Photogrammetric_model_using_VisualSFM_and_post-processing_with_Meshlab)
