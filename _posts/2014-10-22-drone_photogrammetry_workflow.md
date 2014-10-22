@@ -2,7 +2,7 @@
 title: Open-Source Drone Photogrammetry Workflow
 ---
 
-Recently I've been playing with using open-source tools to reconstruct 3D models from hobbyist drone videos posted to YouTube. This is a writeup of the current workflow I've developed, so other people can give it a try. If you have suggestions or questions (or cool 3D models!), I'm [@ryanfb](https://twitter.com/ryanfb) on Twitter.
+Recently I've been playing with using open-source tools to reconstruct 3D models from hobbyist drone videos posted to YouTube (see some sample results [here](https://sketchfab.com/models/90348f4107e94fe5aba97caa86718421) and [here](https://sketchfab.com/models/9161ad0a26ca41379e912f4f291164e3)). This is a writeup of the current workflow I've developed, so other people can give it a try. If you have suggestions or questions (or cool 3D models!), I'm [@ryanfb](https://twitter.com/ryanfb) on Twitter.
 
 Software you'll need: [^1]
 
