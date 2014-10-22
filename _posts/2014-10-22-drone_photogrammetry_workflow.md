@@ -11,6 +11,17 @@ Software you'll need: [^1]
  * [VisualSFM](http://ccwu.me/vsfm/)
  * [MeshLab](http://meshlab.sourceforge.net/)
 
+As a quick overview, the steps in this workflow will be:
+
+ 1. download video with `youtube-dl`
+ 1. extract frames with `ffmpeg`
+ 1. use VisualSFM to reconstruct a point cloud
+ 1. import VisualSFM `bundle.rd.out` project and `.ply` point cloud into MeshLab
+ 1. use Poisson surface reconstruction to compute a mesh for the point cloud
+ 1. clean up the resulting mesh
+ 1. compute and project textures onto mesh
+ 1. simplify and export mesh
+
 First step is finding and downloading a drone video on YouTube. There's actually a surprising number of these, a simple search I like is just looking for ["DJI ruins"](https://www.youtube.com/results?search_query=dji+ruins&page=&utm_source=opensearch) then clicking through to people's channels and related videos.
 
 Now you need to download the video with `youtube-dl`: [^2]
