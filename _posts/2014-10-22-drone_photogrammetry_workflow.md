@@ -15,7 +15,7 @@ First step is finding and downloading a drone video on YouTube. There's actually
 
 Now you need to download the video with `youtube-dl`: [^2]
 
-    youtube-dl https://www.youtube.com/watch?v=3v-wvbNiZGY
+    youtube-dl 'https://www.youtube.com/watch?v=3v-wvbNiZGY'
 
 Next extract (key)frames with `ffmpeg`:
 
@@ -60,6 +60,6 @@ Now you just need to export your textured mesh. Use `File->Export Mesh As…`, s
 
 [^1]: Complete software installation is out of the scope of this guide, but if you're on a Mac I would suggest using [Homebrew](http://brew.sh/) to install `youtube-dl` and `ffmpeg`. Because VisualSFM is distributed as a binary it can be a hassle to successfully install and use as well. On a Mac, I've had success with [this VisualSFM installer script](https://github.com/luckybulldozer/VisualSFM_OS_X_Mavericks_Installer).
 
-[^2]: Sometimes, `youtube-dl` won't default to the very highest video quality available on certain videos due to YouTube eccentricities. If there's a high quality version on the page but you automatically get something lower resolution, check available formats with `youtube-dl -F url`, then download with e.g. `youtube-dl -f 136 url`. Sometimes this is a video-only stream (which is probably why `youtube-dl` doesn't automatically select it), but since we're doing photogrammetry we don't care about the audio track.
+[^2]: Sometimes, `youtube-dl` won't default to the very highest video quality available on certain videos due to YouTube eccentricities. If there's a high quality version on the page but you automatically get something lower resolution, check available formats with `youtube-dl -F 'url'`, then download with e.g. `youtube-dl -f 136 'url'`. Sometimes this is a video-only stream (which is probably why `youtube-dl` doesn't automatically select it), but since we're doing photogrammetry we don't care about the audio track.
 
 [^3]: If the default value for `Select Faces with edges longer than…` selects too few (or too many) faces for your particular model, just check the preview box and interactively change the value until it looks like it's just selecting erroneous faces.
