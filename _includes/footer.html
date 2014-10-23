@@ -1,15 +1,7 @@
 <small>
 {% if page.date %}
 <span>Created: {{ page.date | date: "%Y-%m-%d" }}</span>
-{% endif %}
 <span style="float:right">Feedback? <a href="mailto:ryanfb@gmail.com">e-mail</a> / <a href="https://twitter.com/intent/tweet?text=%40ryanfb%20">twitter</a></span>
-{% if page.date %}
-{% if page.last_modified_at	%}
-{% capture creation_date %}{{page.date | date: "%Y-%m-%d"}}{% endcapture %}
-{% capture modified_date %}{{page.last_modified_at | date: "%Y-%m-%d"}}{% endcapture %}
-{% unless creation_date == modified_date %}
-<br/><span>Modified: {{ page.last_modified_at | date: "%Y-%m-%d"}}</span>
-{% endunless %}
-{% endif %}
+<br/><span><a href="https://github.com/ryanfb/etc/commits/gh-pages/{{ page.path }}">Revision History</a></span>
 {% endif %}
 </small>
