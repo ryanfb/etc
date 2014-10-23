@@ -4,6 +4,8 @@ kramdown:
 baseurl: /etc
 gems:
   - jekyll-last-modified-at
+  - jekyll-sitemap
+  - jekyll-redirect-from
 defaults:
   -
     scope:

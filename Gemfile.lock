@@ -118,3 +118,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-last-modified-at
+  jekyll-redirect-from
+  jekyll-sitemap
