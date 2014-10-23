@@ -8,7 +8,7 @@ Software you'll need: [^1]
 
  * [youtube-dl](http://rg3.github.io/youtube-dl/)
  * [ffmpeg](https://www.ffmpeg.org/)
- * [VisualSFM](http://ccwu.me/vsfm/)
+ * [VisualSFM](http://ccwu.me/vsfm/) [^2]
  * [MeshLab](http://meshlab.sourceforge.net/)
 
 As a quick overview, the steps in this workflow will be:
@@ -24,7 +24,7 @@ As a quick overview, the steps in this workflow will be:
 
 First step is finding and downloading a drone video on YouTube. There's actually a surprising number of these, a simple search I like is just looking for ["DJI ruins"](https://www.youtube.com/results?search_query=dji+ruins&page=&utm_source=opensearch) then clicking through to people's channels and related videos.
 
-Now you need to download the video with `youtube-dl`: [^2]
+Now you need to download the video with `youtube-dl`: [^3]
 
     youtube-dl 'https://www.youtube.com/watch?v=3v-wvbNiZGY'
 
@@ -59,7 +59,7 @@ Next, you want to actually compute a mesh from your point cloud, clean up the me
 
 Now run `Filters→Point Set→Surface Reconstruction: Poisson`, which will compute a mesh (connected polygons/faces instead of just isolated vertices). I like setting an `Octree Depth` of 10 with a `Solver Divide` of 8 for my first try. Now go ahead and use the layer dialog to hide your original `.ply` point cloud layer, then make sure the `Poisson mesh` layer is selected again.
 
-Poisson surface reconstruction really, really likes closed surfaces, so this may have initially resulted in an incomprehensible bulbous nightmare. Use `Filters→Selection→Select Faces with edges longer than…` to select the (usually-erroneous) huge faces it creates, then use `Filters→Selection→Delete Selected Faces and Vertices` to remove them.[^3]
+Poisson surface reconstruction really, really likes closed surfaces, so this may have initially resulted in an incomprehensible bulbous nightmare. Use `Filters→Selection→Select Faces with edges longer than…` to select the (usually-erroneous) huge faces it creates, then use `Filters→Selection→Delete Selected Faces and Vertices` to remove them.[^4]
 
 You may still have some stray isolated blobs or polygons floating around in the model that you want to clean up. You can either use the manual selection/deletion tools to interactively delete these, or use `Filters→Cleaning and Repairing→Remove Isolated pieces (wrt Diameter)` and/or `Remove Isolated pieces (wrt Face Num.)`. The defaults for these are also pretty sane but you can play with them to suit your particular model. If there are now holes left over in the model that you'd like filled before you apply the texture map from your images, you can use the interactive hole fill tool (`Edit→Fill Hole`) or the non-interactive filter under `Filters→Remeshing, Simplification and Reconstruction→Close Holes`.
 
@@ -71,6 +71,8 @@ Now you just need to export your textured mesh. Use `File→Export Mesh As…`, 
 
 [^1]: Complete software installation is out of the scope of this guide, but if you're on a Mac I would suggest using [Homebrew](http://brew.sh/) to install `youtube-dl` and `ffmpeg`. Because VisualSFM is distributed as a binary it can be a hassle to successfully install and use as well. On a Mac, I've had success with [this VisualSFM installer script](https://github.com/luckybulldozer/VisualSFM_OS_X_Mavericks_Installer).
 
-[^2]: Sometimes, `youtube-dl` won't default to the very highest video quality available on certain videos due to YouTube eccentricities. If there's a high quality version on the page but you automatically get something lower resolution, check available formats with `youtube-dl -F 'url'`, then download with e.g. `youtube-dl -f 136 'url'`. Sometimes this is a video-only stream (which is probably why `youtube-dl` doesn't automatically select it), but since we're doing photogrammetry we don't care about the audio track.
+[^2]: [As pointed out by Stefano Costa](https://twitter.com/stekosteko/status/524963983577841664), VisualSFM is unfortunately not actually open-source. It does, however, provide a relatively easy to use (though not always easy to install) bundle of and wrapper around the open-source [SiftGPU](http://cs.unc.edu/~ccwu/siftgpu/)/[bundler](http://www.cs.cornell.edu/~snavely/bundler/)/[CMVS](http://www.di.ens.fr/cmvs/)/[PMVS2](http://www.di.ens.fr/pmvs/) photogrammetry toolchain. Presumably this workflow could eventually be rewritten to use those tools directly. Other projects that provide some aggregation of these tools are [PPT](http://opensourcephotogrammetry.blogspot.it/2010/09/python-photogrammetry-toolbox.html)/[osm-bundler](https://code.google.com/p/osm-bundler/)/[PPT-GUI](https://github.com/archeos/ppt-gui/), and [Sean Gillies pointed me to](https://twitter.com/sgillies/status/524986109839671297) another such project I hadn't heard of before called [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) (appropriately enough).
 
-[^3]: If the default value for `Select Faces with edges longer than…` selects too few (or too many) faces for your particular model, just check the preview box and interactively change the value until it looks like it's just selecting erroneous faces.
+[^3]: Sometimes, `youtube-dl` won't default to the very highest video quality available on certain videos due to YouTube eccentricities. If there's a high quality version on the page but you automatically get something lower resolution, check available formats with `youtube-dl -F 'url'`, then download with e.g. `youtube-dl -f 136 'url'`. Sometimes this is a video-only stream (which is probably why `youtube-dl` doesn't automatically select it), but since we're doing photogrammetry we don't care about the audio track.
+
+[^4]: If the default value for `Select Faces with edges longer than…` selects too few (or too many) faces for your particular model, just check the preview box and interactively change the value until it looks like it's just selecting erroneous faces.
