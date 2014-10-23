@@ -2,6 +2,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 baseurl: /etc
+gems:
+  - jekyll-last-modified-at
 defaults:
   -
     scope:
