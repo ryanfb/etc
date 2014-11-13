@@ -7,7 +7,7 @@ This is a short writeup of the working process I came up with for command-line O
 Software Installation
 ---------------------
 
-  0. Install [homebrew](http://www.brew.sh/) (if you haven't already).
+  0. Install [homebrew](http://brew.sh/) (if you haven't already).
   1. Install `leptonica` with TIFF support (and every other format, just in case):
 
          brew install --with-libtiff --with-openjpeg --with-giflib leptonica
