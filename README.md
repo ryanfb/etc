@@ -1,5 +1,5 @@
-etc
-===
+/etc
+====
 
 Personal blog, wiki, miscellany, et cetera.
 
