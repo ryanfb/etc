@@ -90,6 +90,29 @@ The curious Montfaucon/Bouillon connection gave me another foothold to search fo
 
 The Matter work referred to here is [Jacques Matter, *Une excursion gnostique en Italie*, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
 
+Chronological Bibliography
+--------------------------
+
+* Bernard de Montfaucon, [*Palaeographia Graeca*. Paris, 1708](http://books.google.com/books/about/Palaeographia_Graeca.html?id=zHAsAAAAYAAJ). p. 181.
+* Philippo Bonanni, [*Musaeum Kircherianum sive Musaeum a p. Athanasio Kirchero in Collegio Romano Societatis Jesu*. Rome: Typis Georgii Plachi, 1709.](http://books.google.com/books?id=HMgTPtUZEJAC) p. 180.
+* Bernard de Montfaucon, [*L'antiquité expliquée et représentée en figures*. Paris, 1722](http://digi.ub.uni-heidelberg.de/diglit/montfaucon1722b). p. 380.
+* Jacques Matter, [*Histoire critique du gnosticisme,: et de son influence sur les sectes religieuses et philosophiques des 6 premiers siècles*, Vol. 3. Paris: Levrault, 1828](https://books.google.com/books?id=-KQPAAAAQAAJ). p. 80.
+* Giuseppe Brunati, *Musei Kircheriani inscriptiones ethnicae et christianae*, 1837. p. 122.
+* Jacques Matter, [*Une excursion gnostique en Italie*, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
+* Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878. p. 63-79.
+* C. W. King, [*The Gnostics and their Remains*, 2nd ed. London: David Nutt, 1887](https://archive.org/details/gnosticsandtheir00kinguoft). [p.362-366](http://www.sacred-texts.com/gno/gar/gar53.htm#page_362).
+* Wolfgang Helbig, Emil Reisch, [*Führer durch die öffentlichen Sammlungen klassischer Altertümer in Rom*, Band 2. Leipzig: Verlag von Karl Baedeker, 1891](http://digi.ub.uni-heidelberg.de/diglit/helbig1891bd2). English translation in: Wolfgang Helbig, Emil Reisch, [*Guide to the Public Collections of Classical Antiquities in Rome*, trans. James F. and Findlay Muirhead, Vol. II. Leipsic, Karl Baedeker, 1896](https://archive.org/details/guidetopubliccol02helbuoft). p.415-416.
+* Angela Mayer-Deutsch, *Das Musaeum Kircherianum: Kontemplative Momente, historische Rekonstruktion, Bildrhetorik*. Zurich: Diaphanes, 2010. p. 142.
+
+Bibliography (Kircher & the Kircherian)
+---------------------------------------
+
+Collected here are works by or about Kircher or the Kircherian museum, which contain no apparent reference to the object(s) at hand.
+
+Bibliography (Bonanni)
+----------------------
+
+
 [^placard]: I would note here that the English translation, for some reason, omits "basilidian," and seemingly mistranslates "*testo*" ("text") as "date".
 [^remained]: I make this assertion on the basis that Reisch describes observing the codex in the Kircherian as it remained in 1891. The Baths of Diocletian was instituted as the inaugural seat of the Museo Nazionale Romano in 1890, so the codex may have been moved between then and the Kircherian's ultimate dissolution 1913.
 [^helbig]: Wolfgang Helbig, Emil Reisch, [*Guide to the Public Collections of Classical Antiquities in Rome*, trans. James F. and Findlay Muirhead, Vol. II. Leipsic, Karl Baedeker, 1896](https://archive.org/details/guidetopubliccol02helbuoft). p.415-416: *"The Museo Kircheriano derives its name from the German Jesuit priest Athanasius Kircher (1601-1680), a native of the neighbourhood of Fulda, who became a professor in the Collegio Romano about 1635. At Rome he indulged his mathematical and historical tastes by the formation of a collection of curiosities, which, besides natural productions of all kinds and specimens of all branches of artistic industry, included also a few unimportant antiques. It was not until the eighteenth century that this collection, chiefly owing to the exertions of Bonanni and Contucci, assumed more and more the character of a cabinet of antiques; and about the same time (ca. 1738) it acquired its chief treasure, the Ficoronian Cist. During the suspension of the order of the Jesuits (1773-1823) the Museo Kircheriano was more and more neglected in favour of the great papal collections in the Vatican and at the Capitol. But in the present century the famous archaeologist Giuseppe Marchi turned his attention to the neglected museum; under his auspices the section of Christian antiquities, the collection of leaden missiles for slings, and that of water-pipes received large additions, while the treasure-trove of Vicarello and the celebrated graffito of the 'Caricature Crucifixion' were also added to the museum under his management. The Collegio Romano and its collections became the property of the state in 1870; and since then the Museo Kircheriano has been completely re-arranged on a scientific system. The Graeco-Roman and Christian antiquities have been combined in a special section by Ettore de Ruggiero (in the rooms to the left of the entrance). The ethnographical specimens were transferred to the Museo Nazionale Preistorico ed Etnografico, opened in 1876, a collection that already, under the management of Luigi Pigorini, has risen to the rank of a museum of the first class, and is still constantly receiving additions. [...] According to the present (interim) arrangement, the Museo Kircheriano occupies the saloon to the left of the principal entrance and the two adjoining rooms."*
