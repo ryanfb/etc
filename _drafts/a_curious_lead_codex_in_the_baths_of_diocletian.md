@@ -60,6 +60,21 @@ Chronological Bibliography
 
 * Bernard de Montfaucon, [*Palaeographia Graeca*. Paris, 1708](http://books.google.com/books/about/Palaeographia_Graeca.html?id=zHAsAAAAYAAJ). p. 181.
 
+Characteres item Hetruscos usurpabant Gnostici & BAsilidiani; videlicee ii qui apud Latinos versabantur, ut videas infra in schemate libri plumbei. Latinos item adhibitos cernimus in aliquot gemmis; & nominatim in corneola nostra; ubi ab altera facie nomina Graeco-barbara pro more feruntur; ab altera vero, pastor depingitur cum inscriptione, AVE PASTOR. Praeter hos autem characteres alios item excogitaverunt; caeteris populis ignotos; ut ne quis posset ad arcana sua pertingere. Quinetiam Graecos, ab se frequentius adhibitos, saepe vario modo exarabant; ut quantum poterant a vulgrai & usitatiori forma recederent. Eorum porro formas varias, quales in hujusmodi lapillis innumeris vidimus, hic adscribere operae pretium erit.
+Dum Romae agerem, incidi in librum plumbeum, insculptum literis & figuris Basilidianorum: emtumque obtuli Serenissimo Principi Cardinali de Boüillon; ita tamen ut depicta omnia penes me remanerent. Est is libellus longitudine quatuor circiter pollicum; latitudine duorum & dimidii, ut infra delineatur: operculis vero duobus plumbeis totus compingitur, sex folia item plumbea sunt, ab utraque facie incisa literis aut figuris: duae partes operculi assumento plumbeo, clavis item plumbeis asserto & firmato, junguntur. Virgula plumbea foliis a tergo, per annulum plumbeum ipsis haerentem, inserta, ipsa folia retinet ne dimoveantur. Denique omnia plumbum. In singulis paginis Basilidianorum figurae comparent. In quatuor primis tantum, verba quaedam sub figuris posita incisa sunt. Prima & secunda pagella, Hetruscis literis exaratur; tertia & quarta Graecis; ex utrisque tamen tam Hetruscis, quam Graecis, tantumdem notitiae expisceris, adeo sunt obscura omnia & tenebris oppleta. Hactenus quod ad literas: quod ad figurae vero haec carptim dicamus.
+In prima pagina, homo nudus stat, digitos ori admovens, qualem depingunt Harpocratem: nimirum illi fabulosa & prophana omnia sectabantur.
+In secunda, homo veste talari indutus, manu caelum commonstrat, quo mysterio, divinet qui possit.
+In tertia, Basilidianus quispiam junctis manibus, nudo capite precans effingitur.
+In quarta pagina, figura humano corpore, capite volucris coronato: quales non paucae in lapillis habentur.
+In quinta, Abraxas humano corpore, galli gallinacei capite, dextera flagellum tenens, sinistram ori admovens, tibiis in serpentis caput desinentibus: de quo pluribus supra.
+In sexta, homo stans, capite volucris, radiato corpore, baculum manu dextera tenens: quae figura non insolita est in lapillis & gemmis.
+In septima, caput Jobis Serapidis, qui in Basilidianorum lapillis frequentissime repraesentatur, interdum solus, nonnumquam cum aliis figuris.
+In octava, mulier decumbens, quam figuram numquam alias inter Basilidianorum symbola vidi.
+In nona, insectum animal, ex variis insectis compositum: qualia multa comparent in gemmis Abraxaeis.
+In decima, rana, quod animal mirum quantum celebretur apud Basilidianos; ita ut homines ritu venerantium in conspectu ranae depingantur.
+In undecima, avis quaedam, anseri non absimilis.
+In duodecima, mulier, velo stellis consperso caput obvelans, quae est figura noctis: eam quidem in Basilidianorum gemmis & symbolis numquam vidimus; sed constat certissimumque est, hoc schemate noctem significari, ut supra Libro primo, capite primo videas.
+
   <a href="https://www.flickr.com/photos/ryanfb/15819114318" title="Palaeographia_Graeca_plate_p181 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7538/15819114318_dd367e695e.jpg" width="342" height="500" alt="Palaeographia_Graeca_plate_p181"></a>
 * Philippo Bonanni, [*Musaeum Kircherianum sive Musaeum a p. Athanasio Kirchero in Collegio Romano Societatis Jesu*. Rome: Typis Georgii Plachi, 1709.](http://books.google.com/books?id=HMgTPtUZEJAC) p. 180.
 
