@@ -142,4 +142,6 @@ I then ran `untrunc` against the new file, and it worked!
 
 The resulting `MAH00094-header.MP4_fixed.mp4` could play in most players and had basically perfect video. Unfortunately, the video cuts off right before the juicy bit where the camera fell off my bike. I suspect this is because the battery was also ejected from the camera at some point, and the camera didn't get a chance to flush those frames/writes to the SD card before there was power loss.
 
+### Footnotes
+
 [^1]: `untrunc` originally gave me the following error during compilation: `track.cpp:217:8: error: use of undeclared identifier 'avcodec_open'`

@@ -45,6 +45,8 @@ I'm going to assume you have a non-OCR'd PDF you want to convert into a searchab
 
 Now `merged.pdf` should contain your searchable, OCR'd PDF. I've also wrapped this workflow up into [a script](https://gist.github.com/ryanfb/f792ce839c8f26e972cf).
 
+### Footnotes
+
 [^gotchas]: A sampling of the various ways in which Tesseract/Leptonica is picky in its TIFF handling: `Error in pixConvertRGBToGray: pixs not 32 bpp`, `Error in pixReadFromTiffStream: spp not in set`, `Error in pixReadStreamTiff: pix not read`, `Error in pixReadTiff: pix not read`, `Error in pixRead: pix not read`, `Error in findTiffCompression: function not present`, `Error in pixReadStream: Unknown format: no pix returned`, `Error in pixReadStream: tiff: no pix returned`, `Unsupported image type.`
 [^lang]: If your document isn't in English, pass the `-l tla` flag as the first argument to `tesseract`. See the `LANGUAGES` section of [`man tesseract`](https://tesseract-ocr.googlecode.com/svn/trunk/doc/tesseract.1.html). You can also install and use your own training data, for example, for [Ancient Greek](http://ancientgreekocr.org/).
 [^merging]:

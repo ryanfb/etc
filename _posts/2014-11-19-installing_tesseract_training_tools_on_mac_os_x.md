@@ -39,4 +39,6 @@ You should now be able to do e.g.:
 
 Note that `fontconfig` font locations and caching are a whole other nightmare, and I seem unable to get `text2image` to respect/use the `--fonts_dir` argument on OS X. Your best bet seems to be to install things as system/user fonts (e.g. copy into `~/Library/Fonts`) and optionally run `fc-cache -frv` to force a cache update.
 
+### Footnotes
+
 [^scrollview]: Googling these problems lead to [this unresolved thread on the tesseract-ocr mailing list](https://groups.google.com/forum/#!topic/tesseract-ocr/wdTWg7Qkb_g), where I've actually copied the error example from as mine is now lost to the great scrollbuffer in the sky.
