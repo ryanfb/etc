@@ -134,6 +134,7 @@ Bibliography (Kircher & the Kircherian)
 Collected here are works I've consulted in my research which are by or about Kircher or the Kircherian museum, which contain no apparent reference to the object(s) at hand. See also [Athanasius Kircher at Standford](http://web.stanford.edu/group/kircher/cgi-bin/site/?page_id=15) and the more comprehensive [bibliography](http://www.holeroessler.de/kircher_bib.html) and [online works of Kircher](http://www.holeroessler.de/kircher_online.html) published by Hole Rößler.[^rossler]
 
 * Paula Findlen, ed. *Athanasius Kircher: The Last Man Who Knew Everything*. New York: Routledge, 2004.
+* Rosanna Friggeri. *The Epigraphic Collection of the Museo Nazionale Romano at the Baths of Diocletian*. Milano: Electa, 2004.
 * ? Joscelyn Godwin. *Athanasius Kircher: A Renaissance man and the quest for lost knowledge*. London: Thames and Hudson, 1979.
 * Joscelyn Godwin. *Athanasius Kircher’s Theatre of the World: The Life and Work of the Last Man to Search for Universal Knowledge*. Rochester, Vt.: Inner Traditions, 2009.
 * Nathalie Lallemand-Buyssens. *Les acquisitions d’Athanasius Kircher au musée du Collège Romain à la lumière de documents inédit*. Storia dell'arte 133, 2012. p. 107-129.
