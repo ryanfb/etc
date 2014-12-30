@@ -19,7 +19,7 @@ layout: null
                         	<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         {% if post.external_url %}
         <link>{{ post.external_url | escape }}</link>
-        <guir isPermaLink="true">{{ post.external_url | escape }}</guid>
+        <guid isPermaLink="true">{{ post.external_url | escape }}</guid>
         {% else %}
         <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
