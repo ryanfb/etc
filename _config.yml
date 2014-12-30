@@ -11,3 +11,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+name: Ryan Baumann - /etc
+description: blog, wiki, miscellany, et cetera
+url: https://ryanfb.github.io
