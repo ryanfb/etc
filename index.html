@@ -6,7 +6,11 @@ title: index
 <div id="content">
   {% for post in site.posts %}
     <div class="post hentry">
+      {% if post.external_url %}
+      <h2 id="post-{{ post.wordpress_id }}" class="entry-title">☛ <a href="{{ post.external_url }}">{{ post.title }}</a></h2>
+      {% else %}
       <h2 id="post-{{ post.wordpress_id }}" class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
