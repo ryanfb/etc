@@ -30,30 +30,19 @@ The provenance on the placard is also mysterious: "Origin unknown, already in th
 
 Apparently over the ages the collection was dissolved and reabsorbed into various other collections. The rough timeline seems to be that this object remained[^remained] in the Museo Kircheriano at the Collegio Romano[^helbig] until its ultimate division in 1913,[^kircherian1913] ending up in its present location. Where, when, how, and even in what form it came into the Kircherian is debatable.
 
-In an 1896 guide to the public collections of classical antiquities in Rome[^helbig] (originally published in German in 1891),[^fuhrer] this object was described as being on the bottom shelf of cabinet three in room one of the Kircherian as follows: [^leaden]
-
-Chasing down this citation will lead us to some others, and begins to confound the relatively simple story given so far ("*the source of this book is not quite clear*"). Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878, p. 63-79: [^trnote]
-
-
-Wait, what? In case you missed that, Ruggiero is saying there are, in fact, potentially three different Basilidian lead codices:
+Chasing down publications about this object has proven difficult and confusing, as there are (or were), potentially three different but superficially similar Basilidian lead codices which seem to have appeared in Rome around the same time:
 
  * the one currently preserved in the museum
- * a different one published by Phillippo Bonanni, mentioned in his 1709 catalog of the museum, but "vanished" or replaced with the first
- * a still different one purchased in Rome by [Bernard de Montfaucon](https://en.wikipedia.org/wiki/Bernard_de_Montfaucon) in 1699 then donated to [Cardinal de Bouillon](https://en.wikipedia.org/wiki/Cardinal_de_Bouillon)
+ * a different one published by Phillippo Bonanni, mentioned in his 1709 catalog of the museum, but "vanished" or replaced with the present one sometime before 1837
+ * a still different one purchased in Rome by [Bernard de Montfaucon](https://en.wikipedia.org/wiki/Bernard_de_Montfaucon) in 1699 then donated to [Cardinal de Bouillon](https://en.wikipedia.org/wiki/Cardinal_de_Bouillon), which also vanished sometime before 1828
 
-Let's first take a look at what Bonanni has to say in his 1709 catalog of the Kircherian: [^bonanni]
+Out of all the publications relating to these objects, Bonanni is the only one who seems to give any sort of potential provenance information ("*Fuit hic plumbeus liber repertus in antiquo Sarcophago, in quo cineres demortui fuerant inclusi. Constat autem ex pluribus monumentis, ab Aethnicis praecipuè Aegyptiis non rarò in sepulchris aliqua deposita fuisse*").
 
-This appears to be the first mention of a metal codex in relation to the Kircherian museum, and notably, Bonanni here is the only one who seems to give any sort of potential provenance information (*Fuit hic plumbeus liber repertus in antiquo Sarcophago, in quo cineres demortui fuerant inclusi. Constat autem ex pluribus monumentis, ab Aethnicis praecipuè Aegyptiis non rarò in sepulchris aliqua deposita fuisse*).
+What I propose to set forth in this post is a chronological bibliography of everything I've found relating to these three lead codices, providing transcriptions of the original texts and my own efforts at English translation where applicable. My hope is that collecting this material will enable further scholarship in a neglected and apparently obscure area. Many of the sources I came across in my research note casually that Bonanni (and Contucci) considerably expanded the collection of antiquities in the Kircherian museum, and the provenance of many of these objects (now dispersed and displayed in other museums) is presumably similarly difficult to trace. Thus it seems to me that a useful project for an ambitious researcher interested in these matters would be to try to locate correspondence, Jesuit archives, or other unedited manuscripts related to these curators and edit them on the model of Alberto Bartola's *Alle Origini del Museo del Collegio Romano* and Nathalie Lallemand-Buyssens' *Les acquisitions d’Athanasius Kircher au musée du Collège Romain à la lumière de documents inédit*. The two sources mined by these articles are the Apostolica Pontificia Universita Gregoriana, Rome (APUG) and Archivum Romanum Societatis Iesu (ARSI), respectively, and given the size of these archives there still may be relevant material yet to be discovered.
 
-Now Montfaucon, 1699:
+Lallemand-Buyssens also notes the difficulty of figuring out when a particular object entered or left the museum as constituted at any particular point in time, and that many of the catalogs are not (and do not claim to be) comprehensive. However, given Kircher's interest in and voluminous writing on other gnostic artifacts in the museum, and the fact that this artifact goes unmentioned by him in any work that I can find (perhaps it was in his lost *Etruscan Journey*?), as well as its absence from the items mentioned by Bonanni as remaining in the museum as it stood in 1698 (as described in his 1716 *Notizie circa la Galleria del Collegio Romano*, an edition of which can be found in Appendix III of Bartola), I think it is safe to assume that at least the artifact published by Bonanni in 1709 was acquired by Bonanni. That artifact's replacement with the current one may be another story entirely, and one which has apparently confounded many.
 
-[Giuseppe Brunati](https://it.wikipedia.org/wiki/Giuseppe_Brunati) "already noticed in 1838 this replacement":
-
-The curious Montfaucon/Bouillon connection gave me another foothold to search for, turning up CW King's incredibly helpful [*The Gnostics and their Remains*](http://www.sacred-texts.com/gno/gar/): [^king]
-
-
-
-The Matter work referred to here is [Jacques Matter, *Une excursion gnostique en Italie*, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
+I also note that no *Thecam plumbeam* or similar such object is explicitly mentioned in Bonanni's undated *Breve notizia del ripartimento e delle cose conservate nel Museo del Collegio Romano eretto l’anno 1699*, believed by Bartola to have been written in the first decade of the 18th century (APUG 35 VII (g), published in Bartola's Appendix IV), though many of the categories of objects listed are broad and vague (for example, one could imagine it falling under *"libri di varie lingue"* or even perhaps *"urne varie sepolcrali ed inscrizzioni"*).
 
 Chronological Bibliography
 --------------------------
@@ -96,6 +85,9 @@ Hic porro notandum est, Basilidianos, ut ad solis cursum, quem in religione pone
 
   <a href="https://www.flickr.com/photos/ryanfb/15097877794" title="montfaucon1722b_259 by Ryan Baumann, on Flickr"><img src="https://farm4.staticflickr.com/3945/15097877794_db9ec43451.jpg" width="289" height="500" alt="montfaucon1722b_259"></a> <a href="https://www.flickr.com/photos/ryanfb/15098449213" title="montfaucon1722b_261 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7560/15098449213_c7d618df61.jpg" width="289" height="500" alt="montfaucon1722b_261"></a>
 * Jacques Matter, [*Histoire critique du gnosticisme,: et de son influence sur les sectes religieuses et philosophiques des 6 premiers siècles*, Vol. 3. Paris: Levrault, 1828](https://books.google.com/books?id=-KQPAAAAQAAJ). p. 80.
+
+[Planche VI.] Figures 7 et 8. Deux variétés de ma même espèce, que nos plaçons l'une à côté de l'autre, afin de faire voir la latitude que se donnaient des gnostiques, essentiellement indépendans, tout en reproduisant le même monument.
+
 * Giuseppe Brunati, *Musei Kircheriani inscriptiones ethnicae et christianae*, 1837. p. 122.
 * Jacques Matter, [*Une excursion gnostique en Italie*. Strasbourg, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
 
