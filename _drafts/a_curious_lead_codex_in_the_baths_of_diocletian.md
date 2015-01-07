@@ -107,6 +107,10 @@ Chronological Bibliography
 * Jacques Matter, [*Histoire critique du gnosticisme,: et de son influence sur les sectes religieuses et philosophiques des 6 premiers siècles*, Vol. 3. Paris: Levrault, 1828](https://books.google.com/books?id=-KQPAAAAQAAJ). p. 80.
 
 [Planche VI.] Figures 7 et 8. Deux variétés de ma même espèce, que nos plaçons l'une à côté de l'autre, afin de faire voir la latitude que se donnaient des gnostiques, essentiellement indépendans, tout en reproduisant le même monument.
+Le premier de ces monumens est un *plomb*, que possède M. Creuzer, qui a bien voulu nous en donner un dessin. Ce qui en constitue la rareté, c'est qu'il est en métal, tandis que la plupart des monumens gnostiques sont en pierre. Je n'en ai pas vu d'autre en métal. Il est vrai que Montfaucon mentionne et décrit un *livre de plomb*, qu'il attribue aux basilidiens et qu'il explique d'une manière très-ingénieuse;[^histoirefn1] mais l'exécution de ce monument est si grossière, si excessivement barbare, qu'il ne peut dater que d'une époque de décadence, qui le met en dehors de la cause gnostique.[^histoirefn2]
+
+[^histoirefn1]: Matter's footnote: Anitiquité expliquée, tome II, p. 380.
+[^histoirefn2]: Matter's footnote: *Il n'en est pas moins à regretter que ce monument, donné par Montfaucon au cardinal de Bouillon, ait disparu au point qu'on n'en connait plus de trace.* ("It is nevertheless regrettable that this monument given by Montfaucon Cardinal de Bouillon, disappeared to the point that nobody knows a single trace.")
 
 * Giuseppe Brunati, *Musei Kircheriani inscriptiones ethnicae et christianae*, 1837. p. 122.
 * Jacques Matter, [*Une excursion gnostique en Italie*. Strasbourg, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
