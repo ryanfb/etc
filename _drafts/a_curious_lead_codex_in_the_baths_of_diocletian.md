@@ -124,29 +124,29 @@ De Mus. Kirch. Libello
 Basilidiano Plumbeo Opistographo Dissertatiuncula
 
 De libello disseram plumbeo Basilidiano, qui septem constans aeneis pagellis ex utraque parte scriptis figurisque anaglyptis in fastigio insignitis, atque operculo figuris ornato protectus, in Museo Kercheriano servatur. Utinam vero authenticus sit.
-Libellus iste diversus est ab alio pariter olim Kircheriano edito a Bonannio (1), et exinde a Montfaucon (2): eoque magis differt ab alio hujus generis libello edito a Montfauconio ipso (3).
+Libellus iste diversus est ab alio pariter olim Kircheriano edito a Bonannio,[^brunatifn1] et exinde a Montfaucon:[^brunatifn2] eoque magis differt ab alio hujus generis libello edito a Montfauconio ipso.[^brunatifn3]
 Septem quidem tabellis, uti hodiernus Kircherianus libellus, sic et alius editus a Bonannio constabat, eratque et ipse operculo, figuris anaglyptis ex utraque parte insignito protectus, forma item litterarum, atque stylus figurarum variis in tabellis idem erat. Ast non eadem litterarum disposito, non eadem repraesentationes: unde quod duo sint libelli, non unus, clare patet. Tantum suspicio oritur, quod quidam, abrepto sincero veteri libello, alium fraudolenter substituerit.
 Alius huiusmodi libellus a Montfaucon unice, quod noverim, editus, a duobus Kircherianis mox descriptis, et numero paginarum, quae sex tantum sunt, et scripturae ratione quae in quatuor tantum paginis, et in una tantum, non in utraque earum, facie est, diversus. Ast consonat omnino litterarum forma, et figurarum, quibus tabellae insignitae sunt, stylus. Forsitan vero iste Montfauconii libellus una pagella deficiens erat.
 Ex omnibus dictis argui potest, quod tres libelli (supposito genuino et hodierno Kircheriano) ex eadem officina eodemque tempore prodierint, atque eodem systhemate fuerint consarcinati.
 
-(1) Mus. Kirch
-(2) Antiq. Expl. T. II, p. 380
-(3) Op. cit. et Palaeogr. Gr. p. 180t
+[^brunatifn1]: Brunati's footnote: Mus. Kirch
+[^brunatifn2]: Brunati's footnote: Antiq. Expl. T. II, p. 380
+[^brunatifn3]: Brunati's footnote: Op. cit. et Palaeogr. Gr. p. 180t
 
-Hisce praepositis, si Nonnum Panopolitanum (1) de quodam septem paginarum libello disserentem audimus, tres supra descriptos libellos fatalitios fuisse vel talismanicos faciliter argumentari possumus. Ad quam rem exponendam etiam Taciti (2) verba erunt non inutiliter advocanda. Scribebat enim ipse: “Reperiebantur . . . . carmina et devotiones et nomen Germanici plumbeis tabellis insculptum, semiusti cineres ac tabe obliti, aliaque maleficia, quis (pro queis aut quibus) creditur numinibus infernis sacrari."
-Nedum vero impie, sed etiam stulte Dupuis (3) confert libellum, de quo disseruit Nonnus, oum libro “septem sigillis” munito quem S. Joannes (4) describit. Praeter quam quod enim “septem sigilla” non idem sunt ac “septem pagellae”, omnia etiam alia discordant. Sed Depuisii phantasiae insaniendo assuetae, ingenioque dissonantia ac toto coelo differentia componendo facili, discrepantiae hujusmodi se se non offerebant. De hac re agam et alibi (5).
-Nonni Dionysiaci fatalitius liber, atque tres plumbei superius descripti libelli, differunt a “tabulus coeli”, de quibus quidam veteres loquuntur, puta Philostratus (6), Plotinus (7), et Origenes (8). “Tabulae coeli” enim non erant nisi coeli ipsi, sive stellae et planetae, in quibus hominum fata legi dictitabant astrologi.
+Hisce praepositis, si Nonnum Panopolitanum[^brunatifn4] de quodam septem paginarum libello disserentem audimus, tres supra descriptos libellos fatalitios fuisse vel talismanicos faciliter argumentari possumus. Ad quam rem exponendam etiam Taciti[^brunatifn5] verba erunt non inutiliter advocanda. Scribebat enim ipse: “Reperiebantur . . . . carmina et devotiones et nomen Germanici plumbeis tabellis insculptum, semiusti cineres ac tabe obliti, aliaque maleficia, quis (pro queis aut quibus) creditur numinibus infernis sacrari."
+Nedum vero impie, sed etiam stulte Dupuis[^brunatifn6] confert libellum, de quo disseruit Nonnus, oum libro “septem sigillis” munito quem S. Joannes[^brunatifn7] describit. Praeter quam quod enim “septem sigilla” non idem sunt ac “septem pagellae”, omnia etiam alia discordant. Sed Depuisii phantasiae insaniendo assuetae, ingenioque dissonantia ac toto coelo differentia componendo facili, discrepantiae hujusmodi se se non offerebant. De hac re agam et alibi.[^brunatifn8]
+Nonni Dionysiaci fatalitius liber, atque tres plumbei superius descripti libelli, differunt a “tabulus coeli”, de quibus quidam veteres loquuntur, puta Philostratus,[^brunatifn9] Plotinus,[^brunatifn10] et Origenes.[^brunatifn11] “Tabulae coeli” enim non erant nisi coeli ipsi, sive stellae et planetae, in quibus hominum fata legi dictitabant astrologi.
 Ut auctores et tempus trium libellorum plumbeorum aliquomodo innotescat, animadvertendum est ad litteras etruscas, quas in ipsis cum litteris graccis, et signis astrologicis seu litteris quibusdam Aegyptiacis commixtas intuemur: exunde deduci poterit libellos hujusmodi scriptos in Etruria fuisse, uti aestimabat Montfaucon, atque secundo vel tertio forsitan saeculo. In Etruria porro, litterae graecae, signa illa astrologica a veteribus Aegyptiorum schematibus desumpta, atque Etruriae ipsius veteres litterae, notae adhuc illo tempore, saltem doctis, erant.
 Ex aliis rebus animadversis collatisque Montfauconius idem non sine veritatis specie arguebat, quod auctores libellorum illorum Gnostici fuerint sive Basilidiani in Etruria degentes. Porro
 
-(1) Dionysiaca L. XLI, vv. 340-353
-(2) Ann. L. II, N. 69
-(3) Origine de touse les cultes T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795
-(4) Apoc. V, I
-(5) Archaeol Bibl. P. I, c. III. S 36, 37
-(6) Vita Apollonii L. III, c. 13
-(7) Enn. II, lib. 3, c. 6; et Enn. III, lib. I, c. 6
-(8) Comment. in Gen. S IX, pag. 14. Opp. edit. Maur. T. II
+[^brunatifn4]: Brunati's footnote: Dionysiaca L. XLI, vv. 340-353
+[^brunatifn5]: Brunati's footnote: Ann. L. II, N. 69
+[^brunatifn6]: Brunati's footnote: Origine de touse les cultes T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795
+[^brunatifn7]: Brunati's footnote: Apoc. V, I
+[^brunatifn8]: Brunati's footnote: Archaeol Bibl. P. I, c. III. S 36, 37
+[^brunatifn9]: Brunati's footnote: Vita Apollonii L. III, c. 13
+[^brunatifn10]: Brunati's footnote: Enn. II, lib. 3, c. 6; et Enn. III, lib. I, c. 6
+[^brunatifn11]: Brunati's footnote: Comment. in Gen. S IX, pag. 14. Opp. edit. Maur. T. II
 
 Basilidiani has litterarum uniones, quorum systhama nobis adhuc omnimode fere latet, suis in documentis, quorum innumera extant edita et inedita, diligebant. Ab illius autem temporis sive saeculi secundi aut tertii stylo in libellis, de quibus agimus, litterarum graecarum atque etruscarum forma non dissonat.
 Basilidianum fuisse et scriptorem illum Tyrrhenum sive Etruscum, ex cujus libro “de Cosmogenia” fragmentum attulit Svidas (V. Τυρρηνια), ex nonnullis argumentis ipse arguo (1).
