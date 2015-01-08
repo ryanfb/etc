@@ -5,7 +5,6 @@ baseurl: /etc
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-last-modified-at
 defaults:
   -
     scope:
