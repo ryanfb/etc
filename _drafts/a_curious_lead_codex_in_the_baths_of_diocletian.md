@@ -118,7 +118,7 @@ Chronological Bibliography
 [^histoirefn2]: Matter's footnote: *Il n'en est pas moins à regretter que ce monument, donné par Montfaucon au cardinal de Bouillon, ait disparu au point qu'on n'en connait plus de trace.* ("It is nevertheless regrettable that this monument given by Montfaucon to Cardinal de Bouillon, disappeared to the point that nobody knows a single trace.")
 [^histoirefn3]: Matter's footnote: Chiflet, fig. 15. Gorlée, pl. II, fig. 342 et 343. Kircher, p. 461.
 
-* <a name="brunati1837"></a>Giuseppe Brunati, *Musei Kircheriani inscriptiones ethnicae et christianae*, 1837. p. 122.
+* <a name="brunati1837"></a>Giuseppe Brunati, [*Musei Kircheriani inscriptiones ethnicae et christianae*, 1837. p. 122.](http://books.google.com/books?id=VLblWggfKFcC&pg=PT115#v=onepage&q&f=false)
 
   > De Mus. Kirch. Libello
   > Basilidiano Plumbeo Opistographo Dissertatiuncula
