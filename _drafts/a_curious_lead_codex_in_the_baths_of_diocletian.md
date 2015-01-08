@@ -201,11 +201,11 @@ Chronological Bibliography
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15384439074" title="matter_pl4 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7537/15384439074_a26e0cc702.jpg" width="500" height="342" alt="matter_pl4"></a>
   >
-  > The second sheet has on the front, a character in a long dress in contemplative adoration before a bird; on the back, a non clad character in front of a small quadruped mummy-shaped (pl. IV).
+  > The second sheet has on the front, a character in a long dress in contemplative adoration before a bird; on the back, a naked character in front of a small mummy-like quadruped (pl. IV).
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15819302968" title="matter_pl5 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7566/15819302968_8073cd438f.jpg" width="500" height="342" alt="matter_pl5"></a>
   >
-  > (Pl. V) The third sheet shows a turtle with deference contemplated by a man cleared in my drawing; and on the reverse a high character in a column, gazing into heaven, loved by a woman.
+  > (Pl. V) The third sheet shows a turtle contemplated with reverence by a man erased in my drawing; and on the reverse a person elavted on a column, eyes fixed to heaven, adored by a woman.
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15384439034" title="matter_pl6 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7541/15384439034_e0f0b2975f.jpg" width="500" height="342" alt="matter_pl6"></a>
   >
