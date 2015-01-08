@@ -209,8 +209,8 @@ Chronological Bibliography
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15384439034" title="matter_pl6 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7541/15384439034_e0f0b2975f.jpg" width="500" height="342" alt="matter_pl6"></a>
   >
-  > In the fourth sheet is found the head of frog out of a body that appears to include the earth, and followed or monitored by a traveler in a short cloak to head of Anubis (pl. VI) character known by other monuments .31
-  > The reverse shows a woman walking, leaning on a stick and received by a character in ornate dress and seems to invite him to move forward.
+  > In the fourth sheet is found the head of a frog, out of a body that appears to be included in the earth, and followed or monitored by a traveler in a short cloak, with a head of Anubis (pl. VI), a character known from other monuments.[^excursionfn2]
+  > The reverse shows a woman walking, leaning on a stick and received by a character in ornate dress who seems to invite her to move forward.
   >
   > <a href="https://www.flickr.com/photos/ryanfb/16004735511" title="matter_pl7 by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8654/16004735511_2b178385a4.jpg" width="500" height="342" alt="matter_pl7"></a>
   >
