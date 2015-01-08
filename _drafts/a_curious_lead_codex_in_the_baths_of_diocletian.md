@@ -155,6 +155,9 @@ Chronological Bibliography
 
 * <a name="matter1852"></a>Jacques Matter, [*Une excursion gnostique en Italie*. Strasbourg, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
 
+En attendant le rétablissement de la collection des abraxas du Vatican, celle du Collegio romano, anciennement dite *Museum Kircherianum*, est la seule qui soit publique.
+Elle se compose: 1.° de onze pierres gravées; 2.° d’un clou en fer; 3.° d’une *phalera romana* en agate saphirine, du temps des Antonins, et sur laquelle on retrouve les mots: *Michael, Raphael, Ouriel, Sabaoth, Abrasax, Emanouel*; 4.° d’une lamelle d’argent chargée d’une inscription; 5.° de sept lamelles de plomb qui forment un ensemble ou un cycle de représentations et d’inscriptions.
+
   <iframe src="https://www.flickr.com/photos/ryanfb/15980925046/in/set-72157649314034327/player/" width="100%" height="466" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 * <a name="ruggiero1878"></a>Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878. p. 63-79.
 
