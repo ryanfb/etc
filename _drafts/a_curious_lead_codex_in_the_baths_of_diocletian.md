@@ -241,7 +241,7 @@ Bibliography (Bonanni)
 [^brunatifn11]: Brunati's footnote: *Comment. in Gen.* S IX, pag. 14. Opp. edit. Maur. T. II
 [^brunatifn12]: Brunati's footnote: *Archaeol. Bibl.* P. I, c. II, n. 18
 [^brunatifn13]: Brunati's footnote: L. IX, c. 31.
-[^brunatifn14]: Brunati's footnote: *Ner.* c. 20.
+[^brunatifn14]: Brunati's footnote: [*Ner.* c. 20.](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D20)
 [^brunatifn15]: Brunati's footnote: *Stratag.* L. III, c. 13, n. 7
 [^brunatifn16]: Brunati's footnote: L. XLVI
 [^brunatifn17]: Brunati's footnote: L. XIII, c. XI
