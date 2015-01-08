@@ -192,15 +192,36 @@ Chronological Bibliography
   > Indeed of lead plates, one cites the two booklets which Montfaucon speaks of in a relatively inexact manner in his [Paléographie grecque (p. 182)](#montfaucon1708) and in his [Antiquité expliquée (t.IV, p. 379)](#montfaucon1722). Of these booklets, one that had fallen into his hands in Rome and which he gave to the Cardinal de Bouillon, who died in Rome in 1715, in disgrace and in a disruption of fortune, has disappeared, no one knows where it can be found. The other is precisely that of which I speak and which Montfaucon ensures Buonanni published in his [Musaeum Kircherianum](#bonanni1709), the figure of two leaves and the cover. But there is here a singular error. From all that has been published by Buonanni and what Montfaucon reproduced, nothing resembles the seven sheets that I had in my hands, I copied and compared more than once with the designs of these two scholars. First, two sheets published by them give figures which are not found on those of the [Kircherian]. Then they give at the bottom of these figures four lines of inscriptions, while the leaves I copied always have five. Thus, these inscriptions are not the same. Finally, my seven sheets do not have a cover as far as I know, and have never been engaged in a hinge. So I can positively say that the publication of these two antiques, whether authentic or correct, I do not judge, is not at all that of these seven lead sheets which I had by the kindness of rev. P. Marchi. But I must add that the figures and characters have great similarities with those of the twelve drawings of the monument given by Montfaucon to Cardinal Bouillon and published by the famous archaeologist.
   > However, there are also major differences between the two kinds of inscriptions and figures; see my boards III to IX, where I have published the seven leaves.
   > At first sight, I first saw a monument of ancient and true Gnosticism in the seven subject slats and do not form a booklet, but are so perfectly preserved as few strokes as you escape, though there are of badly executed. Later, I'm a little income from this opinion, but it is no less to be desired that it be done further study. The complete interpretation of these singular sheets probably give a new interest in the history of religious syncretism, if not the first centuries of our era, at least for a time a little later. At least, if the work belongs to a gnostic school, is one of those who are most distant from the purity and the cradle of Christianity. One notices a series of symbols that are not found on other Gnostic monuments. Many of the figures seem to recall others or offer an analogy with them, it is true; All, however, have their own character and seem to make a new order of monuments.
-  > Indeed, we see here a symoblisme so new that it relates only by a few points that we recognize for Gnostic.
+  > Indeed, we see here a symoblism so new that it relates by only a few points to that which we recognize for Gnostic.
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15819442900" title="matter_pl3 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7576/15819442900_1825c4ab37.jpg" width="500" height="342" alt="matter_pl3"></a>
+  >
   > The first sheet (Pl. III) has two characters, one without clothes and the other dressed in short, a trident on the shoulder and welcoming the first with a gesture of surprise. The inscription placed beneath the stage, put probably the meaning of the reach of insiders. Made in Greek, Latin and Etruscan characters, and offering more consonants than vowels, for us it is unintelligible.
   > On the reverse side of the sheet is seen a species of palm tree-shaped globe and next double garland carried by a rod topped with wings. It looks like the symbols of glory and rise reserved for those who resolutely undertake and complete with courage the career of trials and struggles of life on earth.
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15384439074" title="matter_pl4 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7537/15384439074_a26e0cc702.jpg" width="500" height="342" alt="matter_pl4"></a>
+  >
   > The second sheet has on the front, a character in a long dress in contemplative adoration before a bird; on the back, a non clad character in front of a small quadruped mummy-shaped (pl. IV).
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15819302968" title="matter_pl5 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7566/15819302968_8073cd438f.jpg" width="500" height="342" alt="matter_pl5"></a>
+  >
   > (Pl. V) The third sheet shows a turtle with deference contemplated by a man cleared in my drawing; and on the reverse a high character in a column, gazing into heaven, loved by a woman.
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15384439034" title="matter_pl6 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7541/15384439034_e0f0b2975f.jpg" width="500" height="342" alt="matter_pl6"></a>
+  >
   > In the fourth sheet is found the head of frog out of a body that appears to include the earth, and followed or monitored by a traveler in a short cloak to head of Anubis (pl. VI) character known by other monuments .31
   > The reverse shows a woman walking, leaning on a stick and received by a character in ornate dress and seems to invite him to move forward.
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/16004735511" title="matter_pl7 by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8654/16004735511_2b178385a4.jpg" width="500" height="342" alt="matter_pl7"></a>
+  >
   > Following the fifth slip a man who has to Abraxas, having a lion's head, an object or only symbol shown on the reverse and a frog (emblem of some métempsychologique theory) in front of a serpent, which is the emblem engineering Agathodaemon. Below the first of two scenes distinctly reads the word Jao (pl. VII).
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15387074573" title="matter_pl8 by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8606/15387074573_5634fd5b5a.jpg" width="500" height="342" alt="matter_pl8"></a>
+  >
   > In the sixth leaflet, a character whose bust is removed, is in front of a winged sea monster, and seems to soothe a present he holds in his hand. The reverse shows a small figure of a grotesque gravity, head of modii decorated, and further, seemingly unrelated, a body mummy taking wing-shaped cross, above which sees a head, while that at the bottom reads χεφαλου word.
+  >
+  > <a href="https://www.flickr.com/photos/ryanfb/15980925046" title="matter_pl9 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7506/15980925046_fcb5b4f16f.jpg" width="500" height="342" alt="matter_pl9"></a>
+  >
   > Finally, the seventh sheet provides again a human character, half-dressed and half lying in front of a bird that looks advancing arms barely mentioned, and on the reverse an old head character rather young woman, holding his right arm a kind of scarf on her head and recalling his pose starry Night Greek monuments, with his left fairly well drawn bull in a few lines.
   > Below, in the inscription, sees global sign of Jupiter, and was the old man's head, the bat species on which is based the character flying scarf or coat, one is tempted to see the beautiful Europe.
   > As it stands, the explanation of these sheets is still bristling with difficulties such that we should not even try. Montfaucon, who saw in his six sheets twelve drawings or twelve scenes, terminated by a figure who seemed to be the night, saw the twelve hours of the day with incidents they seem to bring in the man's life. The scenes here are fourteen in number and do not lend themselves to the assumption of the twelve hours of the day, it is out of the question. I sent about some symbols assuming a representation on migration of souls and metempsychosis, favorite themes of artists of Gnosticism; but in its current state, this hypothesis is only one of those that are intended to provoke others, and this is also the reason I decided to publish my drawings in the present circumstances. I hope that they may be very favorable.
@@ -219,7 +240,6 @@ En fouillant le sol de la *Vigna Marini*, aboutissant à la *Via Appia*, sur la 
     En attendant, il y a déjà là toute une série de monuments à examiner, la mosaïque, le sarcophage principal, les petits sarcophages en marbre, ceux en terre cuite et les feuilles de plomb, auxquelles il peut s’en joindre d’autres pour en faciliter l’interprétation.
 Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j’aivivement regretté de ne pouvoir examiner la mosaïque; quoiqu’elle soit, au témoignage de juges aussi compétents que M. Griffi et M. Visconti,
 
-  <iframe src="https://www.flickr.com/photos/ryanfb/15980925046/in/set-72157649314034327/player/" width="100%" height="466" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 * <a name="ruggiero1878"></a>Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878. p. 63-79.
 
   > ***Libello basilidiano di piombo***
@@ -256,6 +276,11 @@ Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j
   > Each cover of this book bears a bust in relief in the centre, the front cover a veiled woman, the back cover a bearded man. Within the covers were seven very thin leaden leaves, originally fastened by a hinge but now exhibited separately. They are inscribed on both sides with an unintelligible series of Greek, Latin, and Italic letters, while in the upper third of each page are scratched two human or animal figures, or two symbols. The source of this book is not quite clear. The style and the writing are both very remarkable, but the article is held to be genuine and is believed to be a mystical book of the Basilidian Gnostics.
   > Comp. [*De Ruggiero*, Catalogo, pp. 63-79, No. 199](#ruggiero1878)
 * Angela Mayer-Deutsch, *Das Musaeum Kircherianum: Kontemplative Momente, historische Rekonstruktion, Bildrhetorik*. Zurich: Diaphanes, 2010. p. 142.
+
+Discussion
+----------
+
+This mere chronological presentation of the sources discussing these objects has probably given the reader a pretty good view of the confusions and contradictions that have arisen in trying to research this topic; first of all, half of the sources seem bent on misreading and misinterpreting that which came before them.
 
 Bibliography (Kircher & the Kircherian)
 ---------------------------------------
