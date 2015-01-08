@@ -169,10 +169,15 @@ Le premier feuillet (pl. III) présente deux personnages, l’un sans vêtement,
 Au revers du feuillet se voit une espèce de palmier en forme de globe et à côté une double guirlande portée par une tige garnie d’ailes. On dirait les symboles de la gloire et de l’élévation réservée à ceux qui entreprennent résolument et achèvent avec courage la carrière des épreuves et des combats de la vie terrestre.
 Le second feuillet offre, au *recto*, un personnage en robe longue en adoration contemplative devant un oiseau; au *verso*, un personnage non vêtu, en face d’un petit quadrupède en forme de momie (pl. IV).
 Le troisième feuillet (pl. V) montre une tortue contemplée avec déférence par un homme effacé dans mon dessin; et au revers un personnage élevé sur une colonne, les yeux fixés aux cieux, adoré par une femme.
-Au quatrième feuillet se retrouve la tête de grenouille, sortant d’un corps qui semble figurer la terre, et suivie ou surveillée par un voyageur en manteau
+Au quatrième feuillet se retrouve la tête de grenouille, sortant d’un corps qui semble figurer la terre, et suivie ou surveillée par un voyageur en manteau court, à tète d’Anubis (pl. VI), personnage connu par d’autres monuments.[^excursionfn2]
+Le revers nous montre une femme cheminant, appuyée sur un bâton et reçue par un personnage en robe ornée et qui semble l’inviter à avancer.
+Suit au feuillet cinquième un homme qui présente à l’Abraxas, ayant la tête de lion, un objet ou un symbole à peine indiqué et au revers une grenouille (emblème de quelque théorie métempsychologique), en face d’un serpent, qui est l’emblème du génie Agathodémon. Au—dessous de la première des deux scènes se lit distinctement le mot *Jao* (pl. VII).
+Au feuillet sixième, un personnage dont le buste est radié, se trouve en face d’un monstre marin ailé, et semble vouloir l’apaiser par un présent qu’il tient à la main. Le revers présente un petit personnage d'une grotesque gravité, la tête décorée du modius, et plus loin, sans rapport apparent, un corps-momie prenant des ailes en forme de croix, au-dessus de laquelle se voit une tête, tandis qu’au bas se lit le mot χεφαλου.
+Enfin, le septième feuillet offre de nouveau un personnage humain, mi-habillé et mi—couché, en face d’un oiseau qu’il regarde en avançant des bras à peine indiqués, et au revers un personnage à tête de vieillard plutôt que de jeune femme, retenant du bras droit une sorte d’écharpe sur sa tête et rappelant par sa pose la
 
 
-[^excursionfn1]: *Paleogr. critica*, t. IV, p. 388.
+[^excursionfn1]: Matter's footnote: *Paleogr. critica*, t. IV, p. 388.
+[^excursionfn2]: Matter's footnote: Entre autres par un des *Amuleti* de Florence.
 
   <iframe src="https://www.flickr.com/photos/ryanfb/15980925046/in/set-72157649314034327/player/" width="100%" height="466" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 * <a name="ruggiero1878"></a>Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878. p. 63-79.
