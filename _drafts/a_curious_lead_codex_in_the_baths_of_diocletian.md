@@ -129,9 +129,9 @@ Septem quidem tabellis, uti hodiernus Kircherianus libellus, sic et alius editus
 Alius huiusmodi libellus a Montfaucon unice, quod noverim, editus, a duobus Kircherianis mox descriptis, et numero paginarum, quae sex tantum sunt, et scripturae ratione quae in quatuor tantum paginis, et in una tantum, non in utraque earum, facie est, diversus. Ast consonat omnino litterarum forma, et figurarum, quibus tabellae insignitae sunt, stylus. Forsitan vero iste Montfauconii libellus una pagella deficiens erat.
 Ex omnibus dictis argui potest, quod tres libelli (supposito genuino et hodierno Kircheriano) ex eadem officina eodemque tempore prodierint, atque eodem systhemate fuerint consarcinati.
 
-[^brunatifn1]: Brunati's footnote: Mus. Kirch
-[^brunatifn2]: Brunati's footnote: Antiq. Expl. T. II, p. 380
-[^brunatifn3]: Brunati's footnote: Op. cit. et Palaeogr. Gr. p. 180t
+[^brunatifn1]: Brunati's footnote: *Mus. Kirch.*
+[^brunatifn2]: Brunati's footnote: *Antiq. Expl.* T. II, p. 380
+[^brunatifn3]: Brunati's footnote: *Op. cit.* et *Palaeogr. Gr.* p. 180t
 
 Hisce praepositis, si Nonnum Panopolitanum[^brunatifn4] de quodam septem paginarum libello disserentem audimus, tres supra descriptos libellos fatalitios fuisse vel talismanicos faciliter argumentari possumus. Ad quam rem exponendam etiam Taciti[^brunatifn5] verba erunt non inutiliter advocanda. Scribebat enim ipse: “Reperiebantur . . . . carmina et devotiones et nomen Germanici plumbeis tabellis insculptum, semiusti cineres ac tabe obliti, aliaque maleficia, quis (pro queis aut quibus) creditur numinibus infernis sacrari."
 Nedum vero impie, sed etiam stulte Dupuis[^brunatifn6] confert libellum, de quo disseruit Nonnus, oum libro “septem sigillis” munito quem S. Joannes[^brunatifn7] describit. Praeter quam quod enim “septem sigilla” non idem sunt ac “septem pagellae”, omnia etiam alia discordant. Sed Depuisii phantasiae insaniendo assuetae, ingenioque dissonantia ac toto coelo differentia componendo facili, discrepantiae hujusmodi se se non offerebant. De hac re agam et alibi.[^brunatifn8]
@@ -139,19 +139,27 @@ Nonni Dionysiaci fatalitius liber, atque tres plumbei superius descripti libelli
 Ut auctores et tempus trium libellorum plumbeorum aliquomodo innotescat, animadvertendum est ad litteras etruscas, quas in ipsis cum litteris graccis, et signis astrologicis seu litteris quibusdam Aegyptiacis commixtas intuemur: exunde deduci poterit libellos hujusmodi scriptos in Etruria fuisse, uti aestimabat Montfaucon, atque secundo vel tertio forsitan saeculo. In Etruria porro, litterae graecae, signa illa astrologica a veteribus Aegyptiorum schematibus desumpta, atque Etruriae ipsius veteres litterae, notae adhuc illo tempore, saltem doctis, erant.
 Ex aliis rebus animadversis collatisque Montfauconius idem non sine veritatis specie arguebat, quod auctores libellorum illorum Gnostici fuerint sive Basilidiani in Etruria degentes. Porro
 
-[^brunatifn4]: Brunati's footnote: Dionysiaca L. XLI, vv. 340-353
-[^brunatifn5]: Brunati's footnote: Ann. L. II, N. 69
-[^brunatifn6]: Brunati's footnote: Origine de touse les cultes T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795
+[^brunatifn4]: Brunati's footnote: *Dionysiaca* L. XLI, vv. 340-353
+[^brunatifn5]: Brunati's footnote: *Ann.* L. II, N. 69
+[^brunatifn6]: Brunati's footnote: *Origine de touse les cultes* T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795
 [^brunatifn7]: Brunati's footnote: Apoc. V, I
-[^brunatifn8]: Brunati's footnote: Archaeol Bibl. P. I, c. III. S 36, 37
-[^brunatifn9]: Brunati's footnote: Vita Apollonii L. III, c. 13
-[^brunatifn10]: Brunati's footnote: Enn. II, lib. 3, c. 6; et Enn. III, lib. I, c. 6
-[^brunatifn11]: Brunati's footnote: Comment. in Gen. S IX, pag. 14. Opp. edit. Maur. T. II
+[^brunatifn8]: Brunati's footnote: *Archaeol Bibl.* P. I, c. III. S 36, 37
+[^brunatifn9]: Brunati's footnote: *Vita Apollonii* L. III, c. 13
+[^brunatifn10]: Brunati's footnote: *Enn.* II, lib. 3, c. 6; et *Enn.* III, lib. I, c. 6
+[^brunatifn11]: Brunati's footnote: *Comment. in Gen.* S IX, pag. 14. Opp. edit. Maur. T. II
 
 Basilidiani has litterarum uniones, quorum systhama nobis adhuc omnimode fere latet, suis in documentis, quorum innumera extant edita et inedita, diligebant. Ab illius autem temporis sive saeculi secundi aut tertii stylo in libellis, de quibus agimus, litterarum graecarum atque etruscarum forma non dissonat.
-Basilidianum fuisse et scriptorem illum Tyrrhenum sive Etruscum, ex cujus libro “de Cosmogenia” fragmentum attulit Svidas (V. Τυρρηνια), ex nonnullis argumentis ipse arguo (1).
+Basilidianum fuisse et scriptorem illum Tyrrhenum sive Etruscum, ex cujus libro “de Cosmogenia” fragmentum attulit Svidas (V. Τυρρηνια), ex nonnullis argumentis ipse arguo.[^brunatifn12]
 Montfauconius adhuc conatus est exponere systhema figurarum quibus insignitus erat plumbeus ille libellus ab ipso, uti dixi, unice editus, putavitque in iis “horas” repraesentari. Ast videant docti, an ejus expositio probanda sit. Ego et quoad figuras et quoad litterarum Graecarum, Etruscarum, et Aegyptiarum, quibus ornati sunt omnes tres libelli, interpretationem, me “Davum” esse fatear.
-Usus autem plumbearum tabularum ad scripturam jam antiquitus erat apud populos Romano dominio subjectos aliosque, uti constat ex Pausania (2), ex Svetonio (3), ex Frontino (4), ex Dione (5), ex Plinio (6), atque ex Tacito (7). Sileo in hanc rem verba Job IX, 24, quia diverso modo, ac habet Vulgata, exponi poterunt ex originali textu.
+Usus autem plumbearum tabularum ad scripturam jam antiquitus erat apud populos Romano dominio subjectos aliosque, uti constat ex Pausania,[^brunatifn13] ex Svetonio,[^brunatifn14] ex Frontino,[^brunatifn15] ex Dione,[^brunatifn16] ex Plinio,[^brunatifn17] atque ex Tacito.[^brunatifn18] Sileo in hanc rem verba Job IX, 24, quia diverso modo, ac habet Vulgata, exponi poterunt ex originali textu.
+
+[^brunatifn12]: Brunati's footnote: *Archaeol. Bibl.* P. I, c. II, n. 18
+[^brunatifn13]: Brunati's footnote: L. IX, c. 31.
+[^brunatifn14]: Brunati's footnote: *Ner.* c. 20.
+[^brunatifn15]: Brunati's footnote: *Stratag.* L. III, c. 13, n. 7
+[^brunatifn16]: Brunati's footnote: L. XLVI
+[^brunatifn17]: Brunati's footnote: L. XIII, c. XI
+[^brunatifn18]: Brunati's footnote: Lib. II, N. 69.
 
 * Jacques Matter, [*Une excursion gnostique en Italie*. Strasbourg, 1852](http://books.google.com/books?id=_cQAAAAAcAAJ&dq=matter+%22une+excursion+gnostique+en+italie%22&source=gbs_navlinks_s).
 
