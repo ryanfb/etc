@@ -205,7 +205,7 @@ Chronological Bibliography
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15819302968" title="matter_pl5 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7566/15819302968_8073cd438f.jpg" width="500" height="342" alt="matter_pl5"></a>
   >
-  > (Pl. V) The third sheet shows a turtle contemplated with reverence by a man erased in my drawing; and on the reverse a person elavted on a column, eyes fixed to heaven, adored by a woman.
+  > (Pl. V) The third sheet shows a turtle contemplated with reverence by a man erased in my drawing; and on the reverse a person elevated on a column, eyes fixed to heaven, adored by a woman.
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15384439034" title="matter_pl6 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7541/15384439034_e0f0b2975f.jpg" width="500" height="342" alt="matter_pl6"></a>
   >
@@ -214,11 +214,11 @@ Chronological Bibliography
   >
   > <a href="https://www.flickr.com/photos/ryanfb/16004735511" title="matter_pl7 by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8654/16004735511_2b178385a4.jpg" width="500" height="342" alt="matter_pl7"></a>
   >
-  > Following the fifth slip a man who has to Abraxas, having a lion's head, an object or only symbol shown on the reverse and a frog (emblem of some métempsychologique theory) in front of a serpent, which is the emblem engineering Agathodaemon. Below the first of two scenes distinctly reads the word Jao (pl. VII).
+  > Now on the fifth leaf, a man who presents to Abraxas, having a lion's head, an object or just a symbol of pain indicated; and on the reverse a frog (emblem of some metapsychological theory) in front of a serpent, which is the emblem of the genie [Agathodaemon](http://en.wikipedia.org/wiki/Agathodaemon). Below the first of two scenes one distinctly reads the word *IAO* (pl. VII).
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15387074573" title="matter_pl8 by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8606/15387074573_5634fd5b5a.jpg" width="500" height="342" alt="matter_pl8"></a>
   >
-  > In the sixth leaflet, a character whose bust is removed, is in front of a winged sea monster, and seems to soothe a present he holds in his hand. The reverse shows a small figure of a grotesque gravity, head of modii decorated, and further, seemingly unrelated, a body mummy taking wing-shaped cross, above which sees a head, while that at the bottom reads χεφαλου word.
+  > In the sixth leaf, a character whose head is removed, who is in front of a winged sea monster, and seems to appease it with a present he holds in his hand. The reverse shows a small figure of a grotesque seriousness, the head decorated with a [modius](http://en.wikipedia.org/wiki/Modius_%28headdress%29), and further, seemingly unrelated, a mummy body making its wings in the shape of a cross, above which one sees a head, while at the bottom one reads the word χεφαλου.
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15980925046" title="matter_pl9 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7506/15980925046_fcb5b4f16f.jpg" width="500" height="342" alt="matter_pl9"></a>
   >
