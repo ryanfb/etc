@@ -114,7 +114,7 @@ Chronological Bibliography
   
   <a href="https://www.flickr.com/photos/ryanfb/16038189870" title="matter_histoire_planche_vi by Ryan Baumann, on Flickr"><img src="https://farm9.staticflickr.com/8666/16038189870_cb351c1799.jpg" width="340" height="500" alt="matter_histoire_planche_vi"></a>
 
-[^histoirefn1]: Matter's footnote: Anitiquité expliquée, tome II, p. 380.
+[^histoirefn1]: Matter's footnote: [Anitiquité expliquée, tome II, p. 380.](#montfaucon1722)
 [^histoirefn2]: Matter's footnote: *Il n'en est pas moins à regretter que ce monument, donné par Montfaucon au cardinal de Bouillon, ait disparu au point qu'on n'en connait plus de trace.* ("It is nevertheless regrettable that this monument given by Montfaucon to Cardinal de Bouillon, disappeared to the point that nobody knows a single trace.")
 [^histoirefn3]: Matter's footnote: Chiflet, fig. 15. Gorlée, pl. II, fig. 342 et 343. Kircher, p. 461.
 
@@ -143,8 +143,8 @@ Chronological Bibliography
   > Seven of the tablets in hand, to make use of today's Kircheriano little book, so is and the other is born from the Bonannio was evident, and it was he, and a lid, decorated with figures in relief on both sides, protected by, the form of the item of letters, and the style of the figures of the different parts of the tablets was the same thing. Yet it is not designed for the same letter, it is not the same representations: hence the fact that they are two of the book, it is not one of them, is clearly evident. Only the suspicion arises that some, overcome sincere writers, fraudulently substituted for another.
   > Another little book by Montfaucon the only of this kind, that he had known, was born, and soon Kircheriano described by two, and the number of pages which are only six, four, and only in the pages of the scriptures of the dimension, which, in the one and only, but not in both of them, because of the fact that the various . But the conclusion is consistent with the form of the letters at all, and the figures, endowed with all these documents are, style. Perhaps, however, this book is really Montfaucon with one page deficient.
   > Out of all what has been said it can be argued, that there are three little books (supposing today's Kircheriano is genuine) at the same time, from the same method, and the same system they are patched together.
-  > These officers if Nonni Panopolitani seven pages of a book to hear three petitions fatalities have been described above, or talismanic easily arguable. And to this the words of Tacitus, too, there will be not useless to the setting forth of the. He wrote, for he says himself, "could not understand. . . . incantations and spells, and the title of Germanicus engraved on the tablets of lead, ashes and gore semiusti have forgotten, and other horrors, a man (to whom or for whom) is believed to be the infernal deities. "
-  > Instead of the wicked, but also contributes foolishly Dupuis bill, of which he argued Nonveiller, mocking the "seals" shielded whom St. John describes. Besides the fact that, for the "seven seals," is not the same as the "seven pages", all other things are in disagreement. But Depuisii mad fantasies, used to temper the dissonance and totally different composition easily, such differences have not offered themselves. On this subject, I also in other places.
+  > In these above, if Nonnus of Panopolis of a certain seven page book heard arguments, that the three books described are curses or talismanic is easily arguable. And to this explanation the words of Tacitus, too, will be not useless to setting forth the argument. He wrote, for he says himself, "could not understand. . . . incantations and spells, and the title of Germanicus engraved on the tablets of lead, ashes and gore semiusti have forgotten, and other horrors, a man (to whom or for whom) is believed to be the infernal deities. "[^tacitus]
+  > Instead of the wicked, but also foolishly Dupuis[^brunatifn6] brought together books, of which he argued Nonnus, mocking the book of "seven seals" shielded which St. John describes. Besides the fact that, for the "seven seals," is not the same as the "seven pages", all other things are in disagreement. But Dupuis's usual mad fantasies, to temper the discrepancies and totally different composition easily, such differences have not offered themselves. On this subject, I too in other places.
   > Nonni Dionysiacorum irreproachable as a free man, as described above, a lead and the three little books, they differ from the "tables of heaven", they speak of some of them being the old, for instance, Philostratus, Plotinus and Origen. "Tables of the heavens," I do not, but for His Heaven, or the stars and planets, astrologers asserted that the law in which the fates of men.
   > As the authors and the lead time of three certificates in some places, we noted that the letters of the Etruscans, which in them with letters Graccha and astrological signs or letters mixed some Egyptian dearest STEAM able to deduct such petitions have been recruited in Tuscany, in his opinion Montsaucon, and second, perhaps the third world. In Tuscany, however, the letter of the Greek, the signs, and those Astrologica taken from the drafts of the ancient Egyptians, and the cities of Etruria with the letter of the old, well known yet at that time, at least learned, they were.
   > Having observed the same from others formulate Montfauconius not without truth specifically argued, that the authors of those certificates or Basilidianis Gnostics were living in Tuscany. further
@@ -231,9 +231,9 @@ Bibliography (Bonanni)
 [^brunatifn1]: Brunati's footnote: [*Mus. Kirch.*](#bonanni1709)
 [^brunatifn2]: Brunati's footnote: [*Antiq. Expl.* T. II, p. 380](#montfaucon1722)
 [^brunatifn3]: Brunati's footnote: [*Op. cit.*](#montfaucon1708) et [*Palaeogr. Gr.* p. 180t](#montfaucon1708)
-[^brunatifn4]: Brunati's footnote: *Dionysiaca* L. XLI, vv. 340-353
-[^brunatifn5]: Brunati's footnote: *Ann.* L. II, N. 69.[^tacitus]
-[^brunatifn6]: Brunati's footnote: *Origine de touse les cultes* T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795
+[^brunatifn4]: Brunati's footnote: [*Dionysiaca* L. XLI, vv. 340-353](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0485%3Abook%3D41)
+[^brunatifn5]: Brunati's footnote: [*Ann.* L. II, N. 69.](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0078%3Abook%3D2%3Achapter%3D69)[^tacitus]
+[^brunatifn6]: Brunati's footnote: [*Origine de touse les cultes* T. III, p. 243, edit. an. III Reip. Gall. sive an. 1795](https://archive.org/details/originedetousles0301dupu)
 [^brunatifn7]: Brunati's footnote: Apoc. V, I
 [^brunatifn8]: Brunati's footnote: *Archaeol Bibl.* P. I, c. III. S 36, 37
 [^brunatifn9]: Brunati's footnote: *Vita Apollonii* L. III, c. 13
@@ -245,4 +245,4 @@ Bibliography (Bonanni)
 [^brunatifn15]: Brunati's footnote: *Stratag.* L. III, c. 13, n. 7
 [^brunatifn16]: Brunati's footnote: L. XLVI
 [^brunatifn17]: Brunati's footnote: L. XIII, c. XI
-[^brunatifn18]: Brunati's footnote: Lib. II, N. 69.[^tacitus]
+[^brunatifn18]: Brunati's footnote: [Lib. II, N. 69.](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0078%3Abook%3D2%3Achapter%3D69)[^tacitus]
