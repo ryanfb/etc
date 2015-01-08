@@ -196,8 +196,8 @@ Chronological Bibliography
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15819442900" title="matter_pl3 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7576/15819442900_1825c4ab37.jpg" width="500" height="342" alt="matter_pl3"></a>
   >
-  > The first sheet (Pl. III) has two characters, one without clothes and the other dressed in short, a trident on the shoulder and welcoming the first with a gesture of surprise. The inscription placed beneath the stage, put probably the meaning of the reach of insiders. Made in Greek, Latin and Etruscan characters, and offering more consonants than vowels, for us it is unintelligible.
-  > On the reverse side of the sheet is seen a species of palm tree-shaped globe and next double garland carried by a rod topped with wings. It looks like the symbols of glory and rise reserved for those who resolutely undertake and complete with courage the career of trials and struggles of life on earth.
+  > The first sheet (Pl. III) has two people, one without clothes and the other dressed in shortclothes, a trident on the shoulder and welcoming the first with a gesture of surprise. The inscription placed beneath the scene, probably puts the meaning within the reach of initiates. Made in Greek, Latin and Etruscan characters, and offering more consonants than vowels, for us it is unintelligible.
+  > On the reverse side of the sheet is seen a species of palm tree in the shape of a globe and next to it a double garland carried by a rod topped with wings. It looks like the symbols of glory and elevation reserved for those who resolutely undertake and complete with courage the career of trials and struggles of life on earth.
   >
   > <a href="https://www.flickr.com/photos/ryanfb/15384439074" title="matter_pl4 by Ryan Baumann, on Flickr"><img src="https://farm8.staticflickr.com/7537/15384439074_a26e0cc702.jpg" width="500" height="342" alt="matter_pl4"></a>
   >
