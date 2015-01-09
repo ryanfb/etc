@@ -245,7 +245,7 @@ En fouillant le sol de la *Vigna Marini*, aboutissant à la *Via Appia*, sur la 
     > En attendant, il y a déjà là toute une série de monuments à examiner, la mosaïque, le sarcophage principal, les petits sarcophages en marbre, ceux en terre cuite et les feuilles de plomb, auxquelles il peut s’en joindre d’autres pour en faciliter l’interprétation.
 Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j’aivivement regretté de ne pouvoir examiner la mosaïque; quoiqu’elle soit, au témoignage de juges aussi compétents que M. Griffi et M. Visconti,
 
-* <a name="ruggiero1878"></a>Ettore de Ruggiero, *Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878. p. 63-79.
+* <a name="ruggiero1878"></a>Ettore de Ruggiero, [*Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878.](https://archive.org/details/catalogodelmuse00rugggoog) p. 63-79.
 
   > ***Libello basilidiano di piombo***
   > *(al. c. 10, lar. c. 9)*
