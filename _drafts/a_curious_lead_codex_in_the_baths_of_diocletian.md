@@ -298,7 +298,7 @@ Collected here are works I've consulted in my research which are by or about Kir
 * John Fletcher, ed. *Athanasius Kircher und seine Beziehungen zum gelehrten Europa seiner Zeit*. Wiesbaden: Harrassowitz, 1988.
 * Rosanna Friggeri. *The Epigraphic Collection of the Museo Nazionale Romano at the Baths of Diocletian*. Milano: Electa, 2004.
 * John Glassie. *A Man of Misconceptions. The Life of an Eccentric in an Age of Change*. New York, 2012.
-* ? Joscelyn Godwin. *Athanasius Kircher: A Renaissance man and the quest for lost knowledge*. London: Thames and Hudson, 1979.
+* Joscelyn Godwin. *Athanasius Kircher: A Renaissance man and the quest for lost knowledge*. London: Thames and Hudson, 1979.
 * Joscelyn Godwin. *Athanasius Kircher’s Theatre of the World: The Life and Work of the Last Man to Search for Universal Knowledge*. Rochester, Vt.: Inner Traditions, 2009.
 * <a name="lallemand-buyssens"></a>Nathalie Lallemand-Buyssens. *Les acquisitions d’Athanasius Kircher au musée du Collège Romain à la lumière de documents inédit*. Storia dell'arte 133, 2012. p. 107-129.
 * Eugenio Lo Sardo, ed. *Athanasius Kircher: il museo del mondo*. Rome: De Luca, 2001.
