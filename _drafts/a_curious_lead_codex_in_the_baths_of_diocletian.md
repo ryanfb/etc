@@ -34,7 +34,9 @@ Chasing down publications about this object has proven difficult and confusing, 
 
  * the one currently preserved in the museum (7 plates, 2 figures and 5 lines on each side)
  * a different one published by Phillippo Bonanni, mentioned in his [1709 catalog of the museum](#bonanni1709), but "vanished" or replaced with the present one sometime before 1837 (7 plates, 2 figures and 4 lines on each side?)
- * a still different one purchased in Rome by [Bernard de Montfaucon](https://en.wikipedia.org/wiki/Bernard_de_Montfaucon) in 1699 then donated to [Cardinal de Bouillon](https://en.wikipedia.org/wiki/Cardinal_de_Bouillon), which also vanished sometime before 1828 (6 plates, 1 figure on each side and 4 lines on the first four)
+ * a still different one purchased in Rome by [Bernard de Montfaucon](https://en.wikipedia.org/wiki/Bernard_de_Montfaucon) in 1699 then donated to [Cardinal de Bouillon](https://en.wikipedia.org/wiki/Cardinal_de_Bouillon), which also vanished sometime before 1828[^disparu] (6 plates, 1 figure on each side and 4 lines on the first four)
+
+[^disparu]: The assertion that Montfaucon's codex vanished sometime before 1828 is made on the basis of the footnote[^histoirefn2] in Matter's [*Histoire*](#matter1828).
 
 Out of all the publications relating to these objects, Bonanni is the only one who seems to give any sort of potential provenance information ("*Fuit hic plumbeus liber repertus in antiquo Sarcophago, in quo cineres demortui fuerant inclusi.* — In this case the leaden book was found in an ancient sarcophagus, in which the ashes of the deceased had been shut up.").
 
