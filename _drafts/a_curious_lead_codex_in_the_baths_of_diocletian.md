@@ -28,7 +28,7 @@ The provenance on the placard is also mysterious: "Origin unknown, already in th
 >
 > The Kirchner Museum was a public collection of antiquities and curiosities ([Wunderkammer](https://en.wikipedia.org/wiki/Cabinet_of_curiosities)), founded in 1651 by the Jesuit father Athanasius Kircher in the Roman College.
 
-Apparently over the ages the collection was dissolved and reabsorbed into various other collections. The rough timeline seems to be that this object "remained"[^remained] in the Museo Kircheriano at the Collegio Romano[^helbig] until its ultimate division in 1913,[^kircherian1913] ending up in its present location. Where, when, how, and even in what form it came into the Kircherian is debatable.
+Apparently over the ages the collection was dissolved and reabsorbed into various other collections. The rough timeline seems to be that this object "remained"[^remained] in the Museo Kircheriano at the Collegio Romano[^helbig] from at least 1837 until its ultimate division in 1913,[^kircherian1913] ending up in its present location. Where, when, how, and even in what form it came into the Kircherian is debatable.
 
 Chasing down publications about this object has proven difficult and confusing, as there are (or were), potentially three different but superficially similar Basilidian lead codices which seem to have appeared in Rome around the same time:
 
