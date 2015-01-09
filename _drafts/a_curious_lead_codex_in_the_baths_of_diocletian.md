@@ -285,7 +285,7 @@ Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j
 Discussion
 ----------
 
-This mere chronological presentation of the sources discussing these objects has probably given the reader a pretty good view of the confusions and contradictions that have arisen in trying to research this topic; first of all, half of the sources seem bent on misreading and misinterpreting that which came before them.
+This mere chronological presentation of the sources discussing these objects has probably given the reader a pretty good view of the confusions and contradictions that have arisen in trying to research this topic. For one, half of the sources seem bent on misreading and misinterpreting that which came before them; for example [King](#king1887) heaps invective on [Matter](#matter1852) for confusing the present Kircherian artifact with [Montfaucon's](#montfaucon1708), when Matter appears to do no such thing and in fact goes to great pains to note the differences between both them and Bonanni's, a distinction which King misses.
 
 Bibliography (Kircher & the Kircherian)
 ---------------------------------------
