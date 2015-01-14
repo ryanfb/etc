@@ -18,7 +18,7 @@ Which should download [my image from Docker Hub](https://registry.hub.docker.com
 Using an AWS GPU-Enabled Docker Host
 ------------------------------------
 
-Because my VisualSFM image builds on [work by Traun Leyden](http://tleyden.github.io/blog/2014/10/25/docker-on-aws-gpu-ubuntu-14-dot-04-slash-cuda-6-dot-5/) to build [a CUDA-enabled Ubuntu install with Docker](https://registry.hub.docker.com/u/tleyden5iwx/ubuntu-cuda/), you can run it in a GPU-enabled environment to take advantage of [SiftGPU](http://cs.unc.edu/~ccwu/siftgpu/) during the SIFT feature recognition stage of VisualSFM processing (with no GPU/CUDA support detected, it will fall back to the CPU-based [VLFeat](http://www.vlfeat.org/) SIFT implementation).[^siftgpu]
+Because my VisualSFM image builds on [work by Traun Leyden](http://tleyden.github.io/blog/2014/10/25/docker-on-aws-gpu-ubuntu-14-dot-04-slash-cuda-6-dot-5/) to build [a CUDA-enabled Ubuntu install with Docker](https://registry.hub.docker.com/u/tleyden5iwx/ubuntu-cuda/), you can run the `cuda` tag/branch of it in a GPU-enabled environment to take advantage of [SiftGPU](http://cs.unc.edu/~ccwu/siftgpu/) during the SIFT feature recognition stage of VisualSFM processing (with no GPU/CUDA support detected, it will fall back to the CPU-based [VLFeat](http://www.vlfeat.org/) SIFT implementation).[^siftgpu]
 
 This means you can also use [his instructions and AMI for building a CUDA-enabled AWS EC2 instance](http://tleyden.github.io/blog/2014/10/25/cuda-6-dot-5-on-aws-gpu-instance-running-ubuntu-14-dot-04/), and then run my VisualSFM image inside it.
 
@@ -41,7 +41,7 @@ To do this you'll need to:
    * Find your nvidia devices with: `ls -la /dev | grep nvidia`
    * Set these as `--device` arguments in a variable you'll pass to the `docker run` command:
      * `export DOCKER_NVIDIA_DEVICES="--device /dev/nvidia0:/dev/nvidia0 --device /dev/nvidiactl:/dev/nvidiactl --device /dev/nvidia-uvm:/dev/nvidia-uvm"`
-     * `sudo docker run -ti $DOCKER_NVIDIA_DEVICES ryanfb/visualsfm /bin/bash`
+     * `sudo docker run -ti $DOCKER_NVIDIA_DEVICES ryanfb/visualsfm:cuda /bin/bash` (note the **`:cuda`** tag specifier here)
    * Follow the instructions [here](http://tleyden.github.io/blog/2014/10/25/docker-on-aws-gpu-ubuntu-14-dot-04-slash-cuda-6-dot-5/) for more explanation and to verify CUDA access inside the container
 
 You should now be inside a docker container in your EC2 instance, with a `VisualSFM` command which will use SiftGPU for feature recognition.
