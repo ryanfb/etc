@@ -12,7 +12,7 @@ You can then process all your frame images with e.g.:
 
     parallel --bar --line-buffer -j8 './sharpness.py {}' ::: *.jpg | sort -gr > sharpness.txt
 
-I also wrote a complementary Python script designed to [greedily](http://en.wikipedia.org/wiki/Greedy_algorithm) filter this output into a target number of frames (optionally thresholded by a user-supplied cutoff),assuming there's a single integer in each filename with the frame number and we'd prefer an even distribution of frames:
+I also wrote a complementary Python script designed to [greedily](http://en.wikipedia.org/wiki/Greedy_algorithm) filter this output into a target number of frames (optionally thresholded by a user-supplied cutoff), assuming there's a single integer in each filename with the frame number and we'd prefer an even distribution of frames:
 
 <script src="https://gist.github.com/ryanfb/1fee5bda078c786d21f0.js?file=filterlist.py"></script>
 
