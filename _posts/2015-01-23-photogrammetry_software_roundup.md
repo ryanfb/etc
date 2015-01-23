@@ -15,6 +15,6 @@ As the Wikipedia *"[Comparison of photogrammetry software](http://en.wikipedia.o
 
 ### Footnotes
 
-[^inexpensive]: Here I take "inexpensive" to mean <$200/yr.
+[^inexpensive]: Here I take "inexpensive" to mean <$200/yr. I also am uninterested in Windows-only solutions.
 [^photoscancompare]: See <http://www.agisoft.com/features/compare/> to check features against the considerably more expensive "Professional" version ([$3499](http://www.agisoft.com/buy/online-store/), [$549 educational](http://www.agisoft.com/buy/online-store/educational-license/)).
 [^ppt]: The "Python Photogrammetry Toolbox" seems to be a term used somewhat interchangeably for various things: [osm-bundler](https://code.google.com/p/osm-bundler/) (a Python processing pipeline around Bunder/PMVS/CMVS), a [Python GUI for this pipeline](https://github.com/archeos/ppt-gui/blob/master/ppt-gui-package/usr/share/archeos/osm-bundler/linux/ppt_gui.py), and the [ArcheOS Linux distribution](http://www.archeos.eu) which aggregates all these together.
