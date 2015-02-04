@@ -21,7 +21,7 @@ Meanwhile, a simultaneous controversy brews over [a paper read at the 2015 AIA/S
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/j_gwgGcpD1M" frameborder="0" allowfullscreen></iframe>
 
-I would note that these exact sorts of practices[^sider] are why we now have a scant ca.200 intact Herculaneum scrolls out of the excavated thousands, while we are now on the cusp of non-destructive imaging techniques for them.[^ndt] Additionally, I highly doubt that this sort of pain-staking and destructive physical intervention would be undertaken lightly by many institutionally-affiliated professional conservators.
+I would note that these exact sorts of practices[^sider] are why we now have a scant ca.200 intact Herculaneum scrolls out of the excavated thousands, while we are now on the cusp of non-destructive imaging techniques for them.[^ndt] Additionally, I highly doubt that this sort of painstaking and destructive physical intervention would be undertaken lightly by many institutionally-affiliated professional conservators.
 
 So on the one hand, we have the AIA condemning the sale of antiquities into private hands, and on the other, a panel held at their annual joint meeting (though on the "SCS" side), presenting what are purported to be the spoils of exactly that, sold by an apparently-unscathed institution with [an AIA society in good standing](http://www.archaeological.org/aiasociety/mississippi/mississippimemphisuniversity)... [^goodstanding]
 
