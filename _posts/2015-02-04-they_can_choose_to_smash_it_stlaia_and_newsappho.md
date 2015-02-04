@@ -15,7 +15,7 @@ Meanwhile, a simultaneous controversy brews over [a paper read at the 2015 AIA/S
  * [*The (un)authenticated collecting history of the newly surfaced Sappho papyrus fragments*](http://lootingmatters.blogspot.com/2015/01/the-unauthenticated-collecting-history.html) (David Gill)
  * [*Sappho's New Poems: The Tangled Tale of Their Discovery*](http://www.livescience.com/49543-sappho-new-poems-discovery.html) (Megan Gannon for LiveScience)
 
-Roberta Mazza has also recently linked two disconcerting videos demonstrating exactly this sort of treatment of antiquities in the hands of private collectors: [^mazzalinks]
+[Roberta Mazza](https://twitter.com/papyrologyatman) has also recently linked two disconcerting videos demonstrating exactly this sort of treatment of antiquities in the hands of private collectors: [^mazzalinks]
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Sf6S3bTjkko" frameborder="0" allowfullscreen></iframe>
 >
