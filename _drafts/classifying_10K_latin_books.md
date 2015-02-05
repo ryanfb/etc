@@ -70,6 +70,19 @@ Now we just need to merge these results back with our original. This wound up be
 
 More importantly, we have a repeatable, stable process for generating this classification and prioritization. So now, after I go back and apply OCR processing to the remaining identifiers for which there was no existing OCR text, I can easily sort them back into the right place in the list.
 
+### Bonus Round
+
+A by-product of trying to figure out a good measure for classifying and prioritizing these works was plotting the `langid` Latin confidence score line-by-line:
+
+> <blockquote class="twitter-tweet" lang="en"><p>Plotting langid.py “Latin-ness” vs. line number for <a href="https://twitter.com/internetarchive">@InternetArchive</a> OCR text can be an interesting visualization: <a href="http://t.co/rTkU8mROfT">pic.twitter.com/rTkU8mROfT</a></p>&mdash; Ryan Baumann (@ryanfb) <a href="https://twitter.com/ryanfb/status/560937791610421248">January 29, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This was achieved with the hideous one-liner:
+
+    i="djvus/carminaliberepod00horauoft_djvu.txt"; (echo "line,score"; paste <(seq 1 $(wc -l < $i)) <(langid -l la --line < $i)|awk '{print $1 "," $3}'|sed -e 's/)//') | Rscript -e 'library("ggplot2")' -e 'lines<-read.csv(file="stdin", header=TRUE)' -e 'ggsave(qplot(line, score, data=lines, size = I(1), alpha = I(0.2), asp=0.5, main="'$(basename $i _djvu.txt)'"), file="'$(basename $i _djvu.txt)'.png",width=12)'
+
+Applying this for each work with page-level hyperlinks on the points would probably be a pretty cool project on its own (especially plotting the confidence score not restricted to Latin with some sort of stable per-language color coding, vel sim.).
+
 ### Footnotes
 
 [^erratic]: Found with `find . -name '*.xml_meta.txt' -exec rm {} \;` to remove `xml_meta.txt` files, then `find . -name '*.txt' | grep -v djvu`.
