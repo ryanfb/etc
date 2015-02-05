@@ -23,14 +23,14 @@ I then ran `langid` across this set with:
 
 We can now use `cut -d, -f2 < djvus-language-confidence.txt | grep -v la | wc -l` to discover there are 2,199 texts which got classified as not-majority-Latin (leaving 7,736 texts trivially—but perhaps erroneously—classified as majority-Latin).[^classifications]
 
-[^classifications]: What we have at this point are actually a variety of texts and classifications:
+[^classifications]: What we have at this point is probably actually a variety of texts and classifications:
     
      1. Latin-classified "Latin" texts
      2. Latin-classified "non-Latin" texts
      3. Non-Latin-classified "Latin" texts
      4. Non-Latin-classified "non-Latin" texts
     
-    Of particular interest to me here is the problem of identifying "bad OCR" or "bad classification" texts within the last two categories as candidates for further processing and classification, which may also give us a criterion for detecting texts in the second category. But that's a problem for another day...
+    Of particular interest to me here is the problem of identifying "bad OCR" or "bad classification" texts within these for further processing and classification, which may also give us a criterion for detecting texts in the second category. But that's a problem for another day...
 
 Let's try re-running `langid`, restricted to just Latin in order to gage the "Latin-ness" of each file:
 
@@ -64,7 +64,7 @@ What we want, then, is to take into account both confidence scores and the lengt
     paste -d, <(sort < djvus-language-confidence.txt) <(sort < djvus-latin-confidence.txt) <(awk -F, '{print $2 "," $1}' < djvus-lines.txt | sort) > djvus-combined-confidence-lines.txt
     awk -F, '{diff = sprintf("%.3f",($1 - $3) / $5); print diff "," $5 "," $1 "," $2 "," $3 "," $4 }' < djvus-combined-confidence-lines.txt | sort -gr -t, -k1,1 -k2,2  > djvus-combined-confidence-diff-sorted.txt
 
-This gives us the list sorted by our normalized difference then sorted by the length; so Latin-classified works will appear at the top (as the difference is zero), sorted by length, followed by the rest.
+This gives us [the list sorted by our normalized difference then sorted by the length](https://gist.github.com/806817718fd4b2976f14); so Latin-classified works will appear at the top (as the difference is zero), sorted by length, followed by the rest.
 
 Now we just need to merge these results back with our original. This wound up being pretty tortuous to do with the command line, so if you're interested you can see [the `Makefile` rules I came up with for it here instead](https://github.com/ryanfb/latin-texts/blob/classification/metadata/Makefile#L44-L63). At the end of all this is [a nice prioritized list of the identifiers](https://github.com/ryanfb/latin-texts/blob/sort/metadata/latin_to_annotate.txt).
 
