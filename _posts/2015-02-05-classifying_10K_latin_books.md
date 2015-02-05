@@ -81,7 +81,7 @@ This was achieved with the hideous one-liner:
 
     i="djvus/carminaliberepod00horauoft_djvu.txt"; (echo "line,score"; paste <(seq 1 $(wc -l < $i)) <(langid -l la --line < $i)|awk '{print $1 "," $3}'|sed -e 's/)//') | Rscript -e 'library("ggplot2")' -e 'lines<-read.csv(file="stdin", header=TRUE)' -e 'ggsave(qplot(line, score, data=lines, size = I(1), alpha = I(0.2), asp=0.5, main="'$(basename $i _djvu.txt)'"), file="'$(basename $i _djvu.txt)'.png",width=12)'
 
-Applying this for each work with page-level hyperlinks on the points would probably be a pretty cool project on its own (especially plotting the confidence score not restricted to Latin with some sort of stable per-language color coding, vel sim.).
+Applying this to each work with page-level hyperlinks on the points would probably be a pretty cool project on its own (especially plotting the confidence score not restricted to Latin with some sort of stable per-language color coding, vel sim.).
 
 ### Footnotes
 
