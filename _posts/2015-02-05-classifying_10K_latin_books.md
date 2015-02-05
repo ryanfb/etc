@@ -48,7 +48,7 @@ Now we can use this merged file to get results sorted by "Latin-ness" with their
 
     awk -F, '{print $6 "," $2 "," $3 "," $1}' < djvus-combined-confidence.txt | sort -g > djvus-combined-confidence-sorted.txt
 
-Looking at this file, it's clear we're in some murky territory. Let's go back and see what we get when we apply these processes to the already-classified 11,261 texts. Luckily, there's already [a 3.9GB archive of the plain text](https://docs.google.com/uc?id=0B5pGKi0iCsnbZEdHZ3N6d216am8&export=download) kindly provided for us, so we can skip the long `wget` process.
+[Looking at this file](https://gist.github.com/bf02014b19ecf92eacc1), it's clear we're in some murky territory. Let's go back and see what we get when we apply these processes to the already-classified 11,261 texts. Luckily, there's already [a 3.9GB archive of the plain text](https://docs.google.com/uc?id=0B5pGKi0iCsnbZEdHZ3N6d216am8&export=download) kindly provided for us, so we can skip the long `wget` process.
 
 After repeating `langid` processing against these,[^make] we can discover that there are 1,561 not-majority-Latin files vs. 9,700 majority-Latin, not wildly far off from the ratio we have.
 
