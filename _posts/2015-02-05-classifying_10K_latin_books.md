@@ -21,7 +21,7 @@ I then ran `langid` across this set with:
 
     find . -name '*_djvu.txt' | langid -b > djvus-language-confidence.txt
 
-We can now use `cut -d, -f2 < djvus-language-confidence.txt | grep -v la | wc -l` to discover there are 2,197 texts which got classified as not-majority-Latin (leaving 7,739 texts trivially—but perhaps erroneously—classified as majority-Latin).[^classifications]
+We can now use `cut -d, -f2 <` [`djvus-language-confidence.txt`](https://gist.github.com/cb6a4af5704c7b985045) `| grep -v la | wc -l` to discover there are 2,197 texts which got classified as not-majority-Latin (leaving 7,739 texts trivially—but perhaps erroneously—classified as majority-Latin).[^classifications]
 
 [^classifications]: What we have at this point is probably actually a variety of texts and classifications:
     
