@@ -63,9 +63,9 @@ Lallemand-Buyssens also notes the difficulty of figuring out when a particular o
    * [King 1887](#king1887)
    * [Helbig & Reisch 1896](#helbig1891bd2)
    * [Mayer-Deutsch 2010](#mayer-deutsch2010)
- * Bibliography (Kircher & the Kircherian)
- * Bibliography (Bonanni)
- * Footnotes
+ * [Bibliography (Kircher & the Kircherian)](#bibliography-kircher--the-kircherian)
+ * [Bibliography (Bonanni)](#bibliography-bonanni)
+ * [Footnotes](#footnotes)
 
 Prolegomenon
 ------------
