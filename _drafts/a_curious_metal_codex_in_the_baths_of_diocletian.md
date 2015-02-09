@@ -50,22 +50,33 @@ Lallemand-Buyssens also notes the difficulty of figuring out when a particular o
 
 ## Table of Contents
 
- * Chronological Bibliography
-   * Montfaucon 1708
-   * Bonanni 1709
-   * Montfaucon 1722
-   * Matter 1828
-   * Brunati 1837
-   * Matter 1852
-   * Ruggiero 1878
-   * Ruggiero 1879
-   * King 1887
-   * Helbig & Reisch 1896
-   * Mayer-Deutsch 2010
- * Discussion
+ * [Prolegomenon](#prolegomenon)
+ * [Chronological Bibliography](#chronological-bibliography)
+   * [Montfaucon 1708](#montfaucon1708)
+   * [Bonanni 1709](#bonanni1709)
+   * [Montfaucon 1722](#montfaucon1722)
+   * [Matter 1828](#matter1828)
+   * [Brunati 1837](#brunati1837)
+   * [Matter 1852](#matter1852)
+   * [Ruggiero 1878](#ruggiero1878)
+   * [Ruggiero 1879](#ruggiero1879)
+   * [King 1887](#king1887)
+   * [Helbig & Reisch 1896](#helbig1891bd2)
+   * [Mayer-Deutsch 2010](#mayer-deutsch2010)
  * Bibliography (Kircher & the Kircherian)
  * Bibliography (Bonanni)
  * Footnotes
+
+Prolegomenon
+------------
+
+The following mere chronological presentation of the sources discussing these objects will probably give the reader a good view of some of the confusions and contradictions that have arisen in trying to research this topic. For one, half of the sources seem bent on misreading and misinterpreting that which came before them; for example [King](#king1887) heaps scorn on [Matter](#matter1852) for confusing the present Kircherian artifact with [Montfaucon's](#montfaucon1708), when Matter appears to do no such thing and in fact goes to great pains to note the differences between both of them and Bonanni's, a distinction which King misses. For another, many of the sources are primarily preoccuppied with reciting every classical attestation of writing on lead. Maybe I have the benefit of the distance of time and the later archaeological finds and the scholarship which comes with it, but it seems to me that the oft-cited passage of Tacitus[^tacitus] is discussing [lead curse tablets](http://en.wikipedia.org/wiki/Curse_tablet), which appear to me a very different thing from what we have here.
+One interesting facet to all this is that the descriptions given by Brunati, Ruggiero, Reisch, and the museum placard of the cover having a "bearded man" and a veiled woman match in description and arrangement the side of the cover we can see in Bonanni's illustration (unfortunately, I did not get a good photograph of this side of the cover as it stands in the current museum, though what is visible of it matches; oddly, Matter says he did not know of any cover that went with his sheets).[^matterhinge] Additionally, Brunati makes the distinction of calling the pages *"aeneis"* (copper) rather than *"plumbeo"* (lead), which I initially thought was a mistake, but upon further examination may have been a more considered judgement. Is it possible that what has occurred here is that Bonanni's "original", at some point between 1709 and 1837,[^suppression] was disbound in order to have the pages sold off and replaced with forgeries while the cover was retained?
+
+[^suppression]: This period overlaps with the 1773-1814 suppression of the Society of Jesus, during which "Bonanni's exhibits were dismantled and the objects dispersed throughout Rome" (Feingold 2003, p.272).
+
+[^matterhinge]: Matter also states that the sheets have never been engaged on a hinge, an argument which is also borne out by their present appearance (but also potentially explicable by an over-zealous 18th century "conservator" filing them down to look nice after removing them from a hinge).
+
 
 Chronological Bibliography
 --------------------------
@@ -312,7 +323,7 @@ Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j
   > **Leaden Book.**
   > Each cover of this book bears a bust in relief in the centre, the front cover a veiled woman, the back cover a bearded man. Within the covers were seven very thin leaden leaves, originally fastened by a hinge but now exhibited separately. They are inscribed on both sides with an unintelligible series of Greek, Latin, and Italic letters, while in the upper third of each page are scratched two human or animal figures, or two symbols. The source of this book is not quite clear. The style and the writing are both very remarkable, but the article is held to be genuine and is believed to be a mystical book of the Basilidian Gnostics.
   > Comp. [*De Ruggiero*, Catalogo, pp. 63-79, No. 199](#ruggiero1878)
-* Angela Mayer-Deutsch, *Das Musaeum Kircherianum: Kontemplative Momente, historische Rekonstruktion, Bildrhetorik*. Zurich: Diaphanes, 2010. p. 142.
+* <a name="mayer-deutsch2010"></a>Angela Mayer-Deutsch, *Das Musaeum Kircherianum: Kontemplative Momente, historische Rekonstruktion, Bildrhetorik*. Zurich: Diaphanes, 2010. p. 142.
 
   > *Gleich nach dem Sistrum wird bei Bonanni ein eventuell gefälschtes Buch aus Blei  (Taf. 4,08ab)[^mayerfn1] beschrieben, das sich um 1899 unter Ruggiero noch im Museo Kircheriano befand.[^mayerfn2]*
   >
@@ -320,16 +331,6 @@ Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j
 
 [^mayerfn1]: Mayer-Deutsch's footnote: *[Bonanni 1709. S. 180 und Tafel LX S. 193](#bonanni1709). Nach Bonanni wurde es in einem "antiquo Sarcaphago" gefunden.* ("After Bonanni it was found in a "antique sarcophagus".") Mayer-Deutsch's Taf. 4,08ab are reproductions of Bonanni's plates.
 [^mayerfn2]: Mayer-Deutsch's footnote: *[Helbig 1899, Bd. 2. 411, Nr. 1451](#helbig1891bd2) beschreibt das Objekt wie folgt: [...] Diese Beschreibung stimmt in vielen Punkten (7 Seiten, Buchstaben, Symbole) mit derjenigen Bonannis sowie mit dem Stich überein. Nach Ruggiero handelt es sich aber nur um ein "analoges Monument". [Ruggiero 1878 S. 64. Siehe Ruggiero 1878, S. 63-79](#ruggiero1878) mit Katalogtext sowie Holzschnitten der Deckel und der sieben inwendigen Bleitafeln.* ("[Helbig](#helbig1891bd2) describes the object as follows: [...] This description is consistent (7 pages, letters, symbols) with that of Bonanni and with the engraving on many points. After Ruggiero it is only but an "analogous Monument". See [Ruggiero](#ruggiero1878), with catalog text and woodcuts of the lid and the seven inward lead plates.")
-
-Discussion
-----------
-
-This mere chronological presentation of the sources discussing these objects has probably given the reader a good view of some of the confusions and contradictions that have arisen in trying to research this topic. For one, half of the sources seem bent on misreading and misinterpreting that which came before them; for example [King](#king1887) heaps scorn on [Matter](#matter1852) for confusing the present Kircherian artifact with [Montfaucon's](#montfaucon1708), when Matter appears to do no such thing and in fact goes to great pains to note the differences between both of them and Bonanni's, a distinction which King misses. For another, many of the sources are primarily preoccuppied with reciting every classical attestation of writing on lead. Maybe I have the benefit of the distance of time and the later archaeological finds and scholarship which come with it, but it seems to me that the oft-cited passage of Tacitus[^tacitus] is discussing [lead curse tablets](http://en.wikipedia.org/wiki/Curse_tablet), which appear to me a very different thing from what we have here.
-One interesting facet to all this is that the descriptions given by Brunati, Ruggiero, Reisch, and the museum placard of the cover having a "bearded man" and a veiled woman match in description and arrangement the side of the cover we can see in Bonanni's illustration (unfortunately, I did not get a good photograph of this side of the cover as it stands in the current museum, though what is visible of it matches; oddly, Matter says he did not know of any cover that went with his sheets).[^matterhinge] Additionally, Brunati makes the distinction of calling the pages *"aeneis"* (copper) rather than *"plumbeo"* (lead), which I initially thought was a mistake, but upon further examination may have been a more considered judgement. Is it possible that what has occurred here is that Bonanni's "original", at some point between 1709 and 1837,[^suppression] was disbound in order to have the pages sold off and replaced with forgeries while the cover was retained?
-
-[^suppression]: This period overlaps with the 1773-1814 suppression of the Society of Jesus, during which "Bonanni's exhibits were dismantled and the objects dispersed throughout Rome" (Feingold 2003, p.272).
-
-[^matterhinge]: Matter also states that the sheets have never been engaged on a hinge, an argument which is also borne out by their present appearance (but also potentially explicable by an over-zealous 18th century "conservator" filing them down to look nice after removing them from a hinge).
 
 Bibliography (Kircher & the Kircherian)
 ---------------------------------------
