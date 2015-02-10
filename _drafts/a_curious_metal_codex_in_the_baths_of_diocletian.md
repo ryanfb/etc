@@ -336,7 +336,7 @@ Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j
 Bibliography (Kircher & the Kircherian)
 ---------------------------------------
 
-Collected here are works I've consulted in my research which are about Kircher or the Kircherian museum, which contain no apparent reference to the object(s) at hand. See also [Athanasius Kircher at Stanford](http://web.stanford.edu/group/kircher/cgi-bin/site/?page_id=15) and the more comprehensive [bibliography](http://www.holeroessler.de/kircher_bib.html) and [online works of Kircher](http://www.holeroessler.de/kircher_online.html) published by Hole Rößler.[^rossler]
+Collected here are some of the works I've consulted in my research which are about Kircher or the Kircherian museum, which contain no apparent reference to the object(s) at hand. See also [Athanasius Kircher at Stanford](http://web.stanford.edu/group/kircher/cgi-bin/site/?page_id=15) and the more comprehensive [bibliography](http://www.holeroessler.de/kircher_bib.html) and [online works of Kircher](http://www.holeroessler.de/kircher_online.html) published by Hole Rößler.[^rossler]
 
 * <a name="bartola"></a>[Alberto Bartola. *Alle origini del Museo del Collegio Romano. Documenti e testimonianze*. Nuncius 1, 2004. p. 297-356.](https://www.academia.edu/8144942/Alle_origini_del_Museo_del_Collegio_Romano._Documenti_e_testimonianze_in_Nuncius._Annali_di_storia_della_scienza_19_2004_pp._297-355)
 * Mordechai Feingold, ed. *Jesuit science and the republic of letters*. Cambridge, Ma.: MIT Press, 2003.
