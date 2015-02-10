@@ -50,7 +50,7 @@ Lallemand-Buyssens also notes the difficulty of figuring out when a particular o
 
 ## Table of Contents
 
- * [Prolegomenon](#prolegomenon)
+ * [Preface](#preface)
  * [Chronological Bibliography](#chronological-bibliography)
    * [Montfaucon 1708](#montfaucon1708)
    * [Bonanni 1709](#bonanni1709)
@@ -67,8 +67,8 @@ Lallemand-Buyssens also notes the difficulty of figuring out when a particular o
  * [Bibliography (Bonanni)](#bibliography-bonanni)
  * [Footnotes](#footnotes)
 
-Prolegomenon
-------------
+Preface
+-------
 
 The following mere chronological presentation of the sources discussing these objects will probably give the reader a good view of some of the confusions and contradictions that have arisen in trying to research this topic. For one, half of the sources seem bent on misreading and misinterpreting that which came before them; for example [King](#king1887) heaps scorn on [Matter](#matter1852) for confusing the present Kircherian artifact with [Montfaucon's](#montfaucon1708), when Matter appears to do no such thing and in fact goes to great pains to note the differences between both of them and Bonanni's, a distinction which King misses. For another, many of the sources are primarily preoccuppied with reciting every classical attestation of writing on lead. Maybe I have the benefit of the distance of time and the later archaeological finds and the scholarship which comes with them, but it seems to me that the oft-cited passage of Tacitus[^tacitus] is discussing [lead curse tablets](http://en.wikipedia.org/wiki/Curse_tablet), which appear to me a very different thing from what we have here. [Montfaucon states](#montfaucon1722) that Tacitus describes a similar form with *"deux feuillets & de la couverture"* ("two sheets and a cover"), however, all I find Tacitus stating on the matter is *"plumbeis tabulis insculptum"* ("inscribed lead tablets").
 One interesting facet to all this is that the descriptions given by Brunati, Ruggiero, Reisch, and the museum placard of the cover having a "bearded man" and a veiled woman match in description and arrangement the side of the cover we can see in Bonanni's illustration (unfortunately, I did not get a good photograph of this side of the cover as it stands in the current museum, though what is visible of it matches; oddly, Matter says he did not know of any cover that went with his sheets).[^matterhinge] Additionally, Brunati makes the distinction of calling the pages *"aeneis"* (copper) rather than *"plumbeo"* (lead), which I initially thought was a mistake, but upon further examination may have been a more considered judgement. Is it possible that what has occurred here is that Bonanni's "original", at some point between 1709 and 1837,[^suppression] was disbound in order to have the pages sold off and replaced with forgeries while the cover was retained? Are the pages that we have 18th century forgeries modeled after two lost, potentially genuine, artifacts?
@@ -280,7 +280,7 @@ Chronological Bibliography
     > Je dirai d’abord ce que je tiens de M. Griffi et de M. Visconti sur les circonstances et l’état actuel de cette intéressante nouvelle, afin d’éveiller, à son égard, une curiosité aussi générale qu’il m’est possible.
 En fouillant le sol de la *Vigna Marini*, aboutissant à la *Via Appia*, sur la gauche de la porte Saint-Sébastien (*Porta pia*), en sortant de Rome, on a trouvé, dan un tombeau très—ruiné, sauf en quelques parties: 1.° une mosaïque représentant une femme avec un enfant; 2.° un sarcophage parfaitement conservé, et 3.° plusieurs petits sarcophages, les uns en marbre, les autres en terre cuite, contenant une certaine quantité de feuilles de plomb toutes roulées. On a retiré des sarcophages en terre cuite les feuilles de plomb, et on les a transportées au ministère des travaux publics et des antiquités. Le secrétaire général de cette administration, M. le chevalier Griffi, a voulu se constituer lui—même le gardien de ces lamelles cylindrées, en attendant qu’elles soient déployées et déposées dans un Musée. Des circonstances extraordinaires ayant fait suspendre les fouilles au mois de mai 1851, on a recouvert la mosaïque, afin de la préserver de toute détérioration; on a mis les petits sarcophages en marbre dans une maisonnette un peu démolie, mais qui rendra son dépôt à la prochaine reprise des travaux, et l’on a avisé aux moyens de recommencer ceux—ci.
     > En attendant, il y a déjà là toute une série de monuments à examiner, la mosaïque, le sarcophage principal, les petits sarcophages en marbre, ceux en terre cuite et les feuilles de plomb, auxquelles il peut s’en joindre d’autres pour en faciliter l’interprétation.
-Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j’aivivement regretté de ne pouvoir examiner la mosaïque; quoiqu’elle soit, au témoignage de juges aussi compétents que M. Griffi et M. Visconti,
+Ces lamelles de plomb seules ont été l’objet spécial de mes études, mais j’aivivement regretté de ne pouvoir examiner la mosaïque; quoiqu’elle soit, au témoignage de juges aussi compétents que M. Griffi et M. Visconti, [...]
 
 * <a name="ruggiero1878"></a>Ettore de Ruggiero, [*Catalogo del Museo Kircheriano*, Roma: Coi Tipi del Salviucci, 1878.](https://archive.org/details/catalogodelmuse00rugggoog) p. 63-79.
 
@@ -354,6 +354,9 @@ Bibliography (Bonanni)
 ----------------------
 
 Collected here are works I've found about Bonanni himself, a relatively obscure figure in comparison to Kircher.
+
+* Filippo Buonanni, [*Rerum naturalium historia nempe quadrupedum insectorum piscium variorumque marinorum corporum fossilium plantarum exoticarum ac praesertim testaceorum exsistium in Museo Kircheriano*. Rome: 1773. p.XXXVII](https://books.google.com/books?id=TXyIAxefhOMC&dq=Rerum%20naturalium%20historia&pg=PR37#v=onepage&q&f=false).
+* Giammaria Mazzuchelli, [*Gli scrittori d'Italia, cioè, Notizie storiche e critiche intorno alle vite e agli scritti dei letterati italiani*. Brescia: Bossini, 1753-1763. Vol. II Parte IV p.2329-2333](http://books.google.it/books?id=iN8-AAAAYAAJ&hl=it&pg=PA2329#v=onepage&q&f=false).
 
 ### Footnotes
 
