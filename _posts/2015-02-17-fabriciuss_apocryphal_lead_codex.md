@@ -11,7 +11,7 @@ Related to my [previous post on the Kircherian metal codex]({{ site.baseurl }}{%
 
 More thorough searching turned up the probable actual source of Huth's quote, [Fabricius's *De metallicis rebus*](https://books.google.com/books?id=s2FWAAAAcAAJ&lpg=PT47&pg=PT47#v=onepage&q&f=false):
 
-> <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=s2FWAAAAcAAJ&lpg=PT47&pg=PT47&output=embed" width="500" height="500"></iframe>
+> <script type="text/javascript" src="https://www.google.com/jsapi"></script><iframe frameborder="0" scrolling="no" style="border:0px" src="//books.google.com/books?id=s2FWAAAAcAAJ&lpg=PT47&pg=PT47&output=embed" width="500" height="500"></iframe>
 
 If anyone has any further information about this artifact, I would love to hear it.
 
