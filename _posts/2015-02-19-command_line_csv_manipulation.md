@@ -26,7 +26,7 @@ For more robust operations, see [csvkit](http://csvkit.readthedocs.org/) or [csv
 
 ## Set operations on CSVs
 
-Note that these operations expect lexically sorted input. If your files aren't sorted, you can achieve this by [proces substitution](http://tldp.org/LDP/abs/html/process-sub.html), e.g. `comm -12 <(sort < A.csv) <(sort < B.csv)`. You can then sort the output by your desired column(s).
+Note that these operations expect lexically sorted input. If your files aren't sorted, you can achieve this by [process substitution](http://tldp.org/LDP/abs/html/process-sub.html), e.g. `comm -12 <(sort < A.csv) <(sort < B.csv)`. You can then sort the output by your desired column(s).
 
 `A.csv`:
 
