@@ -27,6 +27,9 @@ In fact, looking through our `net.general.mbox` file from The Internet Archive U
 <script src="https://gist.github.com/ryanfb/b3404ad22eb2dd4c3d05.js"></script>
 Note here the difference between the `Date` header and the `X-Google-ArrivalTime` header, which is probably why this wasn't counted as the "oldest" message in the archive.
 
+We can find the same message in the UTZOO archive in [`news001f1/a2/decvax.116`](https://gist.github.com/d65d687b8fb67e33b651). Interestingly, we can also find the "New Disk Drive" message in the UTZOO archive in `news001f1/a2/duke.757` (a message which I cannot find in `net.general.mbox`):
+<script src="https://gist.github.com/ryanfb/1872dee787a31a7c24ad.js"></script>
+
 This is just an initial investigation with one test, and by no means comprehensive. A good next step for someone interested in early Usenet posts would probably be to try to check coverage between the UTZOO collection and the Usenet Historical Collection to see if there are any gaps which can be filled in by merging them together. Another question to try to answer would be how comprehensive the Usenet Historical Collection is for the 1991-on range not covered by the UTZOO collection.
 
 ### Footnotes:
