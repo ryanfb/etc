@@ -2,15 +2,19 @@
 layout: default
 title: index
 ---
-
-{% for post in site.posts %}
+{% for post in site.posts %}{% if post.pinned %}
+  <div class="post hentry">
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fa fa-thumb-tack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+  </div>
+{% endif %}{% endfor %}
+{% for post in site.posts %}{% unless post.pinned %}
   <div class="post hentry">
     {% if post.external_url %}
-    <h2 id="post-{{ post.wordpress_id }}" class="entry-title">☛ <a href="{{ post.external_url }}">{{ post.title }}</a></h2>
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title">☛ <a href="{{ post.external_url }}">{{ post.title }}</a></h2>
     {% else %}
-    <h2 id="post-{{ post.wordpress_id }}" class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
     {% endif %}
   </div>
-{% endfor %}
+{% endunless %}{% endfor %}
 <br/>
 <span style="float:right"><i class="fa fa-rss"></i> &nbsp;<a href="{{ site.baseurl }}/feed.xml">feed</a></span>

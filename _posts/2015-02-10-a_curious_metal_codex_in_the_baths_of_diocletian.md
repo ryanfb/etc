@@ -1,5 +1,6 @@
 ---
 title: A Curious Metal Codex in the Baths of Diocletian
+pinned: true
 ---
 
 A little over a year ago, while photographing various objects held in museums in Rome, I came across the following strange artifact in the Epigraphic Museum of the Baths of Diocletian:
