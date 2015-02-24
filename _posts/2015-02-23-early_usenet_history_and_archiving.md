@@ -7,7 +7,7 @@ Amid some recent handwringing[^handwringing] about the state of digital archivin
 My initial searches turned up the following archives:
 
 * Google Groups - based on the Deja News archive.
-* The Internet Archive's "[Usenet Archive of UTZOO Tapes](https://archive.org/details/utzoo-wiseman-usenet-archive)"- 2GB of compressed text total, from between February of 1981 and June of 1991.
+* The Internet Archive's "[Usenet Archive of UTZOO Tapes](https://archive.org/details/utzoo-wiseman-usenet-archive)" - 2GB of compressed text total (18GB uncompressed), from between February of 1981 and June of 1991.
 * The Internet Archive's "[Usenet Historical Collection](http://archive.org/details/usenethistorical)" - "This historical collection of Usenet spans more than 30 years and was given to us by a generous donor." The archive of `alt.*` groups is 219GB of compressed text.
 * "[The Usenet Archive](http://www.theusenetarchive.com/)" - a search site that claims text archives "back to 1980".
 * [A-News Archive](https://web.archive.org/web/20000303203929/http://communication.ucsd.edu/A-News/index.html) - "Early Usenet News Articles: 1981 to 1982". This page was originally linked to from [Bruce Jones at UCSD's "Archive for the History of Usenet Mailing List"](http://shikan.org/bjones/Usenet.Hist/index.html) page, but this archive seems to not have survived the migration off UCSD's servers. Therefore, the only live archive seems to be what's in the Internet Archive Wayback Machine.
