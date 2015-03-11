@@ -32,7 +32,7 @@ We can find the same message in the UTZOO archive in [`news001f1/a2/decvax.116`]
 
 This is just an initial investigation with one test, and by no means comprehensive. A good next step for someone interested in early Usenet posts would probably be to try to check coverage between the UTZOO collection and the Usenet Historical Collection to see if there are any gaps which can be filled in by merging them together. Another question to try to answer would be how comprehensive the Usenet Historical Collection is for the 1991-on range not covered by the UTZOO collection.
 
-### Footnotes:
+### Footnotes
 
 [^handwringing]: Matthew Braga. [*Google, a Search Company, Has Made Its Internet Archive Impossible to Search*](http://motherboard.vice.com/read/google-a-search-company-has-made-its-internet-archive-impossible-to-search). Vice Motherboard. Published 2015-02-13. Accessed 2015-02-23.
     

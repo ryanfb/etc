@@ -27,7 +27,7 @@ Here `download_url` takes the URL and output file as arguments, and downloads bo
 
 Hopefully this approach is robust and generic enough to be reusable in a variety of different situations.
 
-### Footnotes:
+### Footnotes
 
 [^docker]: This is a problem which also plagues [Docker's caching strategy for `ADD` commands](https://github.com/docker/docker/issues/3672).
 [^maven]: Some build systems, like Maven, have more robust support for artifacts, repositories, dependencies, etc. But then you have to put all that in a repository. I want to depend directly against URLs. More importantly, I want to depend against other people's URLs which I don't control.
