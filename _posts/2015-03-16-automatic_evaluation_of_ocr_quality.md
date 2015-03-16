@@ -80,7 +80,7 @@ This script is designed to work on data that has already been processed with `la
 
 So you could run this end-to-end with e.g.:
 
-    ./scorelines.sh < filename.txt | ./ocrquality.rb
+    ./scorelines.sh filename.txt | ./ocrquality.rb
 
 The advantage of this approach is that it uses the pre-trained statistical language models in [`langid`](https://github.com/saffsd/langid.py), enabling easy re-use of this metric (and easy training on your own corpus if the pre-trained models are insufficient). That is, the strength of this approach is the same as that of `langid` itself: its off-the-shelf usability.[^garbagetrain]
 
