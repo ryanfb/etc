@@ -64,7 +64,7 @@ Here are the results of plotting the improvement in OCR quality scores for both 
 
 After looking at these graphs, I decided the simple straightforwardness of implementation for "mean language uncertainty" made it a better choice (as there's no subjective determination of the mean threshold to use for "garbage").[^entropy]
 
-[^entropy]: If you've been jumping up and down in your seat, raising your hand, begging to shout *"just use [entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) you idiots!"*, that thought occurred to me as well. You might assume that OCR garbage = random noise = high entropy. The problem with this is that "OCR garbage" can be regular and repeating in the same way that the source documents are; consider an OCR engine which outputs "/0I<au" consistently for every instance of the word "token". Additionally, it's entirely possible to have fundamentally high-entropy source document, where accurate OCR would be high-entropy as well.
+[^entropy]: If you've been jumping up and down in your seat, raising your hand, begging to shout *"just use [entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) you idiots!"*, that thought occurred to me as well. You might assume that OCR garbage = random noise = high entropy. The problem with this is that "OCR garbage" can be regular and repeating in the same way that the source documents are; consider an OCR engine which outputs "/0I<au" consistently for every instance of the word "token". Additionally, it's entirely possible to have a fundamentally high-entropy source document, where accurate OCR would be high-entropy as well.
 
     As an experiment, here are the results of scoring and comparing entropy on our dataset:
     
