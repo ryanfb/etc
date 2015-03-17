@@ -86,7 +86,7 @@ The advantage of this approach is that it uses the pre-trained statistical langu
 
 I'm pretty excited about the potential for this. If we have a repeatable, improvable OCR process, and a reliable ground-truth-free way to approximate accuracy, we can close the loop on a workflow for continuously prioritizing, reprocessing, and improving our OCR results.
 
-### Footnotes:
+### Footnotes
 
 [^underwood]: While writing this, I came across Ted Underwood's post "[The obvious thing we're lacking](http://tedunderwood.com/2012/04/26/the-obvious-thing-were-lacking/)" (which, funnily enough, suggests using a language model), which also has some other interesting suggestions for how such a quality metric could be used, e.g. in restricting search results. Ben Schmidt makes an excellent point about OCR metadata in the comments, which is something I've been thinking about with this process; I don't just want to keep the OCR text, I want to keep information about the *process* as well so I can know if re-processing is likely to give any improvement at all.
 [^poco]: One could also imagine a quality metric which used the edit distance between raw OCR output and an unsupervised post-correction process (such as those in the simple rule-based heuristic approaches of Taghva et al., [*Automatic Removal of "Garbage Strings" in OCR Text: An Implementation*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.81.8901) and Kulp et al., [*On Retrieving Legal Files: Shortening Documents and Weeding Out Garbage*](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.141.6212)).
