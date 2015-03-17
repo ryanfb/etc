@@ -22,16 +22,11 @@ My first efforts at crudely getting the training tools built and installed were 
     ScrollView: Waiting for server...
     ^C
 
-I decided to try building against `--HEAD` but got some link errors during the training build. After some more thorough hacking of the formula, I got something that built, linked, and apparently worked. You can see the formula [here](https://github.com/ryanfb/homebrew/blob/tesseract_training/Library/Formula/tesseract.rb), and pull it into your Homebrew repo with e.g.:
+I decided to try building against `--HEAD` but got some link errors during the training build. After some more thorough hacking of the formula, I got something that built, linked, and apparently worked. You can see the formula [here](https://github.com/ryanfb/homebrew/blob/tesseract_training/Library/Formula/tesseract.rb).
 
-    cd /usr/local/Library/Formula
-    git remote add ryanfb https://github.com/ryanfb/homebrew.git
-    git fetch ryanfb
-    git show ryanfb/tesseract_training:Library/Formula/tesseract.rb > tesseract.rb
+After running `brew uninstall tesseract` first to remove any existing install, you can build and install my version of the formula with:
 
-Now you can build and install (`brew uninstall tesseract` first to remove any existing install):
-
-    brew install --training-tools --all-languages --HEAD tesseract
+    brew install --training-tools --all-languages --HEAD https://raw.githubusercontent.com/ryanfb/homebrew/tesseract_training/Library/Formula/tesseract.rb
 
 You should now be able to do e.g.:
 
