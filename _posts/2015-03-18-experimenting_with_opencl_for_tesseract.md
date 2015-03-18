@@ -25,7 +25,7 @@ For this I built off [my existing work using Docker for VisualSFM under AWS]({{ 
    * `sudo sh -c "echo deb https://get.docker.com/ubuntu docker main > /etc/apt/sources.list.d/docker.list"`
    * `sudo apt-get update`
    * `sudo apt-get install lxc-docker`
- * Run a GPU-enabled VisualSFM docker image:
+ * Run a GPU-enabled Tesseract docker image:
    * Build the CUDA samples and run `deviceQuery` inside your Docker host (this seems to be necessary to init the nvidia devices in `/dev`):
      * `cd ~/nvidia_installers`
      * `sudo ./cuda-samples-linux-6.5.14-18745345.run -noprompt -cudaprefix=/usr/local/cuda-6.5/`
