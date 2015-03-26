@@ -1,0 +1,58 @@
+---
+title: Text of “Geomining the Ancient World”
+---
+
+Below is the text for my talk "Geomining the Ancient World", delivered at the University of Iowa.
+
+[The accompanying slides are available here](http://dcthree.github.io/presentations/reveal.js/slides/Geomining_the_Ancient_World.html).
+
+---
+
+So, you may be asking “What’s geomining? And how on earth are we going to do it in the ancient world?”, and unfortunately I have to reveal that there will be no pickaxes or excavators which we take through a time machine; rather, this is a portmanteau combining “geospatial” and “data mining”. “Data Mining Geospatial Data About the Ancient World” just didn’t really roll off the tongue.  So, sorry if I’ve disappointed you, but I think the real prospect of this discussion is exciting as well.
+
+To that end, I want to use this talk to provide a sort of whirlwind tour highlighting various tools, techniques, resources, and opportunities available for working with geospatial data related to the ancient world.
+
+So first off: what is geospatial data?
+
+Geospatial data is data that encodes geographic information. Now this may sound simple, because that definition hides all the complexity. What sorts of things do we want to consider as geospatial data? Typically, these will be geometric objects representing something on Earth, and names we associate with these objects.
+
+As a concrete example, if I say the word “Paris”, most people will think of the modern city in France. Some may think “Paris, son of Priam”. And I’m originally from Kentucky, so I may well just be talking about an entirely different city, also named “Paris”. So if we want to actually use and process geospatial information about this concept, we have to explicitly encode what we’re talking about as geospatial data.
+
+So, as you can see from this map, there are actually a few different ways we could go about that. We could say this concept “Paris” is the point in the “center” of town, or we could say it’s this “bounding box” here. Or, we could say it’s this more precisely defined polygon. It’s up to us, really, and what we choose will define the complexity of our data, and as you can see, the complexity of dealing with it as well. A central point is simpler than a bounding box, which is simpler than a complex polygon. But all of these are abstractions.
+
+As another concrete illustration of these problems, here’s a picture of the Aral Sea from space in 1997. The fourth largest lake in the world. Now, here’s a satellite image of the Aralkum Desert. If you think the names are similar, it’s because, that’s right, the former Aral Sea is now the Aralkum Desert.
+
+This is something to keep in mind, particularly when working with historical names and data. Places, boundaries, and concepts can all shift over time or be lost completely.
+
+So, with that in mind, what does "geospatial data” actually look like? As an example, here’s an excerpt of some geospatial data for ancient Lutetia. So you can see we have a bounding box and a representative point, encoded by numbers. What are these numbers? "Longitude and latitude” are the easy answer. But that’s concealing a bit of complexity. Longitude and latitude, relative to what? You probably learned in grade school all about the difficulties of projecting the 3D sphere of the earth on to a 2D surface, and just the same way as map projections have different priorities, strengths, and weaknesses, different coordinate reference systems have arisen to deal with the problem of trying to encode points on the Earth’s surface. Luckily for us the standard used to encode this data defines a default coordinate reference system, called “WGS84”, which is the same system used in most GPS applications. It does things like define where zero longitude is, and how, exactly, it models its approximation of the Earth’s surface. These may seem like minor issues, but if you unwittingly mix and match coordinate reference systems without translating them, they can quickly become major issues. The same thing can happen when you try to project coordinates on a map; if you try to reproject things with different projections, you can wind up with a visualization which is subtly or intensely wrong. Or what’s also a surprisingly frequent error: mixing latitude and longitude.
+
+So what can we do by data mining geospatial data?
+
+The two main things are statistics and visualization. Geospatial data itself can also enable analysis, search, and discovery. Here’s an example from Sebastian Heath of the Institute for the Study of the Ancient World at NYU, where by encoding the geospatial coordinates of Roman amphitheaters, he can make a histogram of their elevation, revealing that most are low-lying and near sea level. He can also use the same data to produce this map visualization of the distribution density of Roman amphitheaters across the Roman Empire. Here, the red outline is a shapefile from the Ancient World Mapping Center at UNC, defining the polygonal boundary of the Roman Empire ca. 200 AD. So, we can also see that the agreement of these two independently created data sets is actually pretty good.
+
+Now, if we have a bunch of geospatial data, we might also be interested in computing spatial relationships between them. “Distance” is a simple one we can compute between points, but once we get to complex geometries instead of just points, we can start thinking about more complex relationships. These relationships are pretty easy with equality tests on points, but for two complex polygons we may also want to distinguish between the area inside the polygon and the “border”. Don’t worry, there will be a test later. It’s not really that important to memorize the specifics of all this, but I hope you can see the data mining potential of these spatial relationships. If you have a large set of geospatial data encoded as points, you can’t easily look at it by eye and pick out, for example, all the places within a modern country border. But if you have a geometry for the modern country, you can easily apply an algorithm that will filter your data for everything within that country.
+
+So, with that background out of the way, let’s talk about tools, techniques, resources, and opportunities for working with geospatial data related to the ancient world. First, a quick overview of some formats you might encounter, and tools that might be useful. We don’t really have time to go into too much depth about either of these, so this is just a survey of terms and technologies you might run into.
+
+One other concept I want to highlight is that a lot of what you may need to do if you want to data mine geospatial data is this thing called “geocoding”. This is just simply the process of associating geospatial information with your data. Here are some resources for doing this, however, the problem is most of these are designed for geocoding the modern world. Luckily, there are some other resources that deal specifically with the ancient world, which is what I’m going to spend the rest of this talk discussing.
+
+You can’t talk about geospatial data for the ancient world without talking about Pleiades. You might notice here that it says it’s "a community-built gazetteer and graph of ancient places”, which might seem strange. However, this highlights the primary focus of Pleiades, which is providing stable identifiers for ancient places. This is important because for ancient sources, we can’t always be entirely sure where a place was. But if we have a stable, common, identifier for it, we can talk about it and link to it. This idea doesn’t just have to be limited to the ancient Greek and Roman world though. Here you can see an early version of a project called Al-Thurayya by Maxim Romanov at Tufts, which aims to extend the ancient place gazetteer concept to the Islamic world. There’s a project called the Syriac Gazetteer at syriaca.org run by David A. Michelson, for “places relevant to Syriac Studies”. There’s also the China Historical GIS project at Harvard, which provides GIS data for for China from 221 BC onward.
+
+A more “traditional GIS” resource for antiquity is the Ancient World Mapping Center (AWMC) out of UNC. They provide a number of resources and tools for ancient world mapping. So, they picked a good name. Among these are shapefiles, such as the “Roman Empire 200AD” polygon you saw earlier, as well as embeddable map tiles, and the web-based GIS tool “Antiquity À-la-carte”.
+
+If you want to talk about modern placenames and GIS, there are a few other resources that come into play. GeoNames.org is similarly name-focused, with 10M+ names. TGN is a project of the Getty, with 2M names for 1.4M places. A more “traditional” modern GIS resource is OpenStreetMap, which aims to crowdsource a modern world map. And another good resource for modern shapefile data is Natural Earth, which provides shapefiles for modern countries, administrative regions, cities, etc. without having to wade through individual public-domain government resources.
+
+So, you may be thinking now: that’s a lot of stuff. But that’s really just the tip of the iceberg. There’s a ton of data sources out there, even just about the ancient world, that I haven’t even mentioned. The real question is: how do we link all these things together?
+
+Thankfully here, the answer is simple: Pelagios. Pelagios defines an interconnection format which lets anyone use a common vocabulary to establish links between URL’s on the web; it also defines APIs which let you query these connections for data which Pelagios knows about. So, we can, for example, link the minting place of a coin to its Pleiades place URL. Or, as in this example, link toponyms (place names) in a book to their Pleiades places. This might seem trivial, until you consider the 20-some-odd places named “Alexandria”, for example. Here’s a non-comprehensive list of resources which have produced Pelagios data, which might also be a good starting point for finding other resources of geospatial data related to the ancient world.
+
+You might have noticed that a large number of these sorts of projects require aligning place names in a text with existing place resources in order to get geospatial data. A facet of the Pelagios 3 project for annotating early geospatial documents is an online tool for this process, called Recogito. A benefit of this linking is also that your geospatial data will improve as the geospatial resource you link to improves.
+
+Finally, I thought I’d just show some examples of things that can be done with geospatial data about the ancient world.
+
+- Pleiades+ (linking ancient and modern place resources)
+- Vicarello (turning words on cups into a concrete map visualization)
+- Itinerarium (mashing together modernity and antiquity)
+- Texts/Collections in Trismegistos (applying the transitive property to learn something about what he have from the ancient world through modern geo data)
+
+Really what I want to encourage you to do is to find some problem that’s interesting to you - some text, some image, some collection, some artifact, some data, and think through the ways you can interrogate, analyze, or visualize it geospatially. Then just try to work through it. It could be as simple as marking up your favorite obscure text with Pleiades place URLs for its toponyms, or adding appropriate Flickr machine tags to photos you’ve taken of ancient artifacts or sites. Or it could be as complex as geocoding a CSV file and making a map visualization from scratch. It might be frustrating, but the tools for highly accurate geospatial analysis and visualization have never really been easier or more at your fingertips than they are now.
