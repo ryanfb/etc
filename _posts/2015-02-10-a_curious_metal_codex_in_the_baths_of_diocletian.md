@@ -352,6 +352,7 @@ Collected here are some of the works I've consulted in my research which are abo
 * Joscelyn Godwin. *Athanasius Kircher: A Renaissance man and the quest for lost knowledge*. London: Thames and Hudson, 1979.
 * Joscelyn Godwin. *Athanasius Kircher’s Theatre of the World: The Life and Work of the Last Man to Search for Universal Knowledge*. Rochester, Vt.: Inner Traditions, 2009.
 * <a name="lallemand-buyssens"></a>Nathalie Lallemand-Buyssens. *Les acquisitions d’Athanasius Kircher au musée du Collège Romain à la lumière de documents inédit*. Storia dell'arte 133, 2012. p. 107-129.
+* Louis Moréri. [*Le grand dictionnaire historique*. 1759. Vol. 6, p. 37.](http://artflsrv02.uchicago.edu/cgi-bin/extras/moreripag.pl?TOME_06_Page_0550.jpg)
 * Eugenio Lo Sardo, ed. *Athanasius Kircher: il museo del mondo*. Rome: De Luca, 2001.
 * Eugenio Lo Sardo, ed. *Athanasius Kircher: il museo del mondo (guida breve)*. Rome: De Luca, 2001.
 
