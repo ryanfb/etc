@@ -54,7 +54,11 @@ Now `merged.pdf` should contain your searchable, OCR'd PDF. I've also wrapped th
 
         gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf page_*.pdf
 
-    However, as this is somewhat unreliable for me with non-Latin scripts, I've updated this guide to suggest using `pdftk` by default.
+    However, this mangles non-Latin scripts. If you would still like to use Ghostscript instead of `pdftk`, the command:
+
+        gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dProvideUnicode -sOutputFile=merged.pdf page_*.pdf
+
+    May give you good, relatively compressed results (from explicitly setting a more modern PDF compatibility level) while preserving non-Latin scripts.
 
     I realized at the end of writing this guide that you can also use `convert` to create a multipage TIFF (omit the `_%05d` format specifier in your output filename) and process/output that directly with Tesseract, but I like being able to parallelize the OCR,[^parallel] and recombining with pdftk gives me better compression in my testing.
 
