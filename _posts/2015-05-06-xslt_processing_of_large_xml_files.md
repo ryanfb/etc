@@ -18,6 +18,6 @@ To get around this, I resorted to using [Xalan-J](https://xalan.apache.org/xalan
 
 Unfortunately, this limits you to XSLT 1.0 stylesheets.
 
-Note that if you don't give Xalan-J enough memory, you can still run into errors, manifesting themselves as a `org.apache.xml.utils.WrappedRuntimeException` error in the stylesheet.
+Note that if you don't give Xalan-J enough memory, you can still run into errors, manifesting themselves as an `org.apache.xml.utils.WrappedRuntimeException` error in the stylesheet.
 
 Thanks to [Yakov Shafranovich](http://blog.shaftek.org/2008/10/20/using-xslt-for-very-large-files/) for pointing out Xalan for this process.
