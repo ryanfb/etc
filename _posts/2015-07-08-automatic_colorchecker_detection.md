@@ -34,7 +34,7 @@ I recently decided to briefly revisit this problem and see if any additional wor
 
 * [Colourlab Image Database: Imai’s ColorCheckers (CID:ICC)](http://www.ansatt.hig.no/rajus/colorlab/CID-MI.zip) (246MB)
   Used by García Capel 2014. 43 JPEG images.
-* [Gehler's Dataset](http://files.is.tue.mpg.de/pgehler/projects/color/index.html) (approx. 8GB, 592MB downsmapled)
+* [Gehler's Dataset](http://files.is.tue.mpg.de/pgehler/projects/color/index.html) (approx. 8GB, 592MB downsampled)
   * [Shi's Re-processing of Gehler's Raw Dataset](http://www.cs.sfu.ca/~colour/data/shi_gehler/) (4.2GB total)
     Used by Hirakawa. 568 PNG images.
   * [Reprocessed Gehler](http://colour.cmp.uea.ac.uk/datasets/reprocessed-gehler.html)
