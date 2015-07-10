@@ -1,7 +1,8 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" itemscope itemtype="http://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <head>
   <meta charset="utf-8">
+  {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">{% endif %}
   <title>Ryan Baumann - /etc - {{ page.title }}</title>
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
   <meta name="description" content="Ryan Baumann">
