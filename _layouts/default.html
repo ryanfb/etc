@@ -7,6 +7,12 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
   <meta name="description" content="Ryan Baumann">
   <meta name="author" content="Ryan Baumann">
+  <!-- Enables twitter cards on posts -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ryanfb" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.excerpt | escape }}" />
+  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=EB+Garamond'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
