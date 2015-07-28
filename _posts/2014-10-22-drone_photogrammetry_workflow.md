@@ -32,7 +32,9 @@ Next extract (key)frames with `ffmpeg`:
 
     ffmpeg -i redchurch-3v-wvbNiZGY.mp4 -r 1/1 -qscale:v 1 redchurch_%08d.jpg
 
-The `-r 1/1` flag specifies the rate at which to extract frames (1 frame for every 1 second), so dropping it will extract every frame.
+The `-r 1/1` flag specifies the rate at which to extract frames (1 frame for every 1 second), so dropping it will extract every frame. [^blurry]
+
+[^blurry]: You may want to extract every frame, then use [the sharpest *n* frames sampled at some regular interval]({{ site.baseurl }}{% post_url 2015-01-22-filtering_video_frames_by_sharpness_for_photogrammetry %}).
 
 Now you want to use VisualSFM to reconstruct a point cloud from your video frames. The first few times you do this it may be helpful to do the reconstruction with the interactive GUI (both to make sure your VisualSFM install actually works, and to see the different steps of the process). There are a few guides online for this process, which I used myself:
 
