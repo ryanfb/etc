@@ -9,7 +9,7 @@ Here are the strategies I've come across so far:
  * [`RUN git clone`](#run-git-clone)
  * [`RUN curl` or `ADD` a tag/commit tarball URL](#run-curl-or-add-a-tagcommit-tarball-url)
  * [Git submodules inside Dockerfile repository](#git-submodules-inside-dockerfile-repository)
- * [`Dockerfile` inside git reposiotry](#dockerfile-inside-git-repository)
+ * [`Dockerfile` inside git repository](#dockerfile-inside-git-repository)
  * [Volume mapping](#volume-mapping)
 
 ## `RUN git clone`
