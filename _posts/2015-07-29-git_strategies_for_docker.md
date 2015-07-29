@@ -14,7 +14,7 @@ Here are the strategies I've come across so far:
 
 ## `RUN git clone`
 
-If you're like me, this is the approach that first springs to mind when you see the commands available to you in a `Dockerfile`. The trouble with this is it can interact in several unintuitive ways with Docker's build caching mechanisms. For example, if you make an update to your git repository, and then re-run the `docker build` which has a `RUN git clone` command, you may or may not get the new commit(s) depending on if the preceding `Dockerfile` commands have invalidated the cache. 
+If you're like me, this is the approach that first springs to mind when you see the commands available to you in a `Dockerfile`. The trouble with this is that it can interact in several unintuitive ways with Docker's build caching mechanisms. For example, if you make an update to your git repository, and then re-run the `docker build` which has a `RUN git clone` command, you may or may not get the new commit(s) depending on if the preceding `Dockerfile` commands have invalidated the cache. 
 
 One way to get around this is to use `docker build --no-cache`, but then if there are any time-intensive commands preceding the `clone` they'll have to run again too.
 
