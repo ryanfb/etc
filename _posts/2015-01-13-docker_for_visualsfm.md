@@ -13,7 +13,7 @@ After you've set up `docker` and your shell's environment variables (using e.g. 
 
     docker run -i -t ryanfb/visualsfm /bin/bash
 
-Which should download [my image from Docker Hub](https://registry.hub.docker.com/u/ryanfb/visualsfm/) and drop you into a shell with a `VisualSFM` command (as well as `youtube-dl`, and [`ffmpeg` replacement `avconv`](http://askubuntu.com/a/432585)).
+Which should download [my image from Docker Hub](https://registry.hub.docker.com/u/ryanfb/visualsfm/) and drop you into a shell with a `VisualSFM` command (as well as `youtube-dl`, and [`ffmpeg` replacement `avconv`](http://askubuntu.com/a/432585)).[^segfault]
 
 Using an AWS GPU-Enabled Docker Host
 ------------------------------------
@@ -49,3 +49,4 @@ You should now be inside a docker container in your EC2 instance, with a `Visual
 ### Footnotes
 
 [^siftgpu]: As of this writing on a `g2.2xlarge` instance processing frames from the example in [the previous post]({{ site.baseurl }}{% post_url 2014-10-22-drone_photogrammetry_workflow %}), SiftGPU takes approximately .05-.15 sec/frame vs. 1-2 sec/frame with the CPU-based VLFeat implementation.
+[^segfault]: Note that if you're getting segmentation faults during reconstruction when you try to run VisualSFM inside Docker, you may need to [increase your boot2docker memory allocations]({{ site.baseurl }}{% post_url 2015-01-28-increasing_boot2docker_allocations_on_os_x %}).
