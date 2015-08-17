@@ -43,7 +43,7 @@ I'm going to assume you have a non-OCR'd PDF you want to convert into a searchab
 
          pdftk page_*.pdf cat output merged.pdf
 
-Now `merged.pdf` should contain your searchable, OCR'd PDF. I've also wrapped this workflow up into [a script](https://gist.github.com/ryanfb/f792ce839c8f26e972cf).
+Now `merged.pdf` should contain your searchable, OCR'd PDF. I've wrapped this workflow up into [a script](https://gist.github.com/ryanfb/f792ce839c8f26e972cf), or alternately you may want to see if the robust [OCRmyPDF](https://github.com/fritz-hh/OCRmyPDF) script works for your needs.
 
 ### Footnotes
 
