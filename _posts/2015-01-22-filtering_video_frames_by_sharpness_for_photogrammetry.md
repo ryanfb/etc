@@ -1,5 +1,7 @@
 ---
 title: Filtering video frames by sharpness for photogrammetry
+tags:
+- photogrammetry
 ---
 
 Sometimes when [processing video for 3D photogrammetry]({{ site.baseurl }}{% post_url 2014-10-22-drone_photogrammetry_workflow %}), you want to reduce the number of frames used in order to reduce the processing time or fit within a limit.[^recap360] You may also want to [reduce the number of blurry frames used](https://groups.google.com/forum/#!searchin/vsfm/video/vsfm/3nplT9Tmyuw/56UAm497oaMJ), as this can result in noise or errors with some reconstruction processes.

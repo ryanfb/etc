@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1 class="post-title">Posts tagged “{{ page.title }}”</h1>
+
+<nav>
+    {% for post in site.posts %}
+    {% if post.tags contains page.tagname %}
+        {% include postlink.html %}
+    {% endif %}
+    {% endfor %}
+</nav>

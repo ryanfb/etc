@@ -1,5 +1,7 @@
 ---
 title: Archiving the AWOL Index
+tags:
+- archiving
 ---
 
 [The AWOL Index](http://isaw.nyu.edu/publications/awol-index/) is a new experimental project to extract structured data from [AWOL - The Ancient World Online](http://ancientworldonline.blogspot.com/), which has published links to material about the ancient world since 2009.

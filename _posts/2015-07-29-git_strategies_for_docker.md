@@ -1,5 +1,7 @@
 ---
 title: Git strategies for Docker
+tags:
+- docker
 ---
 
 There are a few different strategies for getting your Git source code into a [Docker](https://www.docker.com/) build. Many of these have different ways of interacting with Docker's caching mechanisms, and may be more or less appropriately suited to your project and how you intend to use Docker. Perhaps surprisingly, I haven't been able to locate an overview of these strategies collected in one place, and it's not covered in the [Dockerfile best practices guide](https://docs.docker.com/articles/dockerfile_best-practices/).

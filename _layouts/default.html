@@ -14,6 +14,7 @@
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.excerpt | escape }}" />
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.external_url %}<meta http-equiv="refresh" content="0; {{ page.external_url }}" />{% endif %}
   <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=EB+Garamond'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
@@ -55,6 +56,28 @@
       margin: 0em 2em 2em;
       color: gray;
     }
+    time {
+      color: gray;
+    }
+    .title {
+      float: left;
+    }
+    .header h1 {
+      margin-bottom: 0px;
+    }
+    .tags {
+      padding-top: 1em;
+      float: right;
+      text-align: right;
+      font-size: small;
+      color: gray;
+    }
+    .tags a {
+      color: gray;
+    }
+    .clear {
+      clear: both;
+    }
   </style>
   <script type="text/javascript">
 
@@ -82,8 +105,12 @@
   <div id="content">
   {% if page.date %}<!-- Enable COinS -->
   <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.site.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.site.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>{% endif %}
-  <h1><a href="{{ site.baseurl }}/">/etc</a><span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
-  {% unless page.title == 'index' %}<h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2>{% endunless %}
+  <div class="header">
+    <h1><a href="{{ site.baseurl }}/">/etc</a><span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
+    {% unless page.title == 'index' %}<div class="title"><h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2></div>{% endunless %}
+    {% if page.tags.size > 0 %}<div class="tags"><span>tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span></div>{% endif %}
+  </div>
+  <div class="clear"/>
   {{ content }}
 </div>
 <div id="footer">

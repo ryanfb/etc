@@ -1,5 +1,7 @@
 ---
 title: Photogrammetry Software Roundup 2015
+tags:
+- photogrammetry
 ---
 
 As the Wikipedia *"[Comparison of photogrammetry software](http://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software)"* article is somewhat overwhelming, I thought it would be useful to have an up-to-date and curated list of free or inexpensive[^inexpensive] photogrammetry solutions readily available for easy comparison:

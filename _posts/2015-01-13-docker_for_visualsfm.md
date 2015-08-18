@@ -1,5 +1,8 @@
 ---
 title: Docker for VisualSFM
+tags:
+- docker
+- photogrammetry
 ---
 
 In [a previous post]({{ site.baseurl }}{% post_url 2014-10-22-drone_photogrammetry_workflow %}) I outlined a workflow for using [VisualSFM](http://ccwu.me/vsfm/) for photogrammetry. In this post, I'd like to highlight [some recent work I've done](https://github.com/ryanfb/docker_visualsfm) for creating an isolated, replicable VisualSFM environment using [Docker](https://www.docker.com/).
