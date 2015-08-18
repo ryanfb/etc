@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en" itemscope itemtype="http://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<html lang="en" itemscope itemtype="http://schema.org/WebPage" itemid="{{ site.url }}{{ page.url }}">
 <head>
   <meta charset="utf-8">
   {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">{% endif %}
   <title>Ryan Baumann - /etc - {{ page.title }}</title>
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/feed.xml">
   <meta name="description" content="Ryan Baumann">
   <meta name="author" content="Ryan Baumann">
   <!-- Enables twitter cards on posts -->
@@ -13,7 +13,7 @@
   <meta name="twitter:creator" content="@ryanfb" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.excerpt | escape }}" />
-  <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
   <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=EB+Garamond'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
@@ -50,6 +50,11 @@
       display: inline-block;
       font-size: 2em;
     }
+    .citation {
+      float: left;
+      margin: 0em 2em 2em;
+      color: gray;
+    }
   </style>
   <script type="text/javascript">
 
@@ -63,12 +68,20 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+    function setAccessedDate() {
+      if (document.getElementById('accessed-on')) {
+        var now = new Date();
+        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var formattedDate = now.getDate()+" "+months[now.getMonth()]+" "+now.getFullYear();
+        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
+      }
+    }
   </script>
 </head>
-<body>
+<body onload="setAccessedDate();">
   <div id="content">
   {% if page.date %}<!-- Enable COinS -->
-  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.site.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.site.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ site.baseurl | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>{% endif %}
+  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.site.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.site.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>{% endif %}
   <h1><a href="{{ site.baseurl }}/">/etc</a><span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
   {% unless page.title == 'index' %}<h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2>{% endunless %}
   {{ content }}
