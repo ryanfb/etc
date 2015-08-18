@@ -10,9 +10,9 @@ title: index
 {% for post in site.posts %}{% unless post.pinned %}
   <div class="post hentry">
     {% if post.external_url %}
-    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title">☛ <a href="{{ post.external_url }}">{{ post.title }}</a></h2>
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="external entry-title"><time datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }} </time><a href="{{ post.external_url }}">{{ post.title }}</a></h2>
     {% else %}
-    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><time datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }} </time><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
     {% endif %}
   </div>
 {% endunless %}{% endfor %}
