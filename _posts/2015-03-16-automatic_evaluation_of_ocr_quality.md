@@ -1,5 +1,7 @@
 ---
 title: Automatic evaluation of OCR quality
+tags:
+- ocr
 ---
 
 Following my [previous post on classifying 10K Latin(?) books]({{ site.baseurl }}{% post_url 2015-02-05-classifying_10K_latin_books %}), I started [an automatic process to re-OCR the ~300 works in the set which didn't have plaintext OCR results already available](https://github.com/ryanfb/latin-texts-ocr). About mid-way through the run of this process, I realized that most of these do in fact have some form of OCR available, but only as DjVu XML output from ABBYY FineReader. That means that not only could we potentially use that OCR text for our text classification process, but also that we can compare how that process works with ABBYY's OCR text versus our OCR results.

@@ -1,5 +1,7 @@
 ---
 title: Installing Tesseract training tools on Mac OS X
+tags:
+- ocr
 ---
 
 In [my previous post]({{ site.baseurl }}{% post_url 2014-11-13-command_line_ocr_on_mac_os_x %}) I outlined getting Tesseract working for OCR of PDF's on OS X. In this post, I'd like to document how to install and use the Tesseract training tools.
