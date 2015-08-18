@@ -66,7 +66,9 @@
   </script>
 </head>
 <body>
-<div id="content">
+  <div id="content">
+  {% if page.date %}<!-- Enable COinS -->
+  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.site.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.site.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ site.baseurl | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>{% endif %}
   <h1><a href="{{ site.baseurl }}/">/etc</a><span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
   {% unless page.title == 'index' %}<h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2>{% endunless %}
   {{ content }}
