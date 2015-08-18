@@ -44,7 +44,7 @@ So, after running these processes it seemed the Wayback Machine now had at least
       fi; \
     done < cdx-missing-combined.txt
 
-This revealed that 4,606 of our 6,360 "missing" URLs were, in fact, successfully archived (so 50,266 of our 52,020 original URLs, or about 97%, now have at least one snapshot in the Wayback Machine). Looking at [the remaining 1,754 missing URLs](https://gist.github.com/309b5e9a483bd98345c2), we can triage these further and see what currently returns a "live" response code with:
+This revealed that [4,606](https://gist.github.com/bef7166d45f902ee2328) of our 6,360 "missing" URLs were, in fact, successfully archived (so 50,266 of our 52,020 original URLs, or about 97%, now have at least one snapshot in the Wayback Machine). Looking at [the remaining 1,754 missing URLs](https://gist.github.com/309b5e9a483bd98345c2), we can triage these further and see what currently returns a "live" response code with:
 
     while read url; do \
       if curl -s --fail -L -I "$url" ; \
