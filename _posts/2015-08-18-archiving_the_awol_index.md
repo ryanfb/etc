@@ -57,6 +57,6 @@ This revealed that [4,606](https://gist.github.com/bef7166d45f902ee2328) of our 
 
 Giving us [431 URLs with no snapshots that currently return an HTTP error](https://gist.github.com/d73a99e2d1e2b611622a) (so less than 1% of our total URL count).
 
-I plan on doing one more archive run for [the remaining 1,323 missing URLs](https://gist.github.com/8629e20583481082bd00), just in case some temporary server issues cropped up during the initial run.
+I plan on doing one more archive run for [the remaining 1,323 missing URLs](https://gist.github.com/8629e20583481082bd00), just in case some temporary server issues cropped up during the initial run. I've also started putting some of the scripts and lessons learned from this process into a [`web-archive-triage` repository on GitHub](https://github.com/ryanfb/web-archive-triage).
 
 Going forward, it might be helpful to automate this process to check and archive new URLs in the AWOL Index on a periodic basis. There are probably much more interesting things that can be done with mining and analyzing the AWOL Index, but the foundation of some of these activities will rely on the simple availability of the linked content.
