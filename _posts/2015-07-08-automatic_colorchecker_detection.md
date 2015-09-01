@@ -6,7 +6,7 @@ A while back (July 2010 going by Git commit history), I hacked together a progra
 
 The algorithm I developed used adaptive thresholding against the RGB channel images, followed by [contour finding](http://docs.opencv.org/doc/tutorials/imgproc/shapedescriptors/find_contours/find_contours.html) with heuristics to try to filter down to ColorChecker squares, then using k-means clustering to cluster squares (in order to handle the case of images with an [X-Rite ColorChecker Passport](http://xritephoto.com/colorchecker-passport/support)), then computing the average square colors and trying to find if any layout/orientation of square clusters would match ColorChecker reference values (within some Euclidean distance in RGB space). Because of the original use case I was developing this for (automatically calibrating images against an image of a ColorChecker on a copy stand), I could assume that the ColorChecker would take up a relatively large portion of the input image, and coded Macduff using this assumption.
 
-I recently decided to briefly revisit this problem and see if any additional work had be done, and I thought a quick survey of what I turned up might be generally useful:
+I recently decided to briefly revisit this problem and see if any additional work had been done, and I thought a quick survey of what I turned up might be generally useful:
 
 * Jackowski, Marcel, et al. [*Correcting the geometry and color of digital images*](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=625125&tag=1). Pattern Analysis and Machine Intelligence, IEEE Transactions on 19.10 (1997): 1152-1158.
   Requires manual selection of patch corners, which are then refined with template matching.
