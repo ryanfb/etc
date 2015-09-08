@@ -5,6 +5,11 @@ tags:
 - docker
 ---
 
+#### Update (2015-09-08):
+[A pull request I submitted to Homebrew](https://github.com/Homebrew/homebrew/pull/43223) to add a `--with-opencl` option to the `tesseract` formula has now been accepted, so you should be able to just do `brew install --HEAD --with-opencl tesseract`. For issues with OpenCL-enabled Tesseract on OS X, please see [this issue](https://github.com/tesseract-ocr/tesseract/issues/71).
+
+***
+
 After coming across [these instructions for building Tesseract with OpenCL support](https://code.google.com/p/tesseract-ocr/wiki/TesseractOpenCL), I wanted to experiment with this feature to see if it would enable faster OCR processing. I also came across [this blog post](http://www.sk-spell.sk.cx/tesseract-meets-the-opencl-first-test) experimenting with the feature under Linux and Windows, but I wanted to try it on Mac OS X and AWS EC2 GPU instances.
 
 ## Using Mac OS X with Homebrew
