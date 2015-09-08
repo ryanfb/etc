@@ -4,6 +4,11 @@ tags:
 - ocr
 ---
 
+#### Update (2015-09-08):
+[A pull request I submitted to Homebrew](https://github.com/Homebrew/homebrew/pull/43223) to add a `--with-training-tools` option to the `tesseract` formula has now been accepted, so you should be able to just do `brew install --with-training-tools tesseract`. Please submit any issues with the training tools under OS X to [the Tesseract project on GitHub](https://github.com/tesseract-ocr/tesseract).
+
+***
+
 In [my previous post]({{ site.baseurl }}{% post_url 2014-11-13-command_line_ocr_on_mac_os_x %}) I outlined getting Tesseract working for OCR of PDF's on OS X. In this post, I'd like to document how to install and use the Tesseract training tools.
 
 My first efforts at crudely getting the training tools built and installed were just adding the necessary `make` commands to the Homebrew formula and reinstalling `--devel`. However, this resulted in some bizarre problems in even getting the `text2image` command to run: [^scrollview]
