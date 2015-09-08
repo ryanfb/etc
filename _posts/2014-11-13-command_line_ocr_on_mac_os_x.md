@@ -10,23 +10,15 @@ Software Installation
 ---------------------
 
   0. Install [homebrew](http://brew.sh/) (if you haven't already).
-  1. Install `leptonica` with TIFF support (and every other format, just in case):
-
-         brew install --with-libtiff --with-openjpeg --with-giflib leptonica
-
-  2. Install Ghostscript:
-
-         brew install gs
-
-  3. Install ImageMagick with TIFF and Ghostscript support:
+  1. Install ImageMagick with TIFF and Ghostscript support:
 
          brew install --with-libtiff --with-ghostscript imagemagick
 
-  4. Install Tesseract devel with all languages: [^devel]
+  2. Install Tesseract with all languages:
 
-         brew install --devel --all-languages tesseract
+         brew install --all-languages tesseract
 
-  5. Install [pdftk server](https://www.pdflabs.com/tools/pdftk-server/) from the package installer.
+  3. Install [pdftk server](https://www.pdflabs.com/tools/pdftk-server/) from the package installer.
 
 Processing Workflow
 -------------------
@@ -64,7 +56,6 @@ Now `merged.pdf` should contain your searchable, OCR'd PDF. I've wrapped this wo
 
     I realized at the end of writing this guide that you can also use `convert` to create a multipage TIFF (omit the `_%05d` format specifier in your output filename) and process/output that directly with Tesseract, but I like being able to parallelize the OCR,[^parallel] and recombining with pdftk gives me better compression in my testing.
 
-[^devel]: Installing the development version of Tesseract gets you direct PDF output instead of having to recombine text and images from the default [hOCR](http://en.wikipedia.org/wiki/HOCR) output.
 [^parallel]:
     If you have [GNU Parallel](http://www.gnu.org/software/parallel/) installed (`brew install parallel`), you can parallelize this process:
 
