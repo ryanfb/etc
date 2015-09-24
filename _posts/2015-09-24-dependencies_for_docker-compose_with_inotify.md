@@ -26,15 +26,15 @@ Here's the directory structure for a minimal example ([GitHub repo](https://gith
 
 Our `docker-compose.yml` looks like this, pulling a volume from container 2 into container 1 with `volumes_from`:
 
-<script src="http://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-compose.yml"></script>
+<script src="https://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-compose.yml"></script>
 
 Our `Dockerfile` for container 2 contains:
 
-<script src="http://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-container-2/Dockerfile"></script>
+<script src="https://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-container-2/Dockerfile"></script>
 
 And the `Dockerfile` for container 1 has:
 
-<script src="http://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-container-1/Dockerfile"></script>
+<script src="https://gist-it.appspot.com/http://github.com/ryanfb/docker-compose-inotify-example/blob/master/docker-container-1/Dockerfile"></script>
 
 When we run `docker-compose up --force-recreate` in this directory we get the output:
 
