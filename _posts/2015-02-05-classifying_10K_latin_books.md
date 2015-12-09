@@ -1,5 +1,7 @@
 ---
 title: Classifying 10K Latin(?) Books
+tags:
+- ocr
 ---
 
 [David Bamman's recent release of 11K Latin Texts](http://www.cs.cmu.edu/~dbamman/latin.html) got me thinking about how to tackle the problem of the [remaining 10,248 "likely-Latin" texts](https://github.com/dbamman/latin-texts/tree/master/metadata) that [need better metadata](http://chronicle.com/article/Googles-Book-Search-A/48245/).
