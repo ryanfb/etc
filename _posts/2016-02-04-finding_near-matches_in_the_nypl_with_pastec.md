@@ -16,7 +16,7 @@ By looking at the resulting images, it also quickly becomes apparent that the *t
 * [Stereographs](http://stereo.nypl.org/) (often multiple prints of the same image, but sometimes [different stereographs of the same scene](https://twitter.com/ryanfb/status/693205214489346048))
 * Military uniform illustrations, e.g. [the Vinkhuijzen collection](http://digitalcollections.nypl.org/collections/the-vinkhuijzen-collection-of-military-uniforms#/?tab=navigation)
 * [Restaurant menus](http://menus.nypl.org/)
-* Maps and [floorplans](http://digitalcollections.nypl.org/collections/apartment-houses-of-the-metropolis#/?tab=about)
+* [Maps](http://www.nypl.org/node/80186) and [floorplans](http://digitalcollections.nypl.org/collections/apartment-houses-of-the-metropolis#/?tab=about)
 * [Songbooks](http://digitalcollections.nypl.org/collections/american-popular-songs#/?tab=navigation)
 
 Subtracting some of these types of objects might winnow things down to some of the more interesting matches, depending on what you're interested in.
