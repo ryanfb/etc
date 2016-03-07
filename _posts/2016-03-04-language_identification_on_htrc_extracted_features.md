@@ -6,11 +6,11 @@ tags:
 
 The [HTRC Extracted Features Dataset](https://sharc.hathitrust.org/features) is a valuable resource for anyone interested in doing large-scale text analysis. Because of my work in [Latin OCR](http://latin-ocr.github.io/), Latin volumes in HathiTrust are of particular interest to my research. Selecting [a Latin volume that I knew of from data I was already working with](https://twitter.com/ryanfb/status/702979693012647936), I noticed that the page-level "language" metadata was pretty bad, frequently detecting Portuguese as the page language when the majority of OCR tokens were very recognizably Latin. It seems like [the language detection library used by HTRC](https://code.google.com/archive/p/language-detection/) isn't trained against Latin, so I thought it might be useful to re-process page tokens with [langid](https://github.com/saffsd/langid.py).
 
-I noticed that for the Latin volume I selected, while the page-level language metadata was wrong, the volume-level language metadata was correct. Since I'm mostly interested in Latin volumes (and didn't want to find 1.2TB of free space for the full set of basic features on all volumes), I decided to use the language specified in the bibliographic metadata as an initial filtering criterion. I did this by downloading [the bulk bibliographic data export HathiTrust makes available](https://www.hathitrust.org/hathifiles), and filtering to Latin with:
+I noticed that for the Latin volume I selected, while the page-level language metadata was wrong, the volume-level language metadata was correct. Since I'm mostly interested in Latin volumes (and didn't want to find 1.2TB of free space for the full set of basic features on all volumes), I decided to use the language specified in the bibliographic metadata as an initial filtering criterion. I did this by downloading [the bulk bibliographic data export HathiTrust makes available](https://www.hathitrust.org/hathifiles), and [filtering to Latin](https://gist.github.com/ryanfb/2c0461327be04a9f9989) with:
 
     awk -F $'\t' 'BEGIN {OFS = FS} { if ($19 == "lat")  print }' hathi_full_20160301.txt > hathi_latin_ids.tsv
 
-I then downloaded the list of HTRC basic feature files, and filtered it down to just the Latin volumes I got from the bibliographic data with:
+I then downloaded the list of HTRC basic feature files, and filtered it down to [just the Latin volumes](https://gist.github.com/ryanfb/fae4c6cc2acbf2b0c9e6) I got from the bibliographic data with:
 
     cut -f1,1 < hathi_latin_ids.tsv > latin_ids_only.txt
     grep -F -f latin_ids_only.txt pd-basic-file-listing.txt > pd-basic-latin.txt
