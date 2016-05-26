@@ -13,6 +13,10 @@ I've also added a simple JSON validation with [JSON Lint](https://github.com/zaa
 
 <script src="https://gist-it.appspot.com/github/ryanfb/iiif-universe/blob/gh-pages/.travis.yml"></script>
 
+You can even do CSV validation with [`csvlint`](https://github.com/theodi/csvlint.rb) (schema optional):
+
+<script src="https://gist-it.appspot.com/github/ryanfb/loeb-copyright/blob/master/.travis.yml"></script>
+
 Hopefully these simple examples give you an idea of how to get started and apply the same pattern to your data repositories—even if you aren't using Travis, the same principle should work for other continuous integration solutions.
 
 Of course, you could also go further than "just" schema validation or linting, and start adding assertions about the data content itself!
