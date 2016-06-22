@@ -1,5 +1,7 @@
 ---
 title: Text of “Shifting Frontiers in the Digital Humanities”
+tags:
+- talks
 ---
 
 Below is the text for my [Shifting Frontiers in Late Antiquity XI](https://shiftingfrontiers2015.wordpress.com/) keynote speech "Shifting Frontiers in the Digital Humanities", delivered at the University of Iowa.

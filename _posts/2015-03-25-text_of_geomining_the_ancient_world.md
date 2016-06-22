@@ -1,5 +1,7 @@
 ---
 title: Text of “Geomining the Ancient World”
+tags:
+- talks
 ---
 
 Below is the text for my talk "Geomining the Ancient World", delivered at the University of Iowa.
