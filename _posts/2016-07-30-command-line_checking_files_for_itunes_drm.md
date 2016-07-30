@@ -13,6 +13,8 @@ From inside your iTunes Library folder, you can list all files that have iTunes 
       if [ $? -eq 0 ]; then echo $file; fi; \
     done > ~/drmfiles.txt
 
+**Edit:** After running this, I noticed that some music files have the `AppleStoreAccount` field but don't actually have iTunes DRM. It seems like, for music, files ending in the `.m4p` extension have iTunes DRM while `.m4a` files will not.
+
 ### Footnotes:
 
 [^mediainfo]: You can install the `mediainfo` command line interface on a Mac with `brew install mediainfo` if you have [Homebrew](http://brew.sh/) installed.
