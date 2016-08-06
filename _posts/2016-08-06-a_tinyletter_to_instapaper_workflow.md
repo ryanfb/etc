@@ -1,0 +1,9 @@
+---
+title: A TinyLetter to Instapaper Workflow
+---
+If you're like me, you use something like Instapaper (or Pinboard, Pocket, etc.) to manage your articles-to-read queue. For me, email is something completely different than a queue of things to read, and I do my best to keep unnecessary things out of my inbox. However, there are some [TinyLetter](https://www.tinyletter.com/) newsletters that are interesting and have unique content, and I didn't want to miss out on them. Here's what I came up with:
+
+1. Log in to your Instapaper account, then visit this page and copy the email address: <https://www.instapaper.com/save/email>
+2. Select a [plus-addressing suffix for your GMail account](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) you'd like to use for TinyLetter, e.g. `example+tinyletter@gmail.com`
+3. Set up a forwarding filter in GMail that forwards email to this plus-addressed email to your Instapaper email noted in step 1. You can only do this in the GMail classic interface instead of Google Inbox (click the "GMail" link in the sidebar of Inbox to get there if you're using Inbox). In GMail, click the "gear" icon in the top right, then "Settings", then "Forwarding and POP/IMAP", and "Add a forwarding address" with the Instapaper email from step 1. Go to Instapaper and do any confirmation you need to do. Now back in GMail settings, click "Filters and Blocked Addresses", then "Create a new filter", then put your plus-addressed email in the "To" field, click continue, then select "Forward it to" with the Instapaper email address you've added. I also checked "Skip the Inbox" and "Mark as read".
+4. Sign up for TinyLetter newsletters with the plus-addressed email account you've configured. You may need to confirm subscription by clicking the confirmation links in Instapaper or GMail.
