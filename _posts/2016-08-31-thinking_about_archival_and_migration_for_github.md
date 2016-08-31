@@ -28,7 +28,7 @@ There are also some existing software projects that can help back up individual 
 * [github-records-archiver](https://github.com/benbalter/github-records-archiver)
 * [BackHub](https://backhub.co/)
 
-You can also use [Zenodo's GitHub integration](https://guides.github.com/activities/citable-code/) to generate DOI's for archived release snapshots from GitHub repositories.
+You can also use [Zenodo's GitHub integration](https://guides.github.com/activities/citable-code/) to generate DOI's for archived release snapshots from GitHub repositories. Similarly, the [Open Science Framework](https://osf.io/) offers GitHub integration and file archiving.
 
 The question then is: are these enough, or do we need to step up to ensure we're *actively* archiving the things we want to keep, before it's too late?
 
