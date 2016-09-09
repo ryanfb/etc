@@ -5,7 +5,7 @@ If you run a [Jekyll](https://jekyllrb.com/) blog (like this one!), you might be
 
 Adding a [sitemap](https://en.wikipedia.org/wiki/Site_map) to your Jekyll blog or website is easy. Assuming your configuration is relatively straightforward, using the [`jekyll-sitemap` plugin](https://github.com/jekyll/jekyll-sitemap) can be as simple as [adding a line to your site's `_config.yml` if you're using GitHub Pages](https://help.github.com/articles/sitemaps-for-github-pages/). Once you've done that, test that the URLs you're generating in the resulting `sitemap.xml` are valid and you should be good to go. Generating a sitemap also has SEO benefits, as it allows search engines to crawl your site more easily.[^google]
 
-Once you have a working sitemap, you can get the URLs back out of it with `sitemap-urls`: [^bash]
+Once you have a working sitemap, you can get the URLs back out of it with [`sitemap-urls`](https://www.npmjs.com/package/sitemap-urls): [^bash]
 
     curl https://mysite.github.io/sitemap.xml | sitemap-urls
 
