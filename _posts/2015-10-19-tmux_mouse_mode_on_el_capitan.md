@@ -2,6 +2,10 @@
 title: tmux mouse mode on El Capitan
 ---
 
+#### UPDATE: With recent releases of `tmux` many configuration options have changed. If you're running `tmux` 2.4 or later please read [this issue comment](https://github.com/tmux/tmux/issues/754#issuecomment-297452143) for a potential resolution.
+
+---
+
 With the release of OS X 10.11 "El Capitan" came a new `Terminal.app` which has different mouse behavior with [`tmux`](https://tmux.github.io/). This affects both copy/paste and scrolling with `tmux` 2.0's `mode-mouse`. If you're running `tmux` 2.0 and have lines like:
 
     set -g mode-mouse on
