@@ -41,7 +41,7 @@ Or for something closer to my original CPS2 resolution/timings:
 
 There's many more sample modelines and additional information available here: <http://sommerp.net/doku.php?id=raspberry_pi_arcade>
 
-If you upgrade to a full x86 PC, [GroovyMAME/GroovyArcade](http://forum.arcadecontrols.com/index.php?board=52.0) seems like a good option specifically for running on original arcade monitors.
+If you upgrade to a full x86 PC, [GroovyMAME/GroovyArcade](http://forum.arcadecontrols.com/index.php?board=52.0) seems like a good option specifically designed for running on original arcade monitors.
 
 # Sound
 
