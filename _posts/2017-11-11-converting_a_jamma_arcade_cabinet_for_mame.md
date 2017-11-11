@@ -64,6 +64,8 @@ Another complicating factor is how comfortable you are with wiring things up in 
 
 **If you're not comfortable wiring a bunch of things up, just get one of the PM2038-based options listed above.** The shipping is a little slower but they already have USB and 3.5mm audio connections wired together, so you can connect it to the Raspberry Pi with just a [USB-A cable](http://amzn.to/2xS2nec) and [3.5mm aux cable](http://amzn.to/2xRWRIv). Then you can just use the screw terminals and jumper wire to wire the amp's left channel to the J-PAC. This is what I finally wound up using, and is really the route I'd suggest for most people. For me, it's plenty loud even with the volume set about halfway.
 
+If you're worried about potentially losing a channel with stereo-audio games and mono audio, [this post has some instructions for downmixing to mono with ALSA](http://pi.eggum.net/2013/09/airplay-or-shairport-that-is.html).
+
 # Inputs
 
 If you're using a RetroArch-based distribution on your Raspberry Pi (like Lakka, RetroPie, or RecalBox), you'll need to map the inputs for the J-PAC. You can set this in `retroarch.cfg` (omitting the first four lines), or try to use the following as an autoconfig:
