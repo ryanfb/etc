@@ -72,7 +72,7 @@ If you're using a RetroArch-based distribution on your Raspberry Pi (like Lakka,
 
 <script src="https://gist-it.appspot.com/https://github.com/libretro/retroarch-joypad-autoconfig/blob/master/udev/Ultimarc_J-PAC.cfg"></script>
 
-Keeping [the J-PAC default input code table](https://www.ultimarc.com/jpac2.html) handy will probably be helpful as well, as there are some combination inputs that won't be immediately obvious (e.g. 1P start + left for enter, 1P + 2P start for escape). A tricky point for me was the P2 coin insert for MAME - some arcade games will only start player 2 from a P2 coin insert, and while my P1 coin chute worked correctly, my P2 coin chute didn't. To get around this I changed my RetroArch config to omit "`input_menu_toggle = ~`" and have "`input_player2_select = ~`". After this, pressing 1P + up worked as a P2 coin insert for MAME.
+Keeping [the J-PAC default input code table](https://www.ultimarc.com/jpac2.html) handy will probably be helpful as well, as there are some combination inputs that won't be immediately obvious (e.g. 1P start + left for enter, 1P + 2P start for escape). A tricky point for me was the P2 coin insert for MAME - some arcade games will only start player 2 from a P2 coin insert, and while my P1 coin chute worked correctly, my P2 coin chute didn't. To get around this I changed my RetroArch config to omit "`input_pause_toggle = p`" and have "`input_player2_select = p`". After this, pressing 1P + down worked as a P2 coin insert for MAME.
 
 # Kick Harness
 
