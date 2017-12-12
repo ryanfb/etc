@@ -10,3 +10,7 @@ env:
 branches:
   only:
   - gh-pages
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
