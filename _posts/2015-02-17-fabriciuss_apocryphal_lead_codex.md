@@ -11,7 +11,7 @@ Related to my [previous post on the Kircherian metal codex]({{ site.baseurl }}{%
 
 More thorough searching turned up the probable actual source of Huth's quote, [Fabricius's *De metallicis rebus*](https://books.google.com/books?id=s2FWAAAAcAAJ&lpg=PT47&pg=PT47#v=onepage&q&f=false):
 
-> <a href="http://imgur.com/0RG4X8c"><img src="http://i.imgur.com/0RG4X8c.png" title="source: imgur.com" /></a>
+> ![Excerpt from De metallicis rebus]({{ site.baseurl }}/assets/fabricius/demetallicisrebus.png)
 
 If anyone has any further information about this artifact, I would love to hear it.
 

@@ -53,7 +53,7 @@ You might have noticed that a large number of these sorts of projects require al
 Finally, I thought I’d just show some examples of things that can be done with geospatial data about the ancient world.
 
 - [Pleiades+](https://github.com/ryanfb/pleiades-plus) ([linking ancient and modern place resources](http://pleiades-plus-gazcomp.appspot.com/))
-- Vicarello (turning [words on cups](https://www.flickr.com/photos/ryanfb/sets/72157636359778805) into [a concrete map visualization](pelagios.github.io/demos/vicarello-alpha/complete-sequence/))
+- Vicarello (turning [words on cups](https://www.flickr.com/photos/ryanfb/sets/72157636359778805) into [a concrete map visualization](http://pelagios.github.io/demos/vicarello-alpha/complete-sequence/))
 - [Itinerarium](http://ryanfb.github.io/itinerarium/) (mashing together modernity and antiquity)
 - [Texts/Collections in Trismegistos](http://bl.ocks.org/ryanfb/4ef9795dcfc8063a2e99) (applying the transitive property to learn something about what he have from the ancient world through modern geo data)
 
