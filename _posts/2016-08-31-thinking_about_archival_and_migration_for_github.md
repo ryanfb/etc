@@ -24,7 +24,7 @@ Luckily, there are a few projects already working on some of the challenges of "
 
 There are also some existing software projects that can help back up individual repositories or entire accounts:
 
-* [github-backup](https://github.com/joeyh/github-backup)
+* [github-backup](http://github-backup.branchable.com/)
 * [github-records-archiver](https://github.com/benbalter/github-records-archiver)
 * [BackHub](https://backhub.co/)
 
