@@ -75,6 +75,13 @@ Many of these are gleaned from two Twitter threads I have bookmarked, where you 
 
 ---
 
+# *Classical Greek: A New Grammar*
+## Juan Coderch
+
+* [Classical Greek: A New Grammar](http://amzn.to/2oDdMMi) and [freely available as a PDF from the author](http://coderch-greek-latin-grammar.weebly.com/main-presentation1.html)
+
+---
+
 Recently, two free and open textbooks for learning Ancient Greek have also been published online. These are:
 
 # *Ancient Greek for Everyone*
