@@ -75,21 +75,21 @@ Many of these are gleaned from two Twitter threads I have bookmarked, where you 
 
 ---
 
-# Introduction to Greek
+# *Introduction to Greek*
 ## Cynthia W. Shelmerdine
 
 * [Introduction to Greek](http://amzn.to/2D1CVo6)
 
 ---
 
-# A New Introduction to Greek
+# *A New Introduction to Greek*
 ## Alston Hurd Chase and Henry Phillips Jr.
 
 * [A New Introduction to Greek](http://amzn.to/2tlksDz)
 
 ---
 
-# Complete Ancient Greek
+# *Complete Ancient Greek*
 ## Gavin Betts and Alan Henry
 
 * [Complete Ancient Greek](http://amzn.to/2H2zv71)
