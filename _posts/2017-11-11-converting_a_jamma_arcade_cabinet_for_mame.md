@@ -8,6 +8,8 @@ This post is intended as a summary of what I learned in the process, and a rough
 
 I've also made a convenient [Amazon Shopping List of the parts I've used available here](http://amzn.to/2zPyxvC).
 
+<a href="{{ site.baseurl }}/assets/jamma/sfalpha.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/sfalpha-thumb.jpg" width="33%" alt="Original Street Fighter Alpha arcade hardware running"/></a> <a href="{{ site.baseurl }}/assets/jamma/hardware.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/hardware-thumb.jpg" width="33%" alt="Original Street Fighter Alpha arcade hardware"/></a> <a href="{{ site.baseurl }}/assets/jamma/firstboot.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/firstboot-thumb.jpg" width="33%" alt="First successful Lakka/RasPi boot on arcade hardware!"/></a>
+
 # Connecting a Raspberry Pi to JAMMA
 
 Since arcade operators often wanted to use the same cabinet for different games, a standard connector (the JAMMA connector) was adopted to make changing games easier. This handles input buttons, power, and video signals. Since I wanted to have the ability to switch back to original arcade hardware (and not have to constantly rewire everything), I wanted to also use the standard JAMMA connector to connect my Raspberry Pi.
@@ -88,12 +90,12 @@ Using the pin-out from the SF Alpha arcade manual was also helpful for getting t
 
 ![Kick harness pin-out from arcade manual]({{ site.baseurl }}/assets/jamma/harness.png)
 
-<a href="{{ site.baseurl }}/assets/jamma/arcade-harness-top.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/arcade-harness-top-thumb.jpg" width="33%" alt="Top view of arcade kick harness cable"/></a>
-<a href="{{ site.baseurl }}/assets/jamma/wired-connector.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/wired-connector-thumb.jpg" width="33%" alt="Top view of wired board-end connector"/></a>
-<a href="{{ site.baseurl }}/assets/jamma/wired-jpac.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/wired-jpac-thumb.jpg" width="33%" alt="Board-end connector wired to J-PAC"/></a>
+<a href="{{ site.baseurl }}/assets/jamma/arcade-harness-top.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/arcade-harness-top-thumb.jpg" width="33%" alt="Top view of arcade kick harness cable"/></a> <a href="{{ site.baseurl }}/assets/jamma/wired-connector.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/wired-connector-thumb.jpg" width="33%" alt="Top view of wired board-end connector"/></a> <a href="{{ site.baseurl }}/assets/jamma/wired-jpac.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/wired-jpac-thumb.jpg" width="33%" alt="Board-end connector wired to J-PAC"/></a>
 
 You can see I actually wired the connector up with the solderless cables on the "outer" end of the connector that would normally connect to the arcade harness, since the pins are longer on that side and the cables have a more solid connection that way - plugging the existing arcade harness into the "board" side of the connector works fine.
 
 # Conclusion
 
 At the end of all this, you should have a working arcade cabinet that you can use for MAME with a Raspberry Pi or PC, while still being able to easily switch back to original arcade boards. In the future I'd like to try to power the Raspberry Pi off the arcade power supply, but right now I'm happy with working sound and inputs. Hopefully this guide helps someone else who's as confused as I was!
+
+<a href="{{ site.baseurl }}/assets/jamma/doom.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/doom-thumb.jpg" width="49%" alt="Doom running on arcade hardware"/></a> <a href="{{ site.baseurl }}/assets/jamma/ninja50.jpg" target="_blank"><img src="{{ site.baseurl }}/assets/jamma/ninja50-thumb.jpg" width="49%" alt="Ninja Five-O running on arcade hardware"/></a>
