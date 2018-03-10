@@ -68,11 +68,13 @@ If you're worried about potentially losing a channel with stereo-audio games and
 
 # Inputs
 
-If you're using a RetroArch-based distribution on your Raspberry Pi (like Lakka, RetroPie, or RecalBox), you'll need to map the inputs for the J-PAC. You can set this in `retroarch.cfg` (omitting the first four lines), or try to use the following as an autoconfig:
+If you're using a RetroArch-based distribution on your Raspberry Pi (like Lakka, RetroPie, or RecalBox), you'll need to map the inputs for the J-PAC. You can set this in `retroarch.cfg` (omitting the first four lines), or try to use the following as an autoconfig (by copying to your Lakka SAMBA share's "Joypads" mount):
 
 <script src="https://gist-it.appspot.com/https://github.com/libretro/retroarch-joypad-autoconfig/blob/master/udev/Ultimarc_J-PAC.cfg"></script>
 
 Keeping [the J-PAC default input code table](https://www.ultimarc.com/jpac2.html) handy will probably be helpful as well, as there are some combination inputs that won't be immediately obvious (e.g. 1P start + left for enter, 1P + 2P start for escape). A tricky point for me was the P2 coin insert for MAME - some arcade games will only start player 2 from a P2 coin insert, and while my P1 coin chute worked correctly, my P2 coin chute didn't. To get around this I changed my RetroArch config to omit "`input_pause_toggle = p`" and have "`input_player2_select = p`". After this, pressing 1P + down worked as a P2 coin insert for MAME.
+
+Another issue is that many of the default `retroarch.cfg` button mappings overlap in awkward ways with the default J-PAC keyboard codes (so, for example, pressing a button might wind up mapped to both an "A" button press and the emulator fast-forward function, which makes for some strange gameplay). The only solution (as far as I can tell) is to override all those settings with `"nul"` values. To do this, you can access "Configfiles" off your Lakka SAMBA share, then copy `retroarch/retroarch.cfg` to a local directory, apply [this patch](https://gist.github.com/ryanfb/73b31628067b353be8435522ab3e3726) with `patch -p1`, then copy the patched `retroarch.cfg` back to your Lakka share (and then restart Lakka/RetroArch). This patch also sets the button configs to those described above, just in case there's problems loading the Joypads config.
 
 # Kick Harness
 
