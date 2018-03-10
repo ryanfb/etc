@@ -4,7 +4,7 @@ tags:
 - docker
 ---
 
-If you've [installed `docker`/`boot2docker` on Mac OS X](http://penandpants.com/2014/03/09/docker-via-homebrew/) and are getting `no space left on device` errors, you're likely to have already come across [some arcane instructions for increasing boot2docker volume size](https://docs.docker.com/articles/b2d_volume_resize/). If you've already tried [removing untagged docker images](http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html) and are still running into space issues (maybe you're just trying to build something really big?), you can actually very easily change your `boot2docker` volume size by editing [your `boot2docker` configuration](https://github.com/boot2docker/boot2docker-cli#configuration).[^docker-machine] [^docker-mac]
+If you've [installed `docker`/`boot2docker` on Mac OS X](http://penandpants.com/2014/03/09/docker-via-homebrew/) and are getting `no space left on device` errors, you're likely to have already come across [some arcane instructions for increasing boot2docker volume size](https://web.archive.org/web/20151007203105/https://docs.docker.com/articles/b2d_volume_resize/). If you've already tried [removing untagged docker images](http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html) and are still running into space issues (maybe you're just trying to build something really big?), you can actually very easily change your `boot2docker` volume size by editing [your `boot2docker` configuration](https://github.com/boot2docker/boot2docker-cli#configuration).[^docker-machine] [^docker-mac]
 
 Add the following line(s) to `~/.boot2docker/profile` (creating it if it's not already there):
 

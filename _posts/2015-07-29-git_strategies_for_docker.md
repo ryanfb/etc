@@ -57,7 +57,7 @@ Here, you just have your `Dockerfile` in the same git repository alongside the c
 
 ## Volume mapping
 
-If you're using Docker to set up a dev/test environment that you want to share among a wide variety of source repos on your host machine, [mounting a host directory as a data volume](https://docs.docker.com/userguide/dockervolumes/#mount-a-host-directory-as-a-data-volume) may be a viable strategy. This gives you the ability to specify which directories you want to include at `docker run`-time, and avoids concerns about `docker build` caching, but none of this will be shared among other users of your `Dockerfile` or container image.
+If you're using Docker to set up a dev/test environment that you want to share among a wide variety of source repos on your host machine, [mounting a host directory as a data volume](https://docs.docker.com/engine/admin/volumes/bind-mounts/) may be a viable strategy. This gives you the ability to specify which directories you want to include at `docker run`-time, and avoids concerns about `docker build` caching, but none of this will be shared among other users of your `Dockerfile` or container image.
 
 
 ### Footnotes

@@ -2,7 +2,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 baseurl: /etc
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 defaults:

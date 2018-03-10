@@ -24,4 +24,4 @@ You can then copy, say, the 500 sharpest frames out of 5,000 with a minimum "sha
 
 ### Footnotes
 
-[^recap360]: [Autodesk ReCap360](https://recap360.autodesk.com/), for example, [limits you to 50 input images for the free "Preview" mode](http://forums.autodesk.com/t5/photo-on-recap360/image-number-limit/td-p/51/28256).
+[^recap360]: [Autodesk ReCap360](https://web.archive.org/web/20160325145302/https://recap.autodesk.com/), for example, [limits you to 50 input images for the free "Preview" mode](http://forums.autodesk.com/t5/photo-on-recap360/image-number-limit/td-p/51/28256).

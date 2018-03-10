@@ -21,7 +21,7 @@ Which should download [my image from Docker Hub](https://registry.hub.docker.com
 Using an AWS GPU-Enabled Docker Host
 ------------------------------------
 
-Because my VisualSFM image builds on [work by Traun Leyden](http://tleyden.github.io/blog/2014/10/25/docker-on-aws-gpu-ubuntu-14-dot-04-slash-cuda-6-dot-5/) to build [a CUDA-enabled Ubuntu install with Docker](https://registry.hub.docker.com/u/tleyden5iwx/ubuntu-cuda/), you can run the `cuda` tag/branch of it in a GPU-enabled environment to take advantage of [SiftGPU](http://cs.unc.edu/~ccwu/siftgpu/) during the SIFT feature recognition stage of VisualSFM processing (with no GPU/CUDA support detected, it will fall back to the CPU-based [VLFeat](http://www.vlfeat.org/) SIFT implementation).[^siftgpu]
+Because my VisualSFM image builds on [work by Traun Leyden](http://tleyden.github.io/blog/2014/10/25/docker-on-aws-gpu-ubuntu-14-dot-04-slash-cuda-6-dot-5/) to build [a CUDA-enabled Ubuntu install with Docker](https://registry.hub.docker.com/u/tleyden5iwx/ubuntu-cuda/), you can run the `cuda` tag/branch of it in a GPU-enabled environment to take advantage of [SiftGPU](https://web.archive.org/web/20170119042419/http://cs.unc.edu/~ccwu/siftgpu/) during the SIFT feature recognition stage of VisualSFM processing (with no GPU/CUDA support detected, it will fall back to the CPU-based [VLFeat](http://www.vlfeat.org/) SIFT implementation).[^siftgpu]
 
 This means you can also use [his instructions and AMI for building a CUDA-enabled AWS EC2 instance](http://tleyden.github.io/blog/2014/10/25/cuda-6-dot-5-on-aws-gpu-instance-running-ubuntu-14-dot-04/), and then run my VisualSFM image inside it.
 

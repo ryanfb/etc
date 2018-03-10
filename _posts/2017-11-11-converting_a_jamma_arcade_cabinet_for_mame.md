@@ -6,6 +6,8 @@ We recently acquired (for free!) an original Street Fighter Alpha: Warriors' Dre
 
 This post is intended as a summary of what I learned in the process, and a rough guide for anyone who wants to do something similar and isn't super-familiar with arcade electronics.
 
+I've also made a convenient [Amazon Shopping List of the parts I've used available here](http://amzn.to/2zPyxvC).
+
 # Connecting a Raspberry Pi to JAMMA
 
 Since arcade operators often wanted to use the same cabinet for different games, a standard connector (the JAMMA connector) was adopted to make changing games easier. This handles input buttons, power, and video signals. Since I wanted to have the ability to switch back to original arcade hardware (and not have to constantly rewire everything), I wanted to also use the standard JAMMA connector to connect my Raspberry Pi.

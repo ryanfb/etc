@@ -1,0 +1,16 @@
+dist: trusty
+language: ruby
+sudo: false
+rvm:
+- 2.4
+script: bundle exec rake test
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+branches:
+  only:
+  - gh-pages
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
