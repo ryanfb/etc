@@ -5,6 +5,7 @@ baseurl: /etc
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+exclude: [vendor]
 defaults:
   -
     scope:
