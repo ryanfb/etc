@@ -4,7 +4,7 @@ title: Building CloudCompare with E57 Support on OS X
 
 The E57 format is used for storing 3D point clouds (from e.g. LiDAR), and is implemented in [libE57](http://www.libe57.org/). Unfortunately, that library is relatively unmaintained, and doesn't build out-of-the-box on OS X. Fortunately, [Andy Maloney has already forked it and patched it to address OS X compatibility and other issues](https://github.com/asmaloney/libE57Format).
 
-[CloudCompare](http://cloudcompare.org/) is a popular cross-platform software package for working with point clouds that uses libE57 for E57 support, but as of this writing the latest distributed OS X build doesn't have E57 support enabled (yet). Since building it myself with E57 support enabled was a little tricky, I wanted to document the process for others. This assumes some command-line familiarity and a working [Homebrew](https://brew.sh/) install, but hopefully it will be of some use.
+[CloudCompare](http://cloudcompare.org/) is a popular cross-platform software package for working with point clouds that uses libE57 for E57 support, but as of this writing the latest distributed OS X build doesn't have E57 support enabled (yet). Since building CloudCompare myself with E57 support enabled was a little tricky, I wanted to document the process for others. This assumes some command-line familiarity and a working [Homebrew](https://brew.sh/) install, but hopefully it will be of some use.
 
 1. Install the dependencies you'll need to [build CloudCompare](https://github.com/CloudCompare/CloudCompare/blob/master/BUILD.md): `brew install xerces-c qt@5.5 cmake`
 2. Clone CloudCompare: `git clone --recursive https://github.com/cloudcompare/trunk.git cloudcompare`
