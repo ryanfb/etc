@@ -13,7 +13,7 @@ The E57 format is used for storing 3D point clouds (from e.g. LiDAR), and is imp
    * Edit `CMakeLists.txt` to say `set(Xerces_USE_STATIC_LIBS Off)` instead of `set(Xerces_USE_STATIC_LIBS On)`
    * Run CMake: `XERCES_ROOT="/usr/local/Cellar/xerces-c/3.2.1/" cmake .`
    * Build: `make`
-   * Install: `sudo make install` (this will install to `/usr/local/E57Format-2.0-x86_64-darwin`
+   * Install: `sudo make install` (this will install to `/usr/local/E57Format-2.0-x86_64-darwin`)
 4. Build CloudCompare:
    * `cd ../..` (get back to the `cloudcompare` root directory)
    * `mkdir build && cd build`
