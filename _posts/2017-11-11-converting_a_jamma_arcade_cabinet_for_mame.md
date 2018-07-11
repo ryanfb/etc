@@ -43,7 +43,7 @@ Or for something closer to my original CPS2 resolution/timings:
 
     hdmi_timings=384 1 0 11 28 224 1 10 0 30 0 0 0 60 0 6400000 1 # 384:224
 
-There's many more sample modelines and additional information available here: <http://sommerp.net/doku.php?id=raspberry_pi_arcade>
+There's many more sample modelines and additional information available here: `http://sommerp.net/doku.php?id=raspberry_pi_arcade` (dead link, archived version [here]({{ site.baseurl }}/assets/jamma/raspberry_pi_arcade.html))
 
 If you upgrade to a full x86 PC, [GroovyMAME/GroovyArcade](http://forum.arcadecontrols.com/index.php?board=52.0) seems like a good option specifically designed for running on original arcade monitors.
 

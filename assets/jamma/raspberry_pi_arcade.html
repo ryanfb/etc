@@ -1,0 +1,568 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>
+    raspberry_pi_arcade    [sommerp.net]
+  </title>
+
+  <meta name="generator" content="DokuWiki">
+<meta name="robots" content="index,follow">
+<meta name="date" content="2017-02-27T15:17:35+0100">
+<meta name="keywords" content="raspberry_pi_arcade">
+<link rel="search" type="application/opensearchdescription+xml" href="http://sommerp.net/lib/exe/opensearch.php" title="sommerp.net">
+<link rel="start" href="http://sommerp.net/">
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="http://sommerp.net/feed.php">
+<link rel="alternate" type="application/rss+xml" title="Current Namespace" href="http://sommerp.net/feed.php?mode=list&amp;ns=">
+<link rel="alternate" type="text/html" title="Plain HTML" href="http://sommerp.net/doku.php?do=export_xhtml&amp;id=raspberry_pi_arcade">
+<link rel="stylesheet" media="screen" type="text/css" href="raspberry_pi_arcade_files/css_003.txt">
+<link rel="stylesheet" media="all" type="text/css" href="raspberry_pi_arcade_files/css.txt">
+<link rel="stylesheet" media="print" type="text/css" href="raspberry_pi_arcade_files/css_002.txt">
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+var NS='';var JSINFO = {"id":"raspberry_pi_arcade","namespace":""};
+//--><!]]></script>
+<script type="text/javascript" charset="utf-8" src="raspberry_pi_arcade_files/js.txt"></script>
+
+
+  </head>
+
+<body>
+<div class="dokuwiki">
+  
+  <div class="stylehead">
+
+    <div class="header">
+      <div class="pagename">
+        [[<a href="http://sommerp.net/doku.php?id=raspberry_pi_arcade&amp;do=backlink&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" title="Backlinks">raspberry_pi_arcade</a>]]
+      </div>
+      <div class="logo">
+        <a href="http://sommerp.net/doku.php?DokuWiki=2823d70f43250e96456e8ea52fc735b3" name="dokuwiki__top" id="dokuwiki__top" accesskey="h" title="[H]">sommerp.net</a>      </div>
+
+      <div class="clearer"></div>
+    </div>
+
+    
+    <div class="bar" id="bar__top">
+      <div class="bar-left" id="bar__topleft">
+                      </div>
+
+      <div class="bar-right" id="bar__topright">
+                &nbsp;
+      </div>
+
+      <div class="clearer"></div>
+    </div>
+
+        <div class="breadcrumbs">
+      <span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><a href="http://sommerp.net/doku.php?id=raspberry_pi_arcade&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="breadcrumbs" title="raspberry_pi_arcade">raspberry_pi_arcade</a></span>          </div>
+    
+    
+  </div>
+  
+  
+  <div class="page">
+    <!-- wikipage start -->
+    <!-- TOC START -->
+<div class="toc">
+<div class="tocheader toctoggle" id="toc__header">Table of Contents</div>
+<div id="toc__inside">
+
+<ul class="toc">
+<li class="clear">
+
+<ul class="toc">
+<li class="level2"><div class="li"><span class="li"><a href="#cabling_overview_layout" class="toc">Cabling Overview Layout</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#modified_retropie_files" class="toc">Modified Retropie Files</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#hdmi_timings_wip" class="toc">hdmi_timings (WIP)</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#related_videos" class="toc">Related Videos</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#faq" class="toc">FAQ</a></span></div></li>
+<li class="level2"><div class="li"><span class="li"><a href="#hardware_list" class="toc">Hardware List</a></span></div>
+<ul class="toc">
+<li class="level3"><div class="li"><span class="li"><a href="#core_components" class="toc">Core Components</a></span></div></li>
+<li class="level3"><div class="li"><span class="li"><a href="#for_sony_pvm" class="toc">For Sony PVM</a></span></div></li>
+<li class="level3"><div class="li"><span class="li"><a href="#for_scart_tv" class="toc">For SCART TV</a></span></div></li>
+<li class="level3"><div class="li"><span class="li"><a href="#section" class="toc">...</a></span></div></li></ul>
+</li></ul>
+</li></ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h2 class="sectionedit1"><a name="cabling_overview_layout" id="cabling_overview_layout">Cabling Overview Layout</a></h2>
+<div class="level2">
+<div class="table sectionedit2"><table class="inline">
+	<tbody><tr class="row0">
+		<th class="col0">Sony PVM 14M4E <br>
+(RGB)</th><td class="col1"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=layout.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="layout.png"><img src="raspberry_pi_arcade_files/fetch_002.jpg" class="media" alt=""></a></td>
+	</tr>
+	<tr class="row1">
+		<th class="col0">Consumer TV <br>
+(SCART)</th><td class="col1"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=layoutconsumer.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="layoutconsumer.png"><img src="raspberry_pi_arcade_files/fetch_004.jpg" class="media" alt=""></a></td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h2 class="sectionedit3"><a name="modified_retropie_files" id="modified_retropie_files">Modified Retropie Files</a></h2>
+<div class="level2">
+<div class="table sectionedit4"><table class="inline">
+	<tbody><tr class="row0">
+		<th class="col0">Importance</th><th class="col1">File</th><th class="col2">Quick Infuse</th>
+	</tr>
+	<tr class="row1">
+		<td class="col0">required</td><td class="col1"><a href="http://sommerp.net/lib/exe/fetch.php?media=config.txt&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media mediafile mf_txt" title="config.txt">config.txt</a></td><td class="col2"><pre class="code">cd /boot
+sudo wget http://sommerp.net/lib/exe/fetch.php?media=config.txt -O config.txt -P /boot</pre>
+</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">optional</td><td class="col1"><a href="http://sommerp.net/lib/exe/fetch.php?media=bashrc&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media mediafile mf_" title="bashrc">bashrc</a></td><td class="col2"><pre class="code">cd /home/pi 
+sudo wget http://sommerp.net/lib/exe/fetch.php?media=bashrc -O .bashrc -P /home/pi</pre>
+</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">optional</td><td class="col1">onstart</td><td class="col2">…</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">optional</td><td class="col1">onend</td><td class="col2">…</td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h2 class="sectionedit5"><a name="hdmi_timings_wip" id="hdmi_timings_wip">hdmi_timings (WIP)</a></h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <em>a lot of testing is needed to expand the table below. Usefull ressources on the internet are still very rare</em></div>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> change resolution on the fly via <strong>vcgencmd</strong> without reboot</div>
+<ul>
+<li class="level2"><div class="li"> Example for CPS II System</div>
+</li>
+<li class="level2"><div class="li"> <pre class="code">vcgencmd hdmi_timings 384 1 0 11 28 224 1 30 0 30 0 0 0 60 0 6400000 1</pre>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<div class="table sectionedit6"><table class="inline">
+	<tbody><tr class="row0">
+		<th class="col0">h_active_pixels</th><th class="col1">h_sync_polarity</th><th class="col2">h_front_porch</th><th class="col3">h_sync_pulse</th><th class="col4">h_back_porch</th><th class="col5">v_active_lines</th><th class="col6">v_sync_polarity</th><th class="col7">v_front_porch</th><th class="col8">v_sync_pulse</th><th class="col9">v_back_porch</th><th class="col10">v_sync_offset_a</th><th class="col11">v_sync_offset_b</th><th class="col12">pixel rep</th><th class="col13">frame_rate</th><th class="col14">interlerlaced</th><th class="col15">pixel freq</th><th class="col16">aspect_ratio</th><th class="col17">Comment</th>
+	</tr>
+	<tr class="row1">
+		<td class="col0">240</td><td class="col1">1</td><td class="col2">54</td><td class="col3">48</td><td class="col4">54</td><td class="col5">160</td><td class="col6">1</td><td class="col7">50</td><td class="col8">10</td><td class="col9">60</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#GBA #240:160 (Prototyp) - Rand ist unten </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0">256</td><td class="col1">1</td><td class="col2">6</td><td class="col3">17</td><td class="col4">18</td><td class="col5">192</td><td class="col6">1</td><td class="col7">26</td><td class="col8">22</td><td class="col9">29</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">4800000</td><td class="col16">1</td><td class="col17">#Sega Master System (NTSC) # 256:192 </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0">256</td><td class="col1">1</td><td class="col2">8</td><td class="col3">17</td><td class="col4">21</td><td class="col5">224</td><td class="col6">1</td><td class="col7">7</td><td class="col8">10</td><td class="col9">24</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">4800000</td><td class="col16">1</td><td class="col17">#NES, SNES (NTSC) #256:224</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0">256</td><td class="col1">1</td><td class="col2">8</td><td class="col3">17</td><td class="col4">21</td><td class="col5">229</td><td class="col6">1</td><td class="col7">0</td><td class="col8">30</td><td class="col9">0</td><td class="col10">12</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">4800000</td><td class="col16">1</td><td class="col17">#PC Engine (zuckelt oben)</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0">260</td><td class="col1">1</td><td class="col2">8 </td><td class="col3">17</td><td class="col4">21</td><td class="col5">230</td><td class="col6">1</td><td class="col7">7</td><td class="col8">24</td><td class="col9">0</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">4800000</td><td class="col16">1</td><td class="col17">260x230x60Hz</td>
+	</tr>
+	<tr class="row6">
+		<td class="col0">320</td><td class="col1">1</td><td class="col2">20</td><td class="col3">29</td><td class="col4">35</td><td class="col5">224</td><td class="col6">1</td><td class="col7">10</td><td class="col8">14</td><td class="col9">16</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#SEGA Genesis (NTSC) 320:224</td>
+	</tr>
+	<tr class="row7">
+		<td class="col0">320</td><td class="col1">1</td><td class="col2">14</td><td class="col3">46</td><td class="col4">28</td><td class="col5">256</td><td class="col6">1</td><td class="col7">17</td><td class="col8">32</td><td class="col9">9</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">50</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#Amiga 320:256 Amiga (PAL)</td>
+	</tr>
+	<tr class="row8">
+		<td class="col0">320</td><td class="col1">1</td><td class="col2">17</td><td class="col3">33</td><td class="col4">34</td><td class="col5">224</td><td class="col6">1</td><td class="col7">14</td><td class="col8">8</td><td class="col9">18</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#320x244x60Hz</td>
+	</tr>
+	<tr class="row9">
+		<td class="col0">320</td><td class="col1">1</td><td class="col2">20</td><td class="col3">30</td><td class="col4">35</td><td class="col5">240</td><td class="col6">1</td><td class="col7">12</td><td class="col8">12</td><td class="col9">16</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#320:240 </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0">336</td><td class="col1">1</td><td class="col2">10</td><td class="col3">30</td><td class="col4">34</td><td class="col5">252</td><td class="col6">1</td><td class="col7">15</td><td class="col8">3</td><td class="col9">42</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">50</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#336:252 6.4MHz progressive</td>
+	</tr>
+	<tr class="row11">
+		<td class="col0">384</td><td class="col1">1</td><td class="col2">0</td><td class="col3">11</td><td class="col4">28</td><td class="col5">224</td><td class="col6">1</td><td class="col7">30</td><td class="col8">0</td><td class="col9">30</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">6400000</td><td class="col16">1</td><td class="col17">#CapcomPlaySystem 1 #384:224</td>
+	</tr>
+	<tr class="row12">
+		<td class="col0">386</td><td class="col1">1</td><td class="col2">10</td><td class="col3">15</td><td class="col4">30</td><td class="col5">226</td><td class="col6">1</td><td class="col7">30</td><td class="col8">0</td><td class="col9">30</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">640000</td><td class="col16">1</td><td class="col17">#386×226</td>
+	</tr>
+	<tr class="row13">
+		<td class="col0">480</td><td class="col1">1</td><td class="col2">29</td><td class="col3">35</td><td class="col4">66</td><td class="col5">234</td><td class="col6">1</td><td class="col7">4</td><td class="col8">10</td><td class="col9">18</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">9600000</td><td class="col16">1</td><td class="col17">#480x234x60Hz</td>
+	</tr>
+	<tr class="row14">
+		<td class="col0">506</td><td class="col1">1</td><td class="col2">8</td><td class="col3">48</td><td class="col4">56</td><td class="col5">240</td><td class="col6">1</td><td class="col7">3</td><td class="col8">10</td><td class="col9">6</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">9600000</td><td class="col16">1</td><td class="col17">#506x240x60Hz</td>
+	</tr>
+	<tr class="row15">
+		<td class="col0">512</td><td class="col1">1</td><td class="col2">16</td><td class="col3">48</td><td class="col4">64</td><td class="col5">288</td><td class="col6">1</td><td class="col7">3</td><td class="col8">5</td><td class="col9">6</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">50</td><td class="col14">0</td><td class="col15">9600000</td><td class="col16">1</td><td class="col17">#512x288x50Hz </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0">512</td><td class="col1">1</td><td class="col2">22</td><td class="col3">32</td><td class="col4">54</td><td class="col5">244</td><td class="col6">1</td><td class="col7">3</td><td class="col8">5</td><td class="col9">6</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">9600000</td><td class="col16">1</td><td class="col17">#512x244x60Hz</td>
+	</tr>
+	<tr class="row17">
+		<td class="col0">512</td><td class="col1">1</td><td class="col2">16</td><td class="col3">48</td><td class="col4">64</td><td class="col5">320</td><td class="col6">1</td><td class="col7">5</td><td class="col8">5</td><td class="col9">0</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">9600000</td><td class="col16">1</td><td class="col17">#512x320x60Hz - flickering stressfull for eyes </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0">1010</td><td class="col1">1</td><td class="col2">24</td><td class="col3">96</td><td class="col4">120</td><td class="col5">288</td><td class="col6">1</td><td class="col7">3</td><td class="col8">10</td><td class="col9">6</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">50</td><td class="col14">0</td><td class="col15">19200000</td><td class="col16">1</td><td class="col17">#1010x288x50Hz</td>
+	</tr>
+	<tr class="row19">
+		<td class="col0">1068</td><td class="col1">1</td><td class="col2">10</td><td class="col3">62</td><td class="col4">72</td><td class="col5">256</td><td class="col6">1</td><td class="col7">2</td><td class="col8">4</td><td class="col9">2</td><td class="col10">0</td><td class="col11">0</td><td class="col12">0</td><td class="col13">60</td><td class="col14">0</td><td class="col15">19200000</td><td class="col16">1</td><td class="col17">#1068x256x60Hz</td>
+	</tr>
+</tbody></table></div>
+<div class="table sectionedit7"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0"><pre class="code">EMULATIONSTATION
+hdmi_timings 450 1 50 30 85 288 1 10 1 25 0 0 0 60 0 9600000 1
+
+NEOGEO
+hdmi_timings 1920 1 152 247 280 224 1 13 8 19 0 0 0 59.186 0 40610000 1
+
+PCENGINE
+hdmi_timings 1920 1 158 250 286 232 1 4 3 23 0 0 0 59.94 0 41060000 1
+
+PLAYSTATION
+hdmi_timings 1920 1 152 247 280 240 1 1 7 14 0 0 0 60 0 40860000 1
+hdmi_timings 1920 1 132 247 280 288 1 3 3 18 0 0 0 50 0 40240000 1
+
+MEGADRIVE/GENESIS/MASTER SYSTEM
+hdmi_timings 1920 1 48 192 240 240 1 3 3 16 0 0 0 59.92 0 37680000 1
+hdmi_timings 1920 1 48 192 240 288 1 6 3 16 0 0 0 49.70 0 37340000 1
+
+NES
+hdmi_timings 1920 1 158 200 286 240 1 1 8 13 0 0 0 60.10 0 40380000 1
+hdmi_timings 1920 1 158 200 314 240 1 23 6 43 0 0 0 50.01 0 40450000 1
+
+SNES
+hdmi_timings 1920 1 160 200 286 224 1 9 8 21 0 0 0 60.10 0 40410000 1
+hdmi_timings 1920 1 158 200 314 239 1 25 6 42 0 0 0 50.01 0 40450000 1
+
+AMIGA
+hdmi_timings 1920 1 180 192 334 262 1 14 15 22 0 0 0 50 0 41200000 1
+
+224p x 60Hz
+hdmi_timings 1920 1 152 247 280 224 1 8 7 23 0 0 0 60 0 40860000 1
+
+240p x 60Hz
+hdmi_timings 1920 1 152 247 280 240 1 3 7 12 0 0 0 60 0 40860000 1
+
+216 x 60Hz
+hdmi_timings 1920 1 152 247 280 224 1 8 7 23 0 0 0 60 0 40860000 1
+
+192 x 60Hz
+hdmi_timings 1920 1 152 247 280 224 1 8 7 23 0 0 0 60 0 40860000 1
+
+256p x 55Hz
+hdmi_timings 1920 1 100 320 260 288 1 1 3 1 0 0 0 55 0 41900000 1
+
+254p53.20Hz
+hdmi_timings 1920 1 100 320 260 254 1 1 3 36 0 0 0 53.20 0 40670000 1
+
+224p58.97Hz
+hdmi_timings 1920 1 50 250 250 250 1 8 10 8 0 0 0 58.97 0 38750000 1
+
+240p55.72Hz
+hdmi_timings 1920 1 50 250 250 260 1 4 5 8 0 0 0 55.72 0 38130000 1</pre>
+</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0">source: <a href="https://github.com/raspberrypi/firmware/issues/734#issuecomment-282567810" class="urlextern" title="https://github.com/raspberrypi/firmware/issues/734#issuecomment-282567810" rel="nofollow">https://github.com/raspberrypi/firmware/issues/734#issuecomment-282567810</a></td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h2 class="sectionedit8"><a name="related_videos" id="related_videos">Related Videos</a></h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <a href="https://www.youtube.com/watch?v=gjUBQKyeWlQ&amp;t=1s" class="urlextern" title="https://www.youtube.com/watch?v=gjUBQKyeWlQ&amp;t=1s" rel="nofollow">https://www.youtube.com/watch?v=gjUBQKyeWlQ&amp;t=1s</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://www.youtube.com/watch?v=aZRce-xaiI4" class="urlextern" title="https://www.youtube.com/watch?v=aZRce-xaiI4" rel="nofollow">https://www.youtube.com/watch?v=aZRce-xaiI4</a></div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit9"><a name="faq" id="faq">FAQ</a></h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Will it work with the official “gert666 VGA adapter”, too?</div>
+<ul>
+<li class="level2"><div class="li"> yes</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> For what distro does it work currently</div>
+<ul>
+<li class="level2"><div class="li"> retropie → OK</div>
+</li>
+<li class="level2"><div class="li"> recalbox → output only blue image</div>
+</li>
+<li class="level2"><div class="li"> rgb-pi → color mismatch</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Why do you use the “VGA Shield / Hat Board” and not the “gert666 VGA adapter”</div>
+<ul>
+<li class="level2"><div class="li"> Technically it´s the same. I ordered
+ the gert666 from china but unfortunately it never arrived. So i had to 
+search for a good alternative. The PCB quality is really good.</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Why should i not use a HDMI to VGA Adapter?</div>
+<ul>
+<li class="level2"><div class="li"> The video signal must be converted 
+from digital to analog. Inside of the adapter is a small chip, who is 
+responsible for this process. This procedure needs time. For normal 
+desktop usage, you wouldn´t notice it at all. Regarding for games, it 
+leads to a common, but unwanted issue called “input lag” or “input 
+delay”</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Are there known problems i should know?</div>
+<ul>
+<li class="level2"><div class="li"> Only Progessive Video works with 
+hdmi_timings. Interlaced modes (for higher resolutions) seem not work 
+however. I tried many different settings but i were not able to get a 
+stable image. </div>
+</li>
+<li class="level2"><div class="li"> Ingame Resolutions and the currently
+ used resolution for retropie may not the same. The image seems “blocky”
+ or “cuted off”. The effect is most visible on text and scrolling.   </div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Does this work on recalbox?</div>
+<ul>
+<li class="level2"><div class="li"> I´ve tried it with recalbox 4.0 with
+ the same settings but red and green is missing. The default Kernel 
+image for recalbox seems customized. I haven´t done a deeper drilldown 
+to this topic. </div>
+</li>
+<li class="level2"><div class="li"> <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=blueimg.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="blueimg.png"><img src="raspberry_pi_arcade_files/fetch_003.jpg" class="media" alt="" width="50"></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> VGA uses <acronym title="Personal Identification Number">PIN</acronym> 13 for H-Sync and <acronym title="Personal Identification Number">PIN</acronym> 14 for V-Sync. How did you combine those two in order to get the C-Sync Signal (= H+V) for your PVM Monitor?</div>
+<ul>
+<li class="level2"><div class="li"> With the BNC-Y-Adapter. Thats all :)</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> The hdmi_timings dont work. All i got is a fuzzy, moving image like this one <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0478.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0478.jpg"><img src="raspberry_pi_arcade_files/fetch_017.jpg" class="media" alt="" width="30"></a></div>
+<ul>
+<li class="level2"><div class="li"> Reason #1 - According to my 
+experience so far, each tube needs its own settings. You will not come 
+arround finding the right timing for your TV.</div>
+</li>
+<li class="level2"><div class="li"> Reason #2 - (unsure/guessing) Your CRT accepts only negative sync. I have no experience and knowledge with this issue, sorry.</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> The screen image seems too big. </div>
+<ul>
+<li class="level2"><div class="li"> If you have a newer CRT, check for scaling settings.</div>
+</li>
+<li class="level2"><div class="li"> <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0477.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0477.jpg"><img src="raspberry_pi_arcade_files/fetch_013.jpg" class="media" alt="" width="50"></a> <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=fullsizerender.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="fullsizerender.jpg"><img src="raspberry_pi_arcade_files/fetch_023.jpg" class="media" alt="" width="20"></a></div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> The top area seems bent / My TV detects the channel as new input all the time / The image disapears and shows again randomly  <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0476.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0476.jpg"><img src="raspberry_pi_arcade_files/fetch_021.jpg" class="media" alt="" width="50"></a></div>
+<ul>
+<li class="level2"><div class="li"> Your´re near to get a perfect hdmi_timing. Slightly change the h_front_porch,h_sync_pulse	and h_back_porch settings. </div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Do you know a tool i can use to get a approximately point of origin for the timings i want?</div>
+<ul>
+<li class="level2"><div class="li"> Yes - I use the <strong>Custom Resolution Utility</strong> (CRU)</div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> Where can i download the CRU Tool?</div>
+<ul>
+<li class="level2"><div class="li"> <a href="https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU" class="urlextern" title="https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU" rel="nofollow">https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU</a></div>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="level1"><div class="li"> A new distro fork from recalbox “RGB-PI” has been launched. How will it perform with the hat board and/or UMSA?</div>
+<ul>
+<li class="level2"><div class="li"> Tested with RGB-Pi 4.0 Beta 3 <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0574.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0574.jpg"><img src="raspberry_pi_arcade_files/fetch_007.jpg" class="media" alt="" width="100"></a> <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0576.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0576.jpg"><img src="raspberry_pi_arcade_files/fetch_018.jpg" class="media" alt="" width="100"></a> <a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=img_0577.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="img_0577.jpg"><img src="raspberry_pi_arcade_files/fetch.jpg" class="media" alt="" width="100"></a></div>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit10"><a name="hardware_list" id="hardware_list">Hardware List</a></h2>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit11"><a name="core_components" id="core_components">Core Components</a></h3>
+<div class="level3">
+<div class="table sectionedit12"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=rpi3.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="rpi3.png"><img src="raspberry_pi_arcade_files/fetch_015.jpg" class="media" alt="" width="100"></a></td><td class="col1">Raspberry Pi 3 Model B</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=microsd.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="microsd.png"><img src="raspberry_pi_arcade_files/fetch_011.jpg" class="media" alt="" width="100"></a></td><td class="col1">64 <acronym title="Gigabyte">GB</acronym> MircoSD Card</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=hat_board.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="hat_board.png"><img src="raspberry_pi_arcade_files/fetch_009.jpg" class="media" alt="" width="100"></a></td><td class="col1">Vullers Tech®. VGA Shield V2.0 for Raspberry Pi 2B, B+ <br>
+GPIO to VGA Interface Expansion Board</td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=extensioncable.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="extensioncable.png"><img src="raspberry_pi_arcade_files/fetch_024.jpg" class="media" alt="" width="100"></a></td><td class="col1">GPIO Extender Cable (optional)</td>
+	</tr>
+	<tr class="row4">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=35audiotorca.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="35audiotorca.jpg"><img src="raspberry_pi_arcade_files/fetch_014.jpg" class="media" alt="" width="100"></a></td><td class="col1">Audio Splitter, 3.5mm Stereo Male To 2 RCA Female</td>
+	</tr>
+	<tr class="row5">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=rcacable.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="rcacable.jpg"><img src="raspberry_pi_arcade_files/fetch_008.jpg" class="media" alt="" width="100"></a></td><td class="col1">Two/2 RCA Cable male to male audio stereo cable</td>
+	</tr>
+	<tr class="row6">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=vgamaletomale.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="vgamaletomale.jpg"><img src="raspberry_pi_arcade_files/fetch_016.jpg" class="media" alt="" width="100"></a></td><td class="col1">VGA Cable Male to Male</td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h3 class="sectionedit13"><a name="for_sony_pvm" id="for_sony_pvm">For Sony PVM</a></h3>
+<div class="level3">
+<div class="table sectionedit14"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=rca_male_to_female.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="rca_male_to_female.png"><img src="raspberry_pi_arcade_files/fetch_020.jpg" class="media" alt="" width="100"></a> </td><td class="col1">RCA Phono Adapter / 1 RCA to 2 RCA Adapter</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=vga2bnc.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="vga2bnc.jpg"><img src="raspberry_pi_arcade_files/fetch_022.jpg" class="media" alt="" width="100"></a></td><td class="col1">5 BNC to VGA Breakout Cable</td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=bncyadapter.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="bncyadapter.png"><img src="raspberry_pi_arcade_files/fetch_006.jpg" class="media" alt="" width="100"></a></td><td class="col1">BNC-Y-Adapter / BNC-male to 2 BNC-female（Y） </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=vga_gender_changer_female_to_female_hd15_dsub.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="vga_gender_changer_female_to_female_hd15_dsub.jpg"><img src="raspberry_pi_arcade_files/fetch_012.jpg" class="media" alt="" width="100"></a></td><td class="col1">VGA Gender Changer Female to Female / D-Sub Gender Changer</td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h3 class="sectionedit15"><a name="for_scart_tv" id="for_scart_tv">For SCART TV</a></h3>
+<div class="level3">
+<div class="table sectionedit16"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=umsa.png&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="umsa.png"><img src="raspberry_pi_arcade_files/fetch_010.jpg" class="media" alt="" width="100"></a></td><td class="col1">UMSA - Ultimate Scart Adapter</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=1-2m-scart-male-to-male-cable-lead-rgb-21-pin-gold-plated.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="1-2m-scart-male-to-male-cable-lead-rgb-21-pin-gold-plated.jpg"><img src="raspberry_pi_arcade_files/fetch_019.jpg" class="media" alt="" width="100"></a></td><td class="col1">Full 21 <acronym title="Personal Identification Number">PIN</acronym> SCART Male to SCART Male</td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h3 class="sectionedit17"><a name="section" id="section">...</a></h3>
+<div class="level3">
+<div class="table sectionedit18"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0">Erik FARAVEL asked me to test it with 306/1/21/30/50/224/1/12/3/23 for SNES - These is the result on my PVM</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=erik_faravel01.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="erik_faravel01.jpg"><img src="raspberry_pi_arcade_files/fetch_005.jpg" class="media" alt="" width="100"></a></td>
+	</tr>
+</tbody></table></div>
+<div class="table sectionedit19"><table class="inline">
+	<tbody><tr class="row0">
+		<td class="col0">Again from Erik FARAVEL for SNES → vcgencmd hdmi_timings 306 1 21 30 50 224 1 12 3 23 0 0 0 60 0 6400000 1</td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"><a href="http://sommerp.net/lib/exe/detail.php?id=raspberry_pi_arcade&amp;media=erik02.jpg&amp;DokuWiki=2823d70f43250e96456e8ea52fc735b3" class="media" title="erik02.jpg"><img src="raspberry_pi_arcade_files/fetch_025.jpg" class="media" alt="" width="100"></a></td>
+	</tr>
+</tbody></table></div>
+
+<p>
+
+<!-- Piwik Image Tracker -->
+<img src="raspberry_pi_arcade_files/piwik.html" style="border: 0px none; display: none !important;" alt="" hidden="">
+<!-- End Piwik -->
+
+</p>
+
+</div>
+
+    <!-- wikipage stop -->
+  </div>
+
+  <div class="clearer"></div>
+
+  
+  <div class="stylefoot">
+
+    <div class="meta">
+      <div class="user">
+              </div>
+      <div class="doc">
+        raspberry_pi_arcade.txt · Last modified: 2017/02/27 15:17 by petersommer      </div>
+    </div>
+
+   
+    <div class="bar" id="bar__bottom">
+      <div class="bar-left" id="bar__bottomleft">
+                              </div>
+      <div class="bar-right" id="bar__bottomright">
+                                <form class="button btn_login" method="get" action="http://sommerp.net/doku.php"><input name="DokuWiki" value="2823d70f43250e96456e8ea52fc735b3" type="hidden"><div class="no"><input name="do" value="login" type="hidden"><input name="sectok" value="b4fd092c34873428f829b0238fd1c8e3" type="hidden"><input name="id" value="raspberry_pi_arcade" type="hidden"><input value="Login" class="button" title="Login" type="submit"></div></form>                <a class="nolink" href="#dokuwiki__top"><input class="button" value="Back to top" onclick="window.scrollTo(0, 0)" title="Back to top" type="button"></a>&nbsp;
+      </div>
+      <div class="clearer"></div>
+    </div>
+
+  </div>
+
+  
+</div>
+
+<div class="footerinc">
+
+  <a href="http://sommerp.net/feed.php?DokuWiki=2823d70f43250e96456e8ea52fc735b3" title="Recent changes RSS feed"><img src="raspberry_pi_arcade_files/button-rss.png" alt="Recent changes RSS feed" width="80" height="15"></a>
+
+  
+  <a href="http://www.dokuwiki.org/donate" title="Donate"><img src="raspberry_pi_arcade_files/button-donate.gif" alt="Donate" width="80" height="15"></a>
+
+  <a href="http://www.php.net/" title="Powered by PHP"><img src="raspberry_pi_arcade_files/button-php.gif" alt="Powered by PHP" width="80" height="15"></a>
+
+  <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0"><img src="raspberry_pi_arcade_files/button-xhtml.png" alt="Valid XHTML 1.0" width="80" height="15"></a>
+
+  <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS"><img src="raspberry_pi_arcade_files/button-css.png" alt="Valid CSS" width="80" height="15"></a>
+
+  <a href="http://dokuwiki.org/" title="Driven by DokuWiki"><img src="raspberry_pi_arcade_files/button-dw.png" alt="Driven by DokuWiki" width="80" height="15"></a>
+
+
+
+</div>
+
+<div class="no"><img src="raspberry_pi_arcade_files/indexer.gif" alt="" width="2" height="1"></div>
+
+
+</body></html>
