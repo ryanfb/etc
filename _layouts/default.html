@@ -85,27 +85,6 @@
       clear: both;
     }
   </style>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32369790-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-    function setAccessedDate() {
-      if (document.getElementById('accessed-on')) {
-        var now = new Date();
-        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-        var formattedDate = now.getDate()+" "+months[now.getMonth()]+" "+now.getFullYear();
-        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
-      }
-    }
-  </script>
 </head>
 <body onload="setAccessedDate();">
   <div id="content">
