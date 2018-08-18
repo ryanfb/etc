@@ -71,14 +71,14 @@
     .header h1 {
       margin-bottom: 0px;
     }
-    .tags {
+    .subhead {
       padding-top: 1em;
       float: right;
       text-align: right;
       font-size: small;
       color: gray;
     }
-    .tags a {
+    .subhead a {
       color: gray;
     }
     .clear {
@@ -114,7 +114,10 @@
   <div class="header">
     <h1><a href="{{ site.baseurl }}/">/etc</a><span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
     {% unless page.title == 'index' %}<div class="title"><h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2></div>{% endunless %}
-    {% if page.tags.size > 0 %}<div class="tags"><span>tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span></div>{% endif %}
+    <div class="subhead">
+      {% if page.tags.size > 0 %}<span>tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><br/>{% endif %}
+      <span>{{ page.date | date: "%Y-%m-%d" }}</span>
+    </div>
   </div>
   <div class="clear"/>
   {{ content }}
