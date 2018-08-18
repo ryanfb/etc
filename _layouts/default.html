@@ -16,12 +16,53 @@
   <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <meta name="twitter:image" content="http://www.gravatar.com/avatar/5c60848658ff9b47c42196635fe0449b.jpg" />
   {% if page.external_url %}<meta http-equiv="refresh" content="0; {{ page.external_url }}" />{% endif %}
-  <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/ryanfb.github.io/webmention" />
   <link rel="icon" href="/etc/favicon.ico" type="image/x-icon">
   <style type="text/css">
+    /* eb-garamond-regular - greek-ext_greek_latin */
+    @font-face {
+      font-family: 'EB Garamond';
+      font-style: normal;
+      font-weight: 400;
+      src: url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.eot'); /* IE9 Compat Modes */
+      src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.woff') format('woff'), /* Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
+    }
+
+    /* eb-garamond-italic - greek-ext_greek_latin */
+    @font-face {
+      font-family: 'EB Garamond';
+      font-style: italic;
+      font-weight: 400;
+      src: url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.eot'); /* IE9 Compat Modes */
+      src: local('EB Garamond Italic'), local('EBGaramond-Italic'),
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.woff') format('woff'), /* Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-italic.svg#EBGaramond') format('svg'); /* Legacy iOS */
+    }
+
+    /* eb-garamond-700 - greek-ext_greek_latin */
+    @font-face {
+      font-family: 'EB Garamond';
+      font-style: normal;
+      font-weight: 700;
+      src: url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.eot'); /* IE9 Compat Modes */
+      src: local('EB Garamond Bold'), local('EBGaramond-Bold'),
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.woff') format('woff'), /* Modern Browsers */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+           url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek-ext_greek_latin-700.svg#EBGaramond') format('svg'); /* Legacy iOS */
+    }
+
     body {
       font-family:'EB Garamond', serif;
       margin: 80px auto;
@@ -85,6 +126,16 @@
       clear: both;
     }
   </style>
+  <script type="text/javascript">
+    function setAccessedDate() {
+      if (document.getElementById('accessed-on')) {
+        var now = new Date();
+        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var formattedDate = now.getDate()+" "+months[now.getMonth()]+" "+now.getFullYear();
+        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
+      }
+    }
+  </script>
 </head>
 <body onload="setAccessedDate();">
   <div id="content">
