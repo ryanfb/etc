@@ -23,4 +23,4 @@ Of course, you could also go further than "just" schema validation or linting, a
 
 ### Footnotes:
 
-[^html]: You can also this approach to, for example, [automatically validate your statically-generated websites with `html-proofer`](http://jekyllrb.com/docs/continuous-integration/).
+[^html]: You can also this approach to, for example, [automatically validate your statically-generated websites with `html-proofer`](http://jekyllrb.com/docs/continuous-integration/travis-ci/).
