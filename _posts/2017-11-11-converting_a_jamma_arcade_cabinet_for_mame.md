@@ -18,7 +18,7 @@ There are a number of boards that attach to the Raspberry Pi's GPIO pins and con
 
 * [ArPiCade](https://arpicade.com/)
 * [Pi2Jamma](http://arcadeforge.net/Pi2Jamma-Pi2SCART:::51.html)
-* [RPi2Jamma](http://www.neo-arcadia.com/forum/viewtopic.php?t=54733)
+* [RPi2Jamma](http://web.archive.org/web/20171219154650/http://www.neo-arcadia.com/forum/viewtopic.php?t=54733)
 
 The issue I had with these is that many seemed to be poorly documented and have mixed reviews. I didn't want to be locked into whatever emulator/OS/frontend happened to work with a particular board, with no documentation available for using something else. I also didn't want to spend $150 on a board/adapter that would *only* work with a Raspberry Pi - I wanted something more generic that would give me an upgrade path (to a full x86 PC, for example) later on.
 
