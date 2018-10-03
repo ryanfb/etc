@@ -38,9 +38,13 @@ One gotcha I ran into is that the CUDA-linked AliceVision binaries invoked by Me
       Referenced from: /usr/local/bin/aliceVision_depthMapEstimation
       Reason: image not found
 
-In order to get around this, you can modify `meshroom/core/desc.py` so that [the return value at the end of the `buildCommandLine` method](https://github.com/alicevision/meshroom/blob/develop/meshroom/core/desc.py#L368) instead reads:
+In order to get around this, you can symlink the CUDA libraries into `/usr/local/lib` (most of the other workarounds I found for permanently modifying the`DYLD_LIBRARY_PATH` seemed more confusing or fragile than this simpler approach):[^dyldpath]
 
-    return 'DYLD_LIBRARY_PATH="/Developer/NVIDIA/CUDA-9.2/lib" ' + cmdPrefix + chunk.node.nodeDesc.commandLine.format(**chunk.node._cmdVars) + cmdSuffix
+    for i in /Developer/NVIDIA/CUDA-9.2/lib/*.a /Developer/NVIDIA/CUDA-9.2/lib/*.dylib; do ln -sv "$i" "/usr/local/lib/$(basename "$i")"; done
+
+You can undo/uninstall this with:
+
+    for i in /Developer/NVIDIA/CUDA-9.2/lib/*.a /Developer/NVIDIA/CUDA-9.2/lib/*.dylib; do rm -v "/usr/local/lib/$(basename "$i")"; done
 
 You may also want to download the voctree dataset:
 
@@ -51,3 +55,9 @@ Then launch with:
     ALICEVISION_SENSOR_DB=/usr/local/Cellar/alicevision/2.0.0/share/aliceVision/cameraSensors.db ALICEVISION_VOCTREE=/usr/local/Cellar/alicevision/2.0.0/share/aliceVision/vlfeat_K80L3.SIFT.tree PYTHONPATH=$PWD python meshroom/ui
 
 Import some photos, click "Start", wait a while, and hopefully you should end up with a reconstructed and textured mesh ([here's an example of my own which I uploaded to SketchFab](https://skfb.ly/6ARpx)). By default, the output will be in `MeshroomCache/Texturing/` (relative to where you saved the project file).
+
+### Footnotes:
+
+[^dyldpath]: Previously, I suggested modifying `meshroom/core/desc.py` so that [the return value at the end of the `buildCommandLine` method](https://github.com/alicevision/meshroom/blob/develop/meshroom/core/desc.py#L368) instead reads:
+
+        return 'DYLD_LIBRARY_PATH="/Developer/NVIDIA/CUDA-9.2/lib" ' + cmdPrefix + chunk.node.nodeDesc.commandLine.format(**chunk.node._cmdVars) + cmdSuffix
