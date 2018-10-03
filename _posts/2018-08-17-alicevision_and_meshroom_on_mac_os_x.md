@@ -38,7 +38,7 @@ One gotcha I ran into is that the CUDA-linked AliceVision binaries invoked by Me
       Referenced from: /usr/local/bin/aliceVision_depthMapEstimation
       Reason: image not found
 
-In order to get around this, you can symlink the CUDA libraries into `/usr/local/lib` (most of the other workarounds I found for permanently modifying the`DYLD_LIBRARY_PATH` seemed more confusing or fragile than this simpler approach):[^dyldpath]
+In order to get around this, you can symlink the CUDA libraries into `/usr/local/lib` (most of the other workarounds I found for permanently modifying the `DYLD_LIBRARY_PATH` seemed more confusing or fragile than this simpler approach):[^dyldpath]
 
     for i in /Developer/NVIDIA/CUDA-9.2/lib/*.a /Developer/NVIDIA/CUDA-9.2/lib/*.dylib; do ln -sv "$i" "/usr/local/lib/$(basename "$i")"; done
 
