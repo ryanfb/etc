@@ -27,7 +27,7 @@ Which I then ran with:
 
     find ../latin -name '*.bz2' | parallel -u -j8 -X ../sharclangcountbz2.py
 
-For anyone interested, [here's a link to a `.tar.bz2` of the resulting CSV files](https://duke.box.com/s/u0wu29cimgie10kp6s9pmgn4bv25lzsa) (17.6MB).
+For anyone interested, [here's a link to a `.tar.bz2` of the resulting CSV files](https://duke.box.com/shared/static/w4pqr2kwqvueqf9t9w3e5nnxxp2bpuy8.bz2) (17.6MB).
 
 We can then do things like find [the majority page language for each volume](https://gist.github.com/ryanfb/f1ae896e99e6df66145c) and then see what [the language distribution is](https://gist.github.com/ryanfb/dd62e30969759b714ca2):
 
