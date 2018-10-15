@@ -57,10 +57,10 @@ Doing the processing also turned up some issues with the processing and the data
 
 For now, I'd like to make the match and index data available to anyone who wants to experiment with them:
 
- * [`rijks.dat.bz2`](https://duke.box.com/shared/static/7fu21mn7ek4v96ic7h3wy1pnagtoyz78.bz2) (~1.5GB) - the Pastec index built from the uncompressed Rijksmuseum torrent, which should be [loadable into another Pastec server instance](http://pastec.io/doc#setup).
- * [`mapping.csv.bz2`](https://duke.box.com/shared/static/9y9x0rw531uioskgp7rr716lfxrm4bje.bz2) (792KB) - the mapping from Pastec index number to uncompressed Rijksmuseum torrent filename.
- * [`pastec_matches.txt.bz2`](https://duke.box.com/shared/static/wdmxd8a3k2h5u8q47t92ct0kaojgf6wx.bz2) (3.1MB) - the output from the Pastec search process described above.
- * [`unique_matches_min.json.bz2`](https://duke.box.com/shared/static/v76x0w2v19dwrnipvrkllbv85rpzrp5r.bz2) (1.3MB) - minified JSON output with the 33,029 "unique" matches from the `mash_matches.rb` script above.
+ * [`rijks.dat.bz2`](https://duke.box.com/shared/static/xzfnq2uduru5qch1nqsios299f8h4b10.bz2) (~1.5GB) - the Pastec index built from the uncompressed Rijksmuseum torrent, which should be [loadable into another Pastec server instance](http://pastec.io/doc#setup).
+ * [`mapping.csv.bz2`](https://duke.box.com/shared/static/jbe47t9bsw802k9tubzqiyb0uru88j33.bz2) (792KB) - the mapping from Pastec index number to uncompressed Rijksmuseum torrent filename.
+ * [`pastec_matches.txt.bz2`](https://duke.box.com/shared/static/bfxeco6ys7m0u6327noqi2l5wu162fs5.bz2) (3.1MB) - the output from the Pastec search process described above.
+ * [`unique_matches_min.json.bz2`](https://duke.box.com/shared/static/0x03nen91eu6saohqdto0wud1ye54k7w.bz2) (1.3MB) - minified JSON output with the 33,029 "unique" matches from the `mash_matches.rb` script above.
 
 ### Footnotes:
 
