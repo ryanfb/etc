@@ -2,6 +2,8 @@
 title: Recovering video from a crashed Sony Action Cam HDR-AS15
 ---
 
+**Update**: A correspondent writes that for a different truncated MP4 they were trying to recover, the `untrunc` instructions below were unsuccessful but that `recover_mp4` was able to give them good results, using [this guide](https://tehnoblog.org/video-repair-guide-corrupted-mp4-avi-h264-file-fix/).
+
 A couple days ago, my Sony Action Cam popped off my bike when I went over a bump near the bottom of a hill, where it was promptly run over by several cars. Amazingly, it still seems to function fine. I wanted to check out the video to see if any of the tumbling and running over got captured, and thought the methods I used might be helpful to anyone who finds themselves in a similar situation. As long as the microSD card is intact, you might have a good chance of recovering something.
 
 First, I copied the latest two MP4 video files off the card out of the `MP_ROOT/100ANV01` onto my local drive so I wouldn't worry about screwing them up. Then, I tried various players/encoders (Quicktime, VLC, mplayer, ffmpeg, mencoder) to see if I could trivially recover anything from the latest file. No dice. It seemed corrupt, but there was definitely 600MB of data there, which is about the size it should be for the length of time it was recording. Some googling turned up the excellent [untrunc](https://github.com/ponchio/untrunc) software which I was able to compile[^1] with [this patch applied](https://gist.githubusercontent.com/ryanfb/ad6dada779c5745e1e22/raw/3e20f3c17648815ae348980b8e2487a12478dca9/untrunc.patch). Running it against the unmodified video files I had, it gave the following error:
