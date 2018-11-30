@@ -15,7 +15,7 @@ More thorough searching turned up the probable actual source of Huth's quote, [F
 
 If anyone has any further information about this artifact, I would love to hear it.
 
-One confusing aspect to even locating these sorts of things is the wildly varying orthography of latinized names. As it turns out, Gulielmi (or Guilielmum, or Gulielmus) is most likely [Adriano Guglielmo Spadaforo of Naples](http://www.emblems.arts.gla.ac.uk/french/emblem.php?id=FSAa058), apparently an antiquarian and conservator in the Naples archives. Not to be confused with the Hadrianus Guilielmi (Adriaen Willems) [known to Joseph Scaliger and Isaac Casaubon](http://booksandjournals.brillonline.com/content/journals/10.1163/187783711x562103?crawler=true&mimetype=application/pdf), who in any case was born after Fabricius died!
+One confusing aspect to even locating these sorts of things is the wildly varying orthography of latinized names. As it turns out, Gulielmi (or Guilielmum, or Gulielmus) is most likely [Adriano Guglielmo Spadaforo of Naples](http://www.emblems.arts.gla.ac.uk/french/emblem.php?id=FSAa058), apparently an antiquarian and conservator in the Naples archives. Not to be confused with the Hadrianus Guilielmi (Adriaen Willems) [known to Joseph Scaliger and Isaac Casaubon](http://web.archive.org/web/20180604004751/http://booksandjournals.brillonline.com/content/journals/10.1163/187783711x562103), who in any case was born after Fabricius died!
 
 ### Footnotes
 
