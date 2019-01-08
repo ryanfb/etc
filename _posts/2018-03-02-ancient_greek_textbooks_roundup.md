@@ -11,6 +11,8 @@ Many of these are gleaned from two Twitter threads I have bookmarked, where you 
 * <https://twitter.com/sentantiq/status/843474000256876544>
 * <https://twitter.com/e_pe_me_ri/status/944005653781151744>
 
+Another excellent resource is Juan Coderch's [Teaching Ancient Languages: a selected guid to available material](http://coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/teaching_ancient_languages.pdf) (PDF), which discusses grammars, textbooks, and other resources for Ancient Greek & Latin.
+
 ---
 
 # *Athenaze*
