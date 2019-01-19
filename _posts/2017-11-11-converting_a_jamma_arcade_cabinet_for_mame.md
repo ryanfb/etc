@@ -1,5 +1,6 @@
 ---
 title: Converting a JAMMA Arcade Cabinet for MAME
+affiliate: true
 ---
 
 We recently acquired (for free!) an original Street Fighter Alpha: Warriors' Dreams arcade cabinet that we wanted to be able to easily play other games on. A [Raspberry Pi](http://amzn.to/2i6jQsp) seemed like a good way to experiment with this in the initial stages, as there are already a large number of distributions for it which boot straight into an emulator frontend (such as [Lakka](http://www.lakka.tv/), [RetroPie](https://retropie.org.uk/), and [Recalbox](https://www.recalbox.com/)), and I figured there would be some documentation available on the web from other people who had done arcade cabinet conversions with a Raspberry Pi.

@@ -1,5 +1,6 @@
 ---
 title: CableCARD DRM State of Play 2016
+affiliate: true
 ---
 Because I'm a contrarian, I've been using a [CableCARD](https://en.wikipedia.org/wiki/CableCARD) to try to watch my cable TV subscription instead of renting boxes from the cable company. Previously I'd been using a [Samsung GX-SM530CF](http://amzn.to/2bXSogf)—to my knowledge the only readily-available standalone device for using a CableCARD to play live TV over an HDMI output with no additional subscription. However, mine died for no reason, and with the release of [Plex's DVR functionality](https://www.plex.tv/blog/air-human-plex-dvr-divine/), I decided to roll the dice on a [SiliconDust HDHomeRun PRIME](https://www.amazon.com/dp/B004HKIB6E/) as a replacement. I also didn't want to buy another Samsung just to have it mysteriously die again.
 

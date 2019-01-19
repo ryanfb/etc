@@ -1,5 +1,6 @@
 ---
 title: Ancient Greek Textbooks Roundup
+affiliate: true
 ---
 
 A question I often see (and wonder myself) is: "What's the best textbook for learning Ancient Greek?". There are enough (modern) Ancient Greek textbooks that even keeping them all straight is a little confusing. So this post is just a roundup of the major textbooks for Ancient Greek that I'm aware of.[^modern]

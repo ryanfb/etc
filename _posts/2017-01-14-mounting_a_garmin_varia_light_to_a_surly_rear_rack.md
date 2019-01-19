@@ -1,6 +1,7 @@
 ---
 title: Mounting a Garmin Varia Light to a Surly Rear Rack
 tags: bikes
+affiliate: true
 ---
 I recently got a fancy [Garmin Varia Rearview Radar Tail Light](http://amzn.to/2jiEiJb) for my commuter bike, and wanted to mount it to the [Surly Rear Rack](http://surlybikes.com/parts/cargo/rear_rack) that I use. Since the Garmin only comes with seatpost mounts and the Surly rack only has a center light mount, this presented a little bit of a problem. Luckily, someone had already [designed and uploaded a 3D-printable rack mount for the Varia](https://www.shapeways.com/product/L6VSGUY4E/garmin-varia-rack-mount-style-2). Unluckily, it uses a 50mm two-hole rack mount, so I decided to write up how I kludged around this in case anyone else needs to do something similar.
 

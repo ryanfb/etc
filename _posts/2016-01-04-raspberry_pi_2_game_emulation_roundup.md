@@ -1,5 +1,6 @@
 ---
 title: Raspberry Pi 2 Game Emulation Roundup 2016
+affiliate: true
 ---
 
 Over the holidays, I got a Raspberry Pi 2 in order to experiment with various projects. One thing I was interested in was seeing how it would work for classic game console emulation, since the 900MHz ARMv7 should be enough to handle most of the older consoles pretty well, and the form factor of a small fanless box which can connect via HDMI and use an existing (e.g. DualShock 3) wireless controller seemed ideal.
