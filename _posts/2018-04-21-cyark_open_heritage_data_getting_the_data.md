@@ -2,6 +2,8 @@
 title: 'CyArk Open Heritage Data: Getting the Data'
 ---
 
+**Update:** I've now finished mirroring all of the data to the Internet Archive [here](https://archive.org/search.php?query=creator%3A%22CyArk%22).
+
 This is the first post in a planned series of posts about getting and using data from the [CyArk Open Heritage Program](http://artsandculture.google.com/project/cyark).
 
 Step one is just getting the data. To do this, you'll need to fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSehblS2-2A-FKs2q2OxF5i0jDmlJbCQj0GLW3Uc6_WLCRr6rA/viewform) for each dataset you're interested in. If you're interested in all the data, that means you'll need to fill out the form 26 times.
