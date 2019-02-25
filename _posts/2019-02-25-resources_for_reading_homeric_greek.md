@@ -78,6 +78,10 @@ As with all Loebs, these present the Greek text with a facing English translatio
 * [*Iliad* 1-12](https://amzn.to/2IM5Q7E) ([public domain edition](https://archive.org/details/iliadhome01home))
 * [*Iliad* 13-24](https://amzn.to/2IPDwBJ) ([public domain edition](https://archive.org/details/iliadhom02home))
 
+## Attikos/Perseus
+
+A significant portion of my reading is done in the excellent [Attikos](https://attikos.org/) app from the University of Chicago. You can tap on any word for a quick parse and definition, or open a full definition in the corresponding Logeion dictionary app. I'll often split-screen this on my iPad with a PDF open in the [Documents](https://readdle.com/documents) app. You can also read texts online in any web browser with [Perseus](http://www.perseus.tufts.edu/hopper/) or [Perseus under PhiloLogic](http://perseus.uchicago.edu/).
+
 ---
 
 # Lexica
