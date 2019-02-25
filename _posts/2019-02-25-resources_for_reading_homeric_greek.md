@@ -175,7 +175,7 @@ Although [there are no end of available translations of Homer](http://whichtrans
 
 These also have the advantage of having standalone commentaries available based off of them:
 
-* [*A Companion to The Iliad: Basedo on the Translation by Richmond Lattimore*](https://amzn.to/2IDYkvH) by M.M. Willcock (same editor/commentator as the Bristol Classical Press edition of the Iliad)
+* [*A Companion to The Iliad: Based on the Translation by Richmond Lattimore*](https://amzn.to/2IDYkvH) by M.M. Willcock (same editor/commentator as the Bristol Classical Press edition of the Iliad)
 * [*Homer's Odyssey: A Commentary based on the English Translation of Richmond Lattimore*](https://amzn.to/2H8fNu3) by Peter Jones
 
 ---
