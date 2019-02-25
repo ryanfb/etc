@@ -82,6 +82,10 @@ As with all Loebs, these present the Greek text with a facing English translatio
 
 A significant portion of my reading is done in the excellent [Attikos](https://attikos.org/) app from the University of Chicago. You can tap on any word for a quick parse and definition, or open a full definition in the corresponding Logeion dictionary app. I'll often split-screen this on my iPad with a PDF open in the [Documents](https://readdle.com/documents) app. You can also read texts online in any web browser with [Perseus](http://www.perseus.tufts.edu/hopper/) or [Perseus under PhiloLogic](http://perseus.uchicago.edu/).
 
+## Bloomsbury
+
+Perhaps an outlier when people think of "Homeric Greek," but Bloomsbury have recently published an edition (with text, translation, and commentary) of [The Homeric Battle of Frogs and Mice](https://amzn.to/2XnNPjC), edited by Joel P. Christensen and Erik Robinson. The relative shortness, ease, and weirdness of the text can make it an excellent candidate for transitioning to reading Homeric Greek.
+
 ---
 
 # Lexica
