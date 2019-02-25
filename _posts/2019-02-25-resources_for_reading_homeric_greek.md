@@ -22,9 +22,9 @@ Similar to Pharr, this book is designed for students with no background in Greek
 ## *A Reading Course in Homeric Greek*
 ### Raymond V. Schoder, Vincent C. Horrigan, and Leslie Collins Edwards
 
-* [A Reading Course in Homeric Greek: Book 1](https://amzn.to/2ExvuJn) ([Review in BMCR](http://bmcr.brynmawr.edu/2005/2005-09-27.html))
-* [A Reading Course in Homeric Greek: Book 2](https://amzn.to/2SqKoot)
-* [Transition to Attic Greek: A Supplement to "A Reading Course in Homeric Greek"](https://amzn.to/2XqFgof)
+* [*A Reading Course in Homeric Greek: Book 1*](https://amzn.to/2ExvuJn) ([Review in BMCR](http://bmcr.brynmawr.edu/2005/2005-09-27.html))
+* [*A Reading Course in Homeric Greek: Book 2*](https://amzn.to/2SqKoot)
+* [*Transition to Attic Greek: A Supplement to "A Reading Course in Homeric Greek"*](https://amzn.to/2XqFgof)
 
 This book is also designed for students with no background in Greek. Book 1 focuses on *Odyssey* 9 (alongside various other selections), while Book 2 goes through *Odyssey* 6 & 12.
 
@@ -92,12 +92,12 @@ Perhaps an outlier when people think of "Homeric Greek," but Bloomsbury have rec
 
 # Lexica
 
-## [A Lexicon of the Homeric Dialect](https://amzn.to/2tDaieT)
+## [*A Lexicon of the Homeric Dialect*](https://amzn.to/2tDaieT)
 ### Richard John Cunliffe
 
 This edition expands Cunliffe's *Lexicon* with his *Homeric Proper and Place Names*. Originally published in 1924, the *Lexicon* should definitively be in the public domain in the U.S. in 2020.
 
-## [A Homeric Dictionary for Schools and Colleges](https://amzn.to/2XklhaJ)
+## [*A Homeric Dictionary for Schools and Colleges*](https://amzn.to/2XklhaJ)
 ### Georg Autenrieth, translated by Robert P. Keep
 
 Originally published in German by Autenrieth, the English translation of this dictionary was published in 1889 and is [freely available in the public domain](https://books.google.com/books?id=MDs87YOfkzgC). It's also available as a digitized dictionary within [Perseus](http://www.perseus.tufts.edu/hopper/) and [Logeion](http://logeion.uchicago.edu/).
