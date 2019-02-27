@@ -104,7 +104,7 @@ Originally published in German by Autenrieth, the English translation of this di
 
 ---
 
-# Readers/Commentaries/Scholia
+# Readers, Commentaries, & Scholia
 
 ## D Scholia
 
