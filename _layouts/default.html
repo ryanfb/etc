@@ -76,12 +76,37 @@
            url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek_latin_greek-ext-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
            url('{{ site.baseurl }}/assets/fonts/eb-garamond-v9-greek_latin_greek-ext-700italic.svg#EBGaramond') format('svg'); /* Legacy iOS */
     }
-
+    @media only screen and (max-device-width: 667px) {
+      body {
+        font-size: 40px;
+      }
+      .left, .right {
+        float: left;
+        clear: both;
+      }
+      .footer {
+        font-size: 30px;
+      }
+    }
+    @media only screen and (min-device-width: 667px) {
+      body {
+        font-size: medium;
+      }
+      .right {
+        float: right;
+      }
+      .citation-body {
+        margin-left: 2em;
+      }
+    }
     body {
+      width: 80%;
       font-family:'EB Garamond', serif;
       margin: 80px auto;
-      width: 720px;
-      line-height: 24px;
+      line-height: 1.5em;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      line-height: 1.5em;
     }
     a {
       color: black;
@@ -91,8 +116,16 @@
     a:hover {
       border-bottom: 1px solid black;
     }
-    pre{
-      white-space:pre-wrap;
+    pre, .wrapped {
+      width: 99%;
+			white-space: pre;           /* CSS 2.0 */
+			white-space: pre-wrap;      /* CSS 2.1 */
+			white-space: pre-line;      /* CSS 3.0 */
+			white-space: -pre-wrap;     /* Opera 4-6 */
+			white-space: -o-pre-wrap;   /* Opera 7 */
+			white-space: -moz-pre-wrap; /* Mozilla */
+			white-space: -hp-pre-wrap;  /* HP Printers */
+			word-wrap: break-word;      /* IE 5+ */
     }
     hr {
       padding: 0;
@@ -112,9 +145,12 @@
       content: "☛";
       padding-right: .5em;
     }
-    .citation {
-      float: left;
-      margin: 0em 2em 2em;
+    .metadata, .citation, .license {
+      margin-top: 2em;
+      clear: both;
+    }
+    .citation-body {
+      clear: both;
       color: gray;
     }
     time {
@@ -130,7 +166,6 @@
       padding-top: 1em;
       float: right;
       text-align: right;
-      font-size: small;
       color: gray;
     }
     .subhead a {
