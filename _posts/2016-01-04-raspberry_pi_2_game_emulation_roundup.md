@@ -45,7 +45,7 @@ With that, setup was pretty easy.[^noobs] For most packages, you just download a
 ## [PiPlay](http://piplay.org) (formerly PiMAME)
 
 * [Video](https://www.youtube.com/watch?v=IBubgnwDqdY)
-* [Install instructions](https://gist.github.com/igorissen/2ba54c7c82d9355f74ca)
+* ~~Install instructions~~ [PiPlay OS is deprecated and no longer available](https://piplay.org/piplay-os/)
 * Frontend: custom
 * Backend: various
 * OS: [Raspbian](https://www.raspbian.org/)
