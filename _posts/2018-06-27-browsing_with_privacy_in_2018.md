@@ -8,5 +8,6 @@ This blog post is just a short note on how I've switched my web browsing habits 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - privacy protection and ad blocking.
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - from the EFF, which adds additional tracker and privacy protection.
 * [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/) - "Think of it as blocking Third-party cookies, but more exhaustively". Some sites will break with this enabled, so you may need to toggle it off as needed.
+* [Tracking Token Stripper](https://addons.mozilla.org/en-US/firefox/addon/utm-tracking-token-stripper/) - removes click tracking identifiers from URL query strings.
 
 In addition to this, I've also switched to using [DuckDuckGo](https://duckduckgo.com/) as my default search engine. For cases where I feel like I still need to do a search in Google, I use the `!g` [bang shortcut](https://duckduckgo.com/bang). For extra ad-blocking overkill, I've also configured a [Pi-hole](https://pi-hole.net/) DNS server for home use.
