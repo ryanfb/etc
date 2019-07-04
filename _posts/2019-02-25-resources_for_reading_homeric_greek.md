@@ -12,7 +12,7 @@ Recently, [I've been reading some Homeric Greek](https://twitter.com/ryanfb/stat
 ## *Homeric Greek: A Book For Beginners*
 ### Clyde Pharr
 
-[The original 1920 version of this book is freely-available in the public domain](https://archive.org/details/homericgreekabo01phargoog/), but there have been two later revisions of it—one by John Wright in 1985, and [a further revision by Paula Debnar which is curently in print from the University of Oklahoma Press](https://amzn.to/2H117Nc). This textbook is designed for students with no background in Greek, leading them through the grammar of Homeric Greek in particular, culminating in readings of *Iliad* 1.1-611.
+[The original 1920 version of this book is freely-available in the public domain](https://archive.org/details/homericgreekabo01phargoog/), but there have been two later revisions of it—one by John Wright in 1985, and [a further revision by Paula Debnar which is curently in print from the University of Oklahoma Press](https://amzn.to/2H117Nc). This textbook is designed for students with no background in Greek, leading them through the grammar of Homeric Greek in particular, culminating in readings of *Iliad* 1.1-611. There's also an excellent web site with a vast amount of supplementary material (videos, exercises, etc.) for the book available here: <https://commons.mtholyoke.edu/hrgs/>
 
 ## [*Beginning Greek with Homer*](https://amzn.to/2EuJy6z)
 ### Frank Beetham
