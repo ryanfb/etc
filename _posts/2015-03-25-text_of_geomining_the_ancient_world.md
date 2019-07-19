@@ -48,12 +48,12 @@ So, you may be thinking now: that’s a lot of stuff. But that’s really just t
 
 Thankfully here, the answer is simple: [Pelagios](http://pelagios-project.blogspot.com/). Pelagios defines an interconnection format which lets anyone use a common vocabulary to establish links between URL’s on the web; it also defines APIs which let you query these connections for data which Pelagios knows about. So, we can, for example, link the minting place of a coin to its Pleiades place URL. Or, as in this example, link toponyms (place names) in a book to their Pleiades places. This might seem trivial, until you consider the 20-some-odd places named “Alexandria”, for example. Here’s a non-comprehensive list of resources which have produced Pelagios data, which might also be a good starting point for finding other resources of geospatial data related to the ancient world.
 
-You might have noticed that a large number of these sorts of projects require aligning place names in a text with existing place resources in order to get geospatial data. A facet of the Pelagios 3 project for annotating early geospatial documents is an online tool for this process, called [Recogito](http://pelagios.org/recogito/). A benefit of this linking is also that your geospatial data will improve as the geospatial resource you link to improves.
+You might have noticed that a large number of these sorts of projects require aligning place names in a text with existing place resources in order to get geospatial data. A facet of the Pelagios 3 project for annotating early geospatial documents is an online tool for this process, called [Recogito](http://recogito.pelagios.org/). A benefit of this linking is also that your geospatial data will improve as the geospatial resource you link to improves.
 
 Finally, I thought I’d just show some examples of things that can be done with geospatial data about the ancient world.
 
 - [Pleiades+](https://github.com/ryanfb/pleiades-plus) ([linking ancient and modern place resources](http://pleiades-plus-gazcomp.appspot.com/))
-- Vicarello (turning [words on cups](https://www.flickr.com/photos/ryanfb/sets/72157636359778805) into [a concrete map visualization](http://pelagios.github.io/demos/vicarello-alpha/complete-sequence/))
+- Vicarello (turning [words on cups](https://www.flickr.com/photos/ryanfb/sets/72157636359778805) into [a concrete map visualization](http://web.archive.org/web/*/http://pelagios.github.io/demos/vicarello-alpha/complete-sequence/))
 - [Itinerarium](http://ryanfb.github.io/itinerarium/) (mashing together modernity and antiquity)
 - [Texts/Collections in Trismegistos](http://bl.ocks.org/ryanfb/4ef9795dcfc8063a2e99) (applying the transitive property to learn something about what he have from the ancient world through modern geo data)
 
