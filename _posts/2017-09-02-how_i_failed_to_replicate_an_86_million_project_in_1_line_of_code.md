@@ -50,7 +50,7 @@ Running `fgrep 'confidence: 9' bendigo.txt | cut -d' ' -f 6 | sort -u` to cut it
     GR1L        LJ641     T2Z735    WKX212    YLJ64I
     GRILL       LV522     TDG700
 
-OK, so we still have some apparent duplicates and recognition errors, and presumably the registration validation will sort these out. Checking these with [the VicRoads site](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/buy-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry), we wind up with **a grand total of seven automatically-recognized “valid” plates for 27 minutes of video**.
+OK, so we still have some apparent duplicates and recognition errors, and presumably the registration validation will sort these out. Checking these with [the VicRoads site](http://web.archive.org/web/*/https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/buy-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry), we wind up with **a grand total of seven automatically-recognized “valid” plates for 27 minutes of video**.
 
 [![*One of the handful of plates OpenALPR correctly recognized in the wild. Success!*]({{ site.baseurl }}/assets/medium/alpr_screenshot_1-thumb.jpg)]({{ site.baseurl }}/assets/medium/alpr_screenshot_1.jpg)
 
