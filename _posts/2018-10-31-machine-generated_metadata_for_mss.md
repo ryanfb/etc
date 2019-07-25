@@ -33,7 +33,7 @@ So, for example, to identify the signatures in the images, a deep learning based
 In order of decreasing time/resource requirements:
 
 * developing a custom deep learning or "traditional" computer vision implementation from scratch
-* training an existing deep learning implementation on a custom dataset/problem, or slightly modifying an existing "traditional" implentation
+* training an existing deep learning implementation on a custom dataset/problem, or slightly modifying an existing "traditional" implementation
 * using an existing implementation (and pre-trained network)
 
 There are a few difficulties with applying existing approaches to handwritten documents. For both deep learning and traditional approaches, many papers are published with promising results for various parts of the problems we face, with no implementations published alongside them, putting them in the most time-intensive category. A second issue is that many deep learning approaches are currently focused on photographs and images, so a majority of the existing open approaches and pre-trained networks are geared towards problems in that domain and may not perform as well for handwritten documents without customization.
