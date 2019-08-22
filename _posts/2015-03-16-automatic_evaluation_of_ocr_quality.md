@@ -18,7 +18,7 @@ A lot of work has been published on OCR post-correction processes, or quantifyin
 * Richard Wudtke et al., [*Recognizing Garbage in OCR Output on Historical Documents*](http://dl.acm.org/citation.cfm?id=2034626). Proceedings of the 2011 Joint Workshop on Multilingual OCR and Analytics for Noisy Unstructured Text Data. 2011.
   
   [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)-based approach which requires a manually classified garbage/non-garbage token training set.
-* Ulrich Reffle et al., [*Unsupervised profiling of OCRed historical documents*](http://www.sciencedirect.com/science/article/pii/S0031320312004323). Pattern Recognition Vol. 46, Issue 5, pp.1346–1357. 2013.
+* Ulrich Reffle et al., [*Unsupervised profiling of OCRed historical documents*](https://doi.org/10.1016/j.patcog.2012.10.002). Pattern Recognition Vol. 46, Issue 5, pp.1346–1357. 2013.
   
   A somewhat complicated approach which makes re-implementation difficult. It also requires large corpora and lexica for the languages of interest.[^pocoto]
 * Naveen Sankaran et al., [*Error Detection in Highly Inflectional Languages*](http://dx.doi.org/10.1109/ICDAR.2013.230). ICDAR. 2013.
