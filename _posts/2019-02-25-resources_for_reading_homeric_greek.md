@@ -150,7 +150,7 @@ Cambridge also publishes a six-volume comprehensive commentary on the *Iliad* un
 * [Volume 3, *Iliad* 9-12](https://amzn.to/2H2IecM)
 * [Volume 4, *Iliad* 13-16](https://amzn.to/2BRB083)
 * [Volume 5, *Iliad* 17-20](https://amzn.to/2EwxVvy)
-* [Volume 6, *Iliad* 21-24](https://amzn.to/2H2IlEU)
+* [Volume 6, *Iliad* 21-24](https://amzn.to/2KNhxKk)
 
 ## Clarendon
 
