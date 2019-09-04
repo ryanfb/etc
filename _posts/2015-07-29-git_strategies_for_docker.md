@@ -45,7 +45,7 @@ You can see this approach used in [the golang `Dockerfile`](https://github.com/d
 
 ## Git submodules inside `Dockerfile` repository
 
-If you keep your `Dockerfile` and Docker build in a separate repository from your source code, or your Docker build requires multiple source repositories, using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) (or [git subtrees](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)) in this repository may be a valid way to get your source repos into your build context. This avoids some concerns with Docker caching and upstream updating, as you lock the upstream revision in your submodule/subtree specification. Updating them will break your Docker cache as it changes the build context.
+If you keep your `Dockerfile` and Docker build in a separate repository from your source code, or your Docker build requires multiple source repositories, using [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) (or [git subtrees](http://web.archive.org/web/20150207052103/http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)) in this repository may be a valid way to get your source repos into your build context. This avoids some concerns with Docker caching and upstream updating, as you lock the upstream revision in your submodule/subtree specification. Updating them will break your Docker cache as it changes the build context.
 
 Note that this only gets the files into your Docker build context, you still need to use [`ADD` commands in your `Dockerfile`](https://docs.docker.com/reference/builder/#add) to copy those paths to where you expect them in the container.
 
