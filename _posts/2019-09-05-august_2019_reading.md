@@ -25,6 +25,6 @@ affiliate: true
 - [Brillionaire's Club](https://sententiaeantiquae.com/2019/08/22/brillionaires-club/), Sententiae Antiquae
 - [BMCR: Michael Roberts, *Venantius Fortunatus: Poems*. Dumbarton Oaks medieval library](http://www.bmcreview.org/2019/08/20190825.html) - this review makes me want to track down a copy of [this book](https://amzn.to/2PQ4P25).
 - [BMCR: Adrienne Mayor, *Gods and Robots: Myths, Machines, and Ancient Dreams of Technology*](http://www.bmcreview.org/2019/08/20190809.html) - Mayor's [*Gods and Robots*](https://amzn.to/2NRbbvv) has been on my to-read list for a while.
-- [Absorption edge sensitive radiography and tomography of Egyptian Papyri](https://www.sciencedirect.com/science/article/pii/S1296207418307519)
+- [Absorption edge sensitive radiography and tomography of Egyptian Papyri](https://doi.org/10.1016/j.culher.2019.04.007)
 - [Preservationists Are Saving Video Game History, One Upload at a Time](https://onezero.medium.com/preservationists-are-saving-video-game-history-one-upload-at-a-time-cc5b8bb512a2)
 - ["Blast processing" in 2019: How an SNES emulator solved overclocking](https://arstechnica.com/gaming/2019/08/blast-processing-in-2019-how-an-snes-emulator-solved-overclocking/)
