@@ -14,7 +14,7 @@ affiliate: true
 - [*Whose Body?*, Dorothy L. Sayers](https://amzn.to/2RkLdlG): I've been seeing a lot of praise for Sayers' "Lord Peter Wimsey mysteries" as feel-good, lighthearted, and feminist, so I decided to start with this, which is the first one in the series. What nobody mentioned is that at least *this* book is also rather incredibly casually racist.
 - [*Red at the Bone*, Jacqueline Woodson](https://amzn.to/2OOAgan): Sort of like *Fates and Furies*, except instead of being insufferable, it's actually good. OK, that's maybe not fair (or even a good comparison) since I haven't actually finished *F&F*, but I've started it three times, and quit in annoyance each time.
 - [*Winners Take All: The Elite Charade of Changing the World*, Anand Giridharadas](https://amzn.to/2RltQ4g): if you want to understand modern inequality and philanthropy, this is the book for you. It's also really revealing to see excerpts of some early philanthropists like Carnegie talking openly about their assumptions (and hypocrisies) that still underpin philanthropy to this day.
-- [*A Dead Djinn in Cairo*, P. Djèlí Clark](https://amzn.to/2OMf2Kl): Enjoyable, but I couldn't stop thinking of how much it paralleled Netflix's *Bright*...
+- [*A Dead Djinn in Cairo*, P. Djèlí Clark](https://amzn.to/2OMf2Kl): enjoyable, but I couldn't stop thinking of how much it paralleled Netflix's *Bright*...
 
 # Articles
 - [Working the 100-hour week](https://theretiringacademic.wordpress.com/2019/11/26/working-the-100-hour-week/)
