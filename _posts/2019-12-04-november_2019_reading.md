@@ -1,5 +1,5 @@
 ---
-title: October 2019 Reading
+title: November 2019 Reading
 tags:
 - reading
 affiliate: true
