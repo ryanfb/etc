@@ -5,6 +5,9 @@ affiliate: true
 
 Recently, [I've been reading some Homeric Greek](https://twitter.com/ryanfb/status/1099705793874743296), and thought it would be beneficial to collect some resources I've found useful or interesting in the process. Similar to my [Ancient Greek Textbooks Roundup]({{ site.baseurl }}{% post_url 2018-03-02-ancient_greek_textbooks_roundup %}) post, this is just a post for gathering everything together in one place for convenient reference.
 
+* TOC
+{:toc}
+
 ---
 
 # Grammars/Introductions for Homeric Greek
@@ -32,6 +35,11 @@ This book is also designed for students with no background in Greek. Book 1 focu
 ### John H. O'Neil and Timothy F. Winters
 
 Unlike the other books in this category, this book is designed for introducing Homeric Greek to students who already have some background in Attic Greek. Specific passages covered are all selections from the *Iliad*: 1.1-21, 1.121-39, 1.148-60, 1.172-87, 3.328-39, 5.297-352, 6.421-39, 16.306-57, 16.843-61, 18.97-116, 22.306-30. See also [this review in BMCR](http://bmcr.brynmawr.edu/2011/2011-05-51.html).
+
+## [*A Grammar of the Homeric Dialect*](https://archive.org/details/grammarofhomeric00monruoft)
+### D.B. Monro
+
+While this book has the advantage of being in the public domain, it is probably most suitable as a reference grammar to Homeric Greek for someone who has already learned some amount of Ancient Greek.
 
 ---
 

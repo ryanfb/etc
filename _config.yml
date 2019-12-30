@@ -1,5 +1,6 @@
 markdown: kramdown
 kramdown:
+  toc_levels: "1..2"
   input: GFM
 baseurl: /etc
 plugins:
