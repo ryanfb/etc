@@ -130,6 +130,13 @@ The so-called "D" Scholia come from an ancient schoolbook tradition, and largely
 * [*Odyssey* 9-12](https://geoffreysteadman.com/files-odyssey-9-12/) ([Amazon](https://amzn.to/2Ewp8d2))
 * [*Odyssey* 17-20](https://geoffreysteadman.com/odyssey-17-20-preview/) (beta, PDF only)
 
+## Pamela Draper
+
+These readers/commentaries are somewhere between the level of Steadman's and the more general "Introductions to Homeric Greek" listed above:
+
+* [*Iliad* 1](https://amzn.to/2ZEJ7PI)
+* [*An Odyssey Reader: Selections from Homer's* Odyssey, *Books* 1-12](https://amzn.to/2QcEhWX)
+
 ## Bristol Classical Press
 
 In addition to the fuller editions/commentaries listed above, Bristol also publishes some volumes with individual books of Homer containing Greek text with facing vocabulary/commentary:
@@ -167,6 +174,13 @@ Cambridge also publishes a six-volume comprehensive commentary on the *Iliad* un
 * [*Odyssey* 9-16](https://amzn.to/2H0hPw1)
 * [*Odyssey* 17-24](https://amzn.to/2U5fNhO)
 
+## Simon Pulleyn
+
+These combine an edition, translation, commentary, and glossary:
+
+* [*Iliad* 1](https://amzn.to/35fFcdo)
+* [*Odyssey* 1](https://amzn.to/35eUi2K)
+
 ## The Basel Commentary
 
 * [*Prolegomena*](https://amzn.to/2ThFTRw)
@@ -178,6 +192,10 @@ Cambridge also publishes a six-volume comprehensive commentary on the *Iliad* un
 * [*Iliad* 18](https://amzn.to/2EwPpYQ)
 * [*Iliad* 19](https://amzn.to/2H6CvTj)
 * [*Iliad* 24](https://amzn.to/2tGTIdL)
+
+## Allen Rogers Benner
+
+Benner's *Selections from Homer's Iliad* is available in the public domain on [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0083%3Abook%3D1%3Acard%3D1) and [the Internet Archive](https://archive.org/details/selectionsfromh00benngoog), and covers books 1, 2, 3, 5, 6, 9, 15, 16, 18, 19, 22, and 24.
 
 ---
 
