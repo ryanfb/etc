@@ -145,6 +145,7 @@ In addition to the fuller editions/commentaries listed above, Bristol also publi
 * [*Iliad* 3](https://amzn.to/2H2pH07)
 * [*Iliad* 6](https://amzn.to/2TeFfV6)
 * [*Iliad* 18](https://amzn.to/2ExEHl4)
+* [*Iliad* 22](https://amzn.to/2SAtLdM)
 * [*Iliad* 24](https://amzn.to/2U6vw01)
 * [*Odyssey* 6-8](https://amzn.to/2UaeOgo)
 * [*Odyssey* 13 & 14](https://amzn.to/2BUcvH6)
