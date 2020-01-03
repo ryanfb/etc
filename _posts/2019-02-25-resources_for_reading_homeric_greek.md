@@ -199,6 +199,10 @@ These combine an edition, translation, commentary, and glossary:
 
 Benner's *Selections from Homer's Iliad* is available in the public domain on [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0083%3Abook%3D1%3Acard%3D1) and [the Internet Archive](https://archive.org/details/selectionsfromh00benngoog), and covers books 1, 2, 3, 5, 6, 9, 15, 16, 18, 19, 22, and 24.
 
+## Charles Anthon
+
+Originally published to cover [the first three books of the Iliad](https://archive.org/details/firstthreebookso00anthiala), this work was later expanded as [*The First Six Books of Homer's Iliad: with English Notes, Critical and Explanatory, a Metrical Index, and Homeric Glossary*](https://archive.org/details/firstsixbooksofh00homeuoft/) - both are in the public domain.
+
 ---
 
 # Translations
