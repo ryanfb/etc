@@ -68,6 +68,8 @@ As with all Loebs, these present the Greek text with a facing English translatio
 ## Oxford Classical Texts
 ### David B. Munro and Thomas W. Allen, eds.
 
+These present the Greek text without commentary, but a brief apparatus criticus at the bottom of each page:
+
 * [*Iliad* 1-12](https://amzn.to/2XpuKgH)
 * [*Iliad* 13-24](https://amzn.to/2EuKojp)
 * [*Odyssey* 1-12](https://amzn.to/2EvOacp)
