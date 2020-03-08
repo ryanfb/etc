@@ -14,7 +14,7 @@ Photius' (or Photios') *Bibliotheca* is a gigantic 9th century CE collection of 
 
 Of note is that Wilson selected the passages which Bevegni translated, so both selections are the same for those translations. Unfortunately, as noted by Wilson and most reviewers, Henry's translation into French "is marred by a fair number of errors" (Wilson, p.20). Some of Henry's translations have, however, been translated into English by Roger Pearse and [put online with the permission of the copyright holder](http://www.tertullian.org/fathers/photius_copyright/).
 
-The [table of contents for Wilson's translation can be viewed here](https://www.bloomsbury.com/us/photius-the-bibliotheca-9780715626122/), but I thought it would be useful to collect together those entries which are translated by Wilson, but not by Henry/Pearse or Freese:
+The [table of contents for Wilson's translation is online here](https://www.bloomsbury.com/us/photius-the-bibliotheca-9780715626122/), but it seems to be inaccurate and incomplete because it cuts off after the first print page of the table of contents (which ends at 186). As a result, I thought it would be useful to collect together those entries which are translated by Wilson, but not by Henry/Pearse or Freese:
 
 * `183-184.` Eudocia, *Paraphrase of the Octateuch*, *Paraphrase of Zacharia*, and *Paraphrase of Daniel*
 * `199.` John Moscus, *Pratum spirituale*, or *Spiritual meadow*, or *New Paradise*
