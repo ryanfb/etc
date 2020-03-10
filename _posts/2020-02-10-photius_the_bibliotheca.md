@@ -103,3 +103,5 @@ This leaves the following 87 entries which have no easily-available English tran
 * `278.` Theophrastus of Eresos, Extracts of various treatises (science, fragments of 3/9 treatises survive)
 * `279.` Helladius, ***Chrestomathy*** (philology, see FGrHist 635)
 * `280.` Eulogios of Alexandria, ***On Dispensation***, ***Against Novatus*** [see CPG 6976]
+
+Also of note is that the *Bibliotheca* included its own table of contents or *pinax*, which is omitted from the editions of Bekker and Henry, and also seemingly untranslated. You can find an edition of it at pp.297-318 [here](http://medusa.libver.gr/jspui/handle/123/11953).
