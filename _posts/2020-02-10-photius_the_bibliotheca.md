@@ -52,7 +52,7 @@ This leaves the following 87 entries which have no easily-available English tran
 * `208.` Eulogios of Alexandria, ***On Dispensation*** (apologetic), ***Against Novatus*** (apologetic) [see CPG 6976]
 * `209.` Dio of Prusa, *Orations* (80 orations)
 * `210.` Caesarius of Nazianzen (Ps.-), *Questions and responses* [4 of 8 chapters preserved in CPG 7482]
-* `211.` Dionysius of Aegeae, ***Dictyaca*** (medicine)
+* [`211.` Dionysius of Aegeae, ***Dictyaca*** (medicine)](https://ryanfb.github.io/photios-bibliotheca/211)
 * `213.` Agatharchides of Cnidus, *On the Red Sea* (history, fragments survive)
 * `215.` John Philoponos, ***Against the treatise on the statues of Jamblichus*** (apologetic)
 * `218.` Oribasius, Epitome of the Medical collection
