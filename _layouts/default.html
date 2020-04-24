@@ -18,6 +18,7 @@
   {% if page.external_url %}<meta http-equiv="refresh" content="0; {{ page.external_url }}" />{% endif %}
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/site.css">
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/ryanfb.github.io/webmention" />
   <link rel="icon" href="/etc/favicon.ico" type="image/x-icon">
@@ -30,9 +31,23 @@
         document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
       }
     }
+    function setModifiedDate() {
+      if (document.getElementById('last-modified')) {
+        $.ajax({
+          url: "https://api.github.com/repos/ryanfb/etc/commits?path={{ page.path }}",
+          dataType: 'json',
+          success: function( commits ) {
+            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
+            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
+              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+            }
+          }
+        });
+      }
+    }
   </script>
 </head>
-<body onload="setAccessedDate();">
+<body onload="setModifiedDate(); setAccessedDate();">
   <div id="content">
   {% if page.date %}<!-- Enable COinS -->
   <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.site.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.site.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ site.baseurl | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>{% endif %}
@@ -41,7 +56,8 @@
     {% unless page.title == 'index' %}<div class="title"><h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2></div>{% endunless %}
     <div class="subhead">
       {% if page.tags.size > 0 %}<span>tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><br/>{% endif %}
-      <span>{{ page.date | date: "%Y-%m-%d" }}</span>
+      <span>Originally Published: {{ page.date | date: "%Y-%m-%d" }}</span><br/>
+      <span id='last-modified'/>
     </div>
   </div>
   <div class="clear"/>
