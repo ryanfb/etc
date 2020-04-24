@@ -56,8 +56,10 @@
     {% unless page.title == 'index' %}<div class="title"><h2>↳ <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title}}</a></h2></div>{% endunless %}
     <div class="subhead">
       {% if page.tags.size > 0 %}<span>tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/{{ tag }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</span><br/>{% endif %}
+      {% if page.date %}
       <span>Originally Published: {{ page.date | date: "%Y-%m-%d" }}</span><br/>
       <span id='last-modified'/>
+      {% endif %}
     </div>
   </div>
   <div class="clear"/>
