@@ -6,6 +6,7 @@ baseurl: /etc
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-github-metadata
 exclude: [vendor]
 defaults:
   -
@@ -16,5 +17,6 @@ defaults:
 name: Ryan Baumann - /etc
 description: blog, wiki, miscellany, et cetera
 url: https://ryanfb.github.io
+repository: ryanfb/etc
 sitemap:
   changefreq: daily

@@ -34,7 +34,7 @@
     function setModifiedDate() {
       if (document.getElementById('last-modified')) {
         $.ajax({
-          url: "https://api.github.com/repos/ryanfb/etc/commits?path={{ page.path }}",
+          url: "https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}",
           dataType: 'json',
           success: function( commits ) {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
