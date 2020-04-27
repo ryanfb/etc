@@ -27,7 +27,7 @@
       if (document.getElementById('accessed-on')) {
         var now = new Date();
         var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-        var formattedDate = now.getDate()+" "+months[now.getMonth()]+" "+now.getFullYear();
+        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
         document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
       }
     }
