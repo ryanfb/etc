@@ -18,7 +18,7 @@
   {% if page.external_url %}<meta http-equiv="refresh" content="0; {{ page.external_url }}" />{% endif %}
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/site.css">
-  <script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.padStart%2Cfetch" crossorigin="anonymous"></script>
   <link rel="pingback" href="https://webmention.io/ryanfb.github.io/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/ryanfb.github.io/webmention" />
   <link rel="icon" href="/etc/favicon.ico" type="image/x-icon">
@@ -33,16 +33,16 @@
     }
     function setModifiedDate() {
       if (document.getElementById('last-modified')) {
-        $.ajax({
-          url: "https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}",
-          dataType: 'json',
-          success: function( commits ) {
+        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
+          .then((response) => {
+            return response.json();
+          })
+          .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
               document.getElementById('last-modified').textContent = "Last Modified: " + modified;
             }
-          }
-        });
+          });
       }
     }
   </script>
