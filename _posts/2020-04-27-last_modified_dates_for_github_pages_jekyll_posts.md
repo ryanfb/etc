@@ -8,7 +8,7 @@ For this blog, I decided to add a small bit of JavaScript to my default layout w
 
 <script src="https://gist.github.com/ryanfb/6ffdb5dc3f338f553711a452d2a4136b.js"></script>
 
-(Full code here: <https://github.com/ryanfb/etc/blob/4d24f757183e0fff83d95e42131f04124dab8896/_layouts/default.html#L34-L47>)
+([Full code here](https://github.com/ryanfb/etc/blob/4d24f757183e0fff83d95e42131f04124dab8896/_layouts/default.html#L34-L47))
 
 This uses the [`jekyll-github-metadata`](https://github.com/jekyll/github-metadata) plugin to get the correct owner and repository. I also use [Polyfill.io](https://polyfill.io/v3/) to add support for `fetch` to older browsers.
 
