@@ -72,7 +72,7 @@ This leaves the following 87 entries which have no easily-available English tran
 * `235.` Methodius of Olympus, ***On creatures*** [see CPG 1817]
 * `236.` Methodius of Olympus, *On arbitary freedom* [partly preserved in Greek, complete Slavonic translation, see CPG 1811]
 * `237.` Methodius of Olympus, *Banquet of 10 virgins* [CPG 1810]
-* `239.` Proclus, *Manual of Literature* = *Chrestomathia Grammatica* (philology, fragments survive)
+* [`239.` Proclus, *Manual of Literature* = *Chrestomathia Grammatica* (philology, fragments survive)](https://ryanfb.github.io/photios-bibliotheca/239)
 * `240.` John Philoponus, *On the Hexameron* [CPG 7265]
 * `241.` Philostratus of Tyre, *Life of Apollonius of Tyana*
 * `242.` Damascius of Damascus, ***Life of the Philosopher Isidore*** (biography)
