@@ -7,6 +7,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-github-metadata
+  - jekyll-remote-theme
 exclude: [vendor]
 defaults:
   -
@@ -14,9 +15,19 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-name: Ryan Baumann - /etc
+title: /etc
 description: blog, wiki, miscellany, et cetera
 url: https://ryanfb.github.io
 repository: ryanfb/etc
 sitemap:
   changefreq: daily
+remote_theme: ryanfb/jekyll-theme-palaios
+citation_type: blog
+donation_url: https://ryanfb.github.io/etc/tip-jar
+owner:
+  name: Ryan Baumann
+  first_name: Ryan
+  last_name: Baumann
+  email: ryan.baumann@gmail.com
+  twitter: ryanfb
+  gravatar_url: http://www.gravatar.com/avatar/5c60848658ff9b47c42196635fe0449b.jpg

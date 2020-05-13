@@ -4,7 +4,7 @@ title: index
 ---
 {% for post in site.posts %}{% if post.pinned %}
   <div class="post hentry">
-    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fa fa-thumb-tack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fas fa-thumbtack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
   </div>
 {% endif %}{% endfor %}
 {% for post in site.posts %}{% unless post.pinned %}
@@ -17,4 +17,4 @@ title: index
   </div>
 {% endunless %}{% endfor %}
 <br/>
-<span style="float:right"><i class="fa fa-rss"></i> &nbsp;<a href="{{ site.baseurl }}/feed.xml">feed</a></span>
+<span style="float:right"><i class="fas fa-rss"></i> &nbsp;<a href="{{ site.baseurl }}/assets/feed.xml">feed</a></span>
