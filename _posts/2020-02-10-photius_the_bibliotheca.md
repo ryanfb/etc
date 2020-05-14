@@ -9,7 +9,7 @@ Photius' (or Photios') *Bibliotheca* is a gigantic 9th century CE collection of 
  * J.H. Freese, English, entries 1-165, 1920. [Available online](http://www.tertullian.org/fathers/photius_03bibliotheca.htm).
  * Adolf von Harnack, English, entry 232, [1923](http://www.tertullian.org/fathers/harnack_stephen_gobar.htm).
  * René Henry, French, complete, 1959-1977.
- * [remacle.org](http://remacle.org/bloodwolf/erudits/photius/table.htm), French, complete: it's not entirely clear to me who translated many of these entries; some are from a handful of translations by Abbé Gedoyn, the rest say only that they were digitized by Marc Szwajcer. The French for these is often slightly different from Henry's translation in places.
+ * [remacle.org](http://remacle.org/bloodwolf/erudits/photius/table.htm), French, almost complete: it's not entirely clear to me who translated many of these entries; some are from a handful of translations by Abbé Gedoyn, the rest say only that they were digitized by Marc Szwajcer. The French for these is often slightly different from Henry's translation in places.
  * Claudio Bevegni, Italian, selected, 1992.
  * N.G. Wilson, English, selected, 1994.
 
