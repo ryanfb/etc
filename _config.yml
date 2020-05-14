@@ -9,7 +9,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
   - jekyll-remote-theme
-exclude: [vendor]
 defaults:
   -
     scope:
