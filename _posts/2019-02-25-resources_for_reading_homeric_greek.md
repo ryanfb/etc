@@ -71,10 +71,11 @@ As with all Loebs, these present the Greek text with a facing English translatio
 
 These present the Greek text without commentary, but a brief apparatus criticus at the bottom of each page:
 
-* [*Iliad* 1-12](https://amzn.to/2XpuKgH)
-* [*Iliad* 13-24](https://amzn.to/2EuKojp)
-* [*Odyssey* 1-12](https://amzn.to/2EvOacp)
-* [*Odyssey* 13-24](https://amzn.to/2EcmTul)
+* [*Iliad* 1-12](https://amzn.to/2XpuKgH) ([public domain edition](https://archive.org/details/homeriopera01home/))
+* [*Iliad* 13-24](https://amzn.to/2EuKojp) ([public domain edition](https://archive.org/details/homeriopera02home/))
+* [*Odyssey* 1-12](https://amzn.to/2EvOacp) ([public domain edition](https://archive.org/details/homeriopera03home/))
+* [*Odyssey* 13-24](https://amzn.to/2EcmTul) ([public domain edition](https://archive.org/details/homeriopera04home/))
+* [*Hymni, Cyclus, Fragmenta, Margites, Batrachomyomachia, Vitae*](https://amzn.to/2ZnhWuL) ([public domain edition](https://archive.org/details/homeriopera05home/))
 
 ## Teubner
 ### Martin L. West, ed.
