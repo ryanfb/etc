@@ -47,7 +47,7 @@ While this book has the advantage of being in the public domain, it is probably 
 # Editions
 
 ## Bristol Classical Press
-### M.M. Wilcock, W.B. Stanford
+### M.M. Willcock, W.B. Stanford
 
 These combine a Greek edition with corresponding English commentary at the back of each volume:
 
