@@ -1,6 +1,7 @@
 ---
 title: Resources for Reading Homeric Greek
 affiliate: true
+pinned: true
 ---
 
 Recently, [I've been reading some Homeric Greek](https://twitter.com/ryanfb/status/1099705793874743296), and thought it would be beneficial to collect some resources I've found useful or interesting in the process. Similar to my [Ancient Greek Textbooks Roundup]({{ site.baseurl }}{% post_url 2018-03-02-ancient_greek_textbooks_roundup %}) post, this is just a post for gathering everything together in one place for convenient reference.
@@ -105,12 +106,12 @@ Perhaps an outlier when people think of "Homeric Greek," but Bloomsbury have rec
 ## [*A Lexicon of the Homeric Dialect*](https://amzn.to/2tDaieT)
 ### Richard John Cunliffe
 
-This edition expands Cunliffe's *Lexicon* with his *Homeric Proper and Place Names*. Originally published in 1924, the *Lexicon* should definitively be in the public domain in the U.S. in 2020.
+This edition expands Cunliffe's *Lexicon* with his *Homeric Proper and Place Names*. Originally published in 1924, [the *Lexicon* is definitively in the public domain in the U.S. as of 2020](https://archive.org/details/mdp.39015005687283).
 
 ## [*A Homeric Dictionary for Schools and Colleges*](https://amzn.to/2XklhaJ)
 ### Georg Autenrieth, translated by Robert P. Keep
 
-Originally published in German by Autenrieth, the English translation of this dictionary was published in 1889 and is [freely available in the public domain](https://books.google.com/books?id=MDs87YOfkzgC). It's also available as a digitized dictionary within [Perseus](http://www.perseus.tufts.edu/hopper/) and [Logeion](http://logeion.uchicago.edu/).
+Originally published in German by Autenrieth, the English translation of this dictionary was published in 1889 and is [freely available in the public domain](https://archive.org/details/ahomericdiction00autegoog). It's also available as a digitized dictionary within [Perseus](http://www.perseus.tufts.edu/hopper/) and [Logeion](http://logeion.uchicago.edu/).
 
 ---
 
