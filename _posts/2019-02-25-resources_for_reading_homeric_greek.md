@@ -96,6 +96,14 @@ The best introduction to West's edition (and an excellent overview of the issues
 
 A significant portion of my reading is done in the excellent [Attikos](https://attikos.org/) app from the University of Chicago. You can tap on any word for a quick parse and definition, or open a full definition in the corresponding Logeion dictionary app. I'll often split-screen this on my iPad with a PDF open in the [Documents](https://readdle.com/documents) app. You can also read texts online in any web browser with [Perseus](http://www.perseus.tufts.edu/hopper/) or [Perseus under PhiloLogic](http://perseus.uchicago.edu/).
 
+## Hypotactic
+
+David Chamberlain has recorded audio for all of the *Iliad* & (as of this writing) *Odyssey* 1-7, presented alongside a fully scanned text, available online at [*A Reading of Homer*](http://hypotactic.com/my-reading-of-homer-work-in-progress/) (work in progress) on [Hypotactic.com](https://hypotactic.com/). He also has fully parsed versions of *Odyssey* 6 & 7 available [here](http://hypotactic.com/projects/).
+
+## The Chicago Homer
+
+[*The Chicago Homer*](https://homer.library.northwestern.edu/splash.html) presents many Homeric works in an online interface with optional interlinear translations, as well as clickable parses for each word. Martin Mueller has also written [an introduction to using *The Chicago Homer*](https://homer.library.northwestern.edu/tutorial.html).
+
 ## Bloomsbury
 
 Perhaps an outlier when people think of "Homeric Greek," but Bloomsbury have recently published an edition (with text, translation, and commentary) of [The Homeric Battle of Frogs and Mice](https://amzn.to/2XnNPjC), edited by Joel P. Christensen and Erik Robinson. The relative shortness, ease, and weirdness of the text can make it an excellent candidate for transitioning to reading Homeric Greek.
