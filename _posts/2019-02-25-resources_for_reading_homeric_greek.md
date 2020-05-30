@@ -2,6 +2,7 @@
 title: Resources for Reading Homeric Greek
 affiliate: true
 pinned: true
+tags: ancientgreek
 ---
 
 Recently, [I've been reading some Homeric Greek](https://twitter.com/ryanfb/status/1099705793874743296), and thought it would be beneficial to collect some resources I've found useful or interesting in the process. Similar to my [Ancient Greek Textbooks Roundup]({{ site.baseurl }}{% post_url 2018-03-02-ancient_greek_textbooks_roundup %}) post, this is just a post for gathering everything together in one place for convenient reference.
