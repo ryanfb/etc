@@ -17,4 +17,10 @@ title: index
   </div>
 {% endunless %}{% endfor %}
 <br/>
+<h1>Tags:</h1>
+{% for page in site.pages %}{% if page.layout == 'taglist' %}
+  <div class="post hentry">
+    <h2 id="tag-{{ page.tagname }}" class="entry-title"><i class="fas fa-tags"></i> <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
+  </div>
+{% endif %}{% endfor %}
 <span style="float:right"><i class="fas fa-rss"></i> &nbsp;<a href="{{ site.baseurl }}/assets/feed.xml">feed</a></span>
