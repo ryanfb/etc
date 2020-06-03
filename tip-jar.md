@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Tip Jar"
+hidden: true
 ---
 
 Appreciate my work? Here's some ways you can support it:

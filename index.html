@@ -7,7 +7,7 @@ title: index
     <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fas fa-thumbtack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
   </div>
 {% endif %}{% endfor %}
-{% for page in site.pages %}{% unless page.layout == 'taglist' %}{% if page.title and page.title != 'index' and page.title != 'Tip Jar' and page.hidden != true %}
+{% for page in site.pages %}{% unless page.layout == 'taglist' %}{% if page.title and page.title != 'index' and page.hidden != true %}
   <div class="post hentry">
     <h2 id="tag-{{ page.tagname }}" class="entry-title"><i class="far fa-file-alt"></i> <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
   </div>
