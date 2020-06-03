@@ -7,7 +7,12 @@ title: index
     <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fas fa-thumbtack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
   </div>
 {% endif %}{% endfor %}
-{% for post in site.posts %}{% unless post.pinned %}
+{% for page in site.pages %}{% unless page.layout == 'taglist' %}{% if page.title and page.title != 'index' and page.title != 'Tip Jar' %}
+  <div class="post hentry">
+    <h2 id="tag-{{ page.tagname }}" class="entry-title"><i class="far fa-file-alt"></i> <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
+  </div>
+{% endif %}{% endunless %}{% endfor %}
+{% for post in site.posts %}{% unless post.pinned or post.hidden == true %}
   <div class="post hentry">
     {% if post.external_url %}
     <h2 id="post-{{ post.id | replace:'/','-' }}" class="external entry-title"><time datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }} </time><a href="{{ post.external_url }}">{{ post.title }}</a></h2>
