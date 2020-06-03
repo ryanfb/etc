@@ -9,7 +9,7 @@ title: index
 {% endif %}{% endfor %}
 {% for page in site.pages %}{% unless page.layout == 'taglist' %}{% if page.title and page.title != 'index' and page.hidden != true %}
   <div class="post hentry">
-    <h2 id="tag-{{ page.tagname }}" class="entry-title"><i class="far fa-file-alt"></i> <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
+    <h2 id="tag-{{ page.tagname }}" class="entry-title">{% if page.icon %}<i class="{{ page.icon }}"></i>{% else %}<i class="far fa-file-alt"></i>{% endif %} <a href="{{ site.baseurl }}{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
   </div>
 {% endif %}{% endunless %}{% endfor %}
 {% for post in site.posts %}{% unless post.pinned or post.hidden == true %}
