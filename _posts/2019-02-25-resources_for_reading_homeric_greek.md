@@ -239,7 +239,7 @@ Perhaps an odd category, but over the years various people have made Attic/Koine
 * [Volume 1, *Iliad* 1-6](https://books.google.com/books?id=QSE-AAAAcAAJ)
 * [Volume 2, *Iliad* 7-12](https://books.google.com/books?id=nyY-AAAAcAAJ)
 * [Volume 3, *Iliad* 13-19](https://books.google.com/books?id=vSY-AAAAcAAJ)
-* [Volume 4, *Iliad* 20-24](https://books.google.com/books?id=0SY-AAAAcAAJ)
+* [Volume 4, *Iliad* 20-24 & the *Batrachomyomachia*](https://books.google.com/books?id=0SY-AAAAcAAJ)
 
 ## [Michael Psellos](https://en.wikipedia.org/wiki/Michael_Psellos)
 
