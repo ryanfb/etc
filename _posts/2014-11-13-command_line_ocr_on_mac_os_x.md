@@ -10,13 +10,13 @@ Software Installation
 ---------------------
 
   0. Install [homebrew](http://brew.sh/) (if you haven't already).
-  1. Install ImageMagick with TIFF and Ghostscript support:
+  1. Install ImageMagick (needs TIFF and Ghostscript support):
 
-         brew install --with-libtiff --with-ghostscript imagemagick
+         brew install imagemagick
 
   2. Install Tesseract with all languages:
 
-         brew install --all-languages tesseract
+         brew install tesseract tesseract-lang
 
   3. Install [pdftk server](https://www.pdflabs.com/tools/pdftk-server/) from the package installer.
 
