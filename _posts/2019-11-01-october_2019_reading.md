@@ -3,6 +3,7 @@ title: October 2019 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 # Books
 - [*Transit*, Rachel Cusk](https://amzn.to/339d7nM): following the excellent [*Outline*](https://amzn.to/2plGggx), this was a little bit of a change of pace, and I'm not sure it was quite as excellent. I'm about halfway through the last book in the "trilogy", [*Kudos*](https://amzn.to/2C5L0dj), and it seems like a welcome return to form.

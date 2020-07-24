@@ -3,6 +3,7 @@ title: November 2019 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 # Books
 - [*Algorithms of Oppression*, Safiya Umoja Noble](https://amzn.to/34TxMxa): essential reading if you're interested in algorithmic bias and the power of Big Tech.

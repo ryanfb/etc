@@ -3,6 +3,7 @@ title: August 2019 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 # Books
 - [*The Personality Brokers*, Merve Emre](https://amzn.to/2HJ2647): Details the strange pseudoscientific history of personality testing. A good pair with [Cathy O'Neill's *Weapons of Math Destruction*](https://amzn.to/2NTrtE4) which details how similar modern pseudoscience is deployed in discriminatory hiring practices. Out in paperback on September 10th.

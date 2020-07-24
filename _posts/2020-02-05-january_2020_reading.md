@@ -3,6 +3,7 @@ title: January 2020 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 
 # Books

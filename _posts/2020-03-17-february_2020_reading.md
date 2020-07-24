@@ -3,6 +3,7 @@ title: February 2020 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 
 A slightly belated entry this month, due to chaos.

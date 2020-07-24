@@ -3,6 +3,7 @@ title: September 2019 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 # Books
 - [*Fluent Forever: How to Learn Any Language Fast and Never Forget It*, Gabriel Wyner](https://amzn.to/2nJ60TW): This book proposes three basic keys to language learning:

@@ -3,6 +3,7 @@ title: December 2019 Reading
 tags:
 - reading
 affiliate: true
+hidden: true
 ---
 
 Closed out 2019 with a total of 78 books read, probably the most in a single year for me in a while. Aiming for 104 in 2020!
