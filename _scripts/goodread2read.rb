@@ -27,18 +27,20 @@ CSV.open('_data/books-read.csv', 'wb', write_headers: true, headers: ['Rating','
   CSV.foreach(ARGV[0], headers: true) do |row|
     if (row['Date Read'].nil? || row['Date Read'].empty?) && (row['Exclusive Shelf'] == 'read') && (!row['Date Added'].empty?)
       # set date read to date added
+      row['Date Read'] = row['Date Added']
     end
     if (!row['Date Read'].nil?) && (!row['Date Read'].empty?)
       key = "#{row['Author']}: #{row['Title']}"
       row['Title'].tr!('*','')
       row['Title'].strip!
       real_isbn = row['ISBN'].tr('="','')
-      real_isbn = book_metadata[key][:asin] if book_metadata[key][:asin]
+      real_isbn = book_metadata[key][:asin] if (book_metadata[key] && book_metadata[key][:asin])
+      rating = (book_metadata[key] && book_metadata[key][:rating]) ? book_metadata[key][:rating] : ''
       markdown_link = "*#{row['Title']}*"
       unless real_isbn.empty?
         markdown_link = "[*#{row['Title']}*](https://www.amazon.com/gp/product/#{real_isbn}/?tag=ryanfb-20)"
       end
-      output_csv << [book_metadata[key][:rating], markdown_link, row['Author'], row['Date Read'].tr('/','-')]
+      output_csv << [rating, markdown_link, row['Author'], row['Date Read'].tr('/','-')]
     end
   end
 end
