@@ -32,9 +32,9 @@ If you've followed all the above setup instructions and requirements, installing
 
 I haven't yet created a Homebrew formula for the [Meshroom package itself](https://github.com/alicevision/meshroom), as it's all Python and doesn't seem particularly difficult to install/use once AliceVision is installed and working correctly. Just follow the install instructions there (for my specific Python configuration/installation I used `pip3` instead of `pip` and `python3` instead of `python`):
 
-    wget 'https://github.com/alicevision/meshroom/archive/v2019.1.0.zip'
-    unzip v2019.1.0.zip
-    cd meshroom-2019.1.0
+    wget 'https://github.com/alicevision/meshroom/archive/v2019.2.0.zip'
+    unzip v2019.2.0.zip
+    cd meshroom-2019.2.0
     pip install -r requirements.txt
 
 One gotcha I ran into is that the CUDA-linked AliceVision binaries invoked by Meshroom don't automatically find the CUDA libraries on the `DYLD_LIBRARY_PATH`, and setting the `DYLD_LIBRARY_PATH` from the shell launching Meshroom doesn't seem to get the variable passed into the shell environment Meshroom uses to spawn commands. Without this, you'll get an error like:
@@ -53,11 +53,11 @@ You can undo/uninstall this with:
 
 You may also want to download the voctree dataset:
 
-    curl 'https://gitlab.com/alicevision/trainedVocabularyTreeData/raw/master/vlfeat_K80L3.SIFT.tree' -o /usr/local/Cellar/alicevision/2.1.0/share/aliceVision/vlfeat_K80L3.SIFT.tree
+    curl 'https://gitlab.com/alicevision/trainedVocabularyTreeData/raw/master/vlfeat_K80L3.SIFT.tree' -o /usr/local/Cellar/alicevision/2.2.0/share/aliceVision/vlfeat_K80L3.SIFT.tree
 
 Then launch with:
 
-    ALICEVISION_SENSOR_DB=/usr/local/Cellar/alicevision/2.1.0/share/aliceVision/cameraSensors.db ALICEVISION_VOCTREE=/usr/local/Cellar/alicevision/2.1.0/share/aliceVision/vlfeat_K80L3.SIFT.tree PYTHONPATH=$PWD python meshroom/ui
+    ALICEVISION_SENSOR_DB=/usr/local/Cellar/alicevision/2.2.0/share/aliceVision/cameraSensors.db ALICEVISION_VOCTREE=/usr/local/Cellar/alicevision/2.2.0/share/aliceVision/vlfeat_K80L3.SIFT.tree PYTHONPATH=$PWD python meshroom/ui
 
 Import some photos, click "Start", wait a while, and hopefully you should end up with a reconstructed and textured mesh ([here's an example of my own which I uploaded to SketchFab](https://skfb.ly/6ARpx)). By default, the output will be in `MeshroomCache/Texturing/` (relative to where you saved the project file).
 
