@@ -1,0 +1,7 @@
+---
+title: Pairing an 8Bitdo Bluetooth Controller with MiSTer
+affiliate: true
+---
+I wanted to pair my [8Bitdo SN30 Pro Bluetooth controller](https://amzn.to/2EHFtyt) wirelessly with my [MiSTer FPGA setup](https://github.com/MiSTer-devel/Main_MiSTer/wiki), but the [cheap CSR8510-based Bluetooth USB adapter](https://amzn.to/30hveZS) I was trying to pair it with had zero success at all. I've paired the controller with generic Bluetooth to a Raspberry Pi before with no issues.
+
+As it turns out, if you use the "official" [8Bitdo Bluetooth adapter](https://amzn.to/30iwNqE) with MiSTer, this works easily. Just press the physical "pair" button on the adapter and put the controller in pair mode and it should pair almost instantly (I used X-input mode, just hold X & start to turn on the controller then press the controller's "pair" button until the LEDs sweep, the controller will give a slight vibration when it pairs). You don't even need to go into [MiSTer's Bluetooth pairing dialog](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Bluetooth) for this, and in fact, the controller still didn't show up there even when it was paired and working. You may need to go through button mapping; I have these [MiSTer Input Maps](https://github.com/misteraddons/Mister-Input-Maps) added to my SD card but it seemed like I still needed to do mapping manually.
