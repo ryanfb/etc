@@ -3,6 +3,8 @@ title: "Photius: The Bibliotheca"
 pinned: true
 ---
 
+**Update:** I've started making English translations of some previously-untranslated entries [here](https://ryanfb.github.io/photios-bibliotheca/).
+
 Photius' (or Photios') *Bibliotheca* is a gigantic 9th century CE collection of notes on some 280 books (many of which have since been lost). The modern edition of the Greek text runs to some 1,600 pages, and most translations into modern languages have been selective or partial:
 
  * G. Compagnoni, Italian, selected, 1836. [Available online](https://archive.org/details/bibliotecadifoz00photgoog/).
