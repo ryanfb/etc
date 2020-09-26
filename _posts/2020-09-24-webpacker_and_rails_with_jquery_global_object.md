@@ -6,7 +6,7 @@ If you're using Webpacker with Rails 6, you may have run into an issue trying to
 
 I've come across a huge number of confusing and outdated answers for how to fix this, so I'm sharing what worked for me at the time of this writing (Rails 6.0.3.3, webpacker 5.2.1).
 
-The best way seems to be to use [the `expose-loader` module](https://github.com/webpack-contrib/expose-loader) to expose jQuery from your webpack config. For me this meant running `yarn add expose-loader --dev` to install the module, then updating my `config/webpack/environment.js` to expose jQuery as `$` and `jQuery`:
+The best way seems to be to use [the `expose-loader` module](https://github.com/webpack-contrib/expose-loader) to expose jQuery from your webpack config. For me this meant running `yarn add expose-loader` to install the module, then updating my `config/webpack/environment.js` to expose jQuery as `$` and `jQuery`:
 
 {% highlight js %}
 const { environment } = require('@rails/webpacker')
