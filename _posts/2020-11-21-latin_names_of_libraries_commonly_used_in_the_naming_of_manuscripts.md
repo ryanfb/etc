@@ -59,22 +59,22 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * *Riccardianus*: [Biblioteca Riccardiana](http://www.riccardiana.firenze.sbn.it/index.php/it/), Florence, Italy
 * *Francofortanus* (also *Francofurtum*): [German National Library or Deutsche Nationalbibliothek](http://www.dnb.de/EN/Home/home_node.html) (**DNB**), Frankfurt, Germany (see also *Lipsiensis*)
 * *Goettengensis* (also *Gotingensis* or *Gotinga*): [Göttingen State and University Library](https://www.sub.uni-goettingen.de/en/) (**SUB Göttingen**), Göttingen, Germany
-* *Guelferbytanus* (also *Guelferbytum*) = [Herzog August Library or Herzog August Bibliothek](http://www.hab.de/) (**HAB**), Wolfenbüttel, Germany
-  * *Helmstadiensis* = **Helm.**
-  * *Gudianus* = **Gud.**
-  * *Augusteus* = **Aug.**
+* *Guelferbytanus* (also *Guelferbytum*): [Herzog August Library or Herzog August Bibliothek](http://www.hab.de/) (**HAB**), Wolfenbüttel, Germany
+  * *Helmstadiensis* (**Helm.**)
+  * *Gudianus* (**Gud.**)
+  * *Augusteus* (**Aug.**)
 * *Hamburgensis* (also *Hamburgum*): [Hamburg State and University Library Carl von Ossietzky](https://www.sub.uni-hamburg.de/en/service/english.html), Hamburg, Germany
-* *Hauniensis* (also *Hafniensis*, *Haunia*, or *Hafnia*) = [Det Kongelige Bibliotek](https://www.kb.dk/) (**KB**), Copenhagen, Denmark
+* *Hauniensis* (also *Hafniensis*, *Haunia*, or *Hafnia*): [Det Kongelige Bibliotek](https://www.kb.dk/) (**KB**), Copenhagen, Denmark
 * *Holmiensis* (also *Holmia*): [Stockholms stadsbibliotek](http://biblioteket.stockholm.se/), Stockholm, Sweden
 
 * *Leovardiensis* (also *Leovardia* or *Frisianus*): Provinciale Bibliotheek van Friesland, now the [Tresoar or Frysk Histoarysk en Letterkundich Sintrum](http://www.tresoar.nl/Pages/Default.aspx), Leeuwarden the Netherlands
 * *Leidensis* (also *Lugdunensis* or *Lugdunum Batavorum*): [Leiden University Library or Universitaire Bibliotheken Leiden](https://www.library.universiteitleiden.nl/) (**UBL**), Leiden, the Netherlands 
-  * *Bibliotheca Publica Graeca* = **BPG**
-  * *Bibliotheca Publica Latina* = **BPL**
+  * *Bibliotheca Publica Graeca* (**BPG**)
+  * *Bibliotheca Publica Latina* (**BPL**)
   * *Heinsius*
   * *Lipsius*
   * *Perizonianus*
-  * *Vossianus* = **Voss.**
+  * *Vossianus* (**Voss.**)
 * *Lichfeldensis*: [Lichfield Cathedral Library](https://www.lichfield-cathedral.org/about-us/the-library-1), Lichfield, England
 * *Lipsiensis* (also *Lipsia*): Leipzig, Germany
   * [Leipzig University Library or Bibliotheca Albertina or Universitätsbibliothek Leipzig](https://www.ub.uni-leipzig.de/en/home/) (**UBL**)
