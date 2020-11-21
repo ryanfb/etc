@@ -66,7 +66,6 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Hamburgensis* (also *Hamburgum*): [Hamburg State and University Library Carl von Ossietzky](https://www.sub.uni-hamburg.de/en/service/english.html), Hamburg, Germany
 * *Hauniensis* (also *Hafniensis*, *Haunia*, or *Hafnia*): [Det Kongelige Bibliotek](https://www.kb.dk/) (**KB**), Copenhagen, Denmark
 * *Holmiensis* (also *Holmia*): [Stockholms stadsbibliotek](http://biblioteket.stockholm.se/), Stockholm, Sweden
-
 * *Leovardiensis* (also *Leovardia* or *Frisianus*): Provinciale Bibliotheek van Friesland, now the [Tresoar or Frysk Histoarysk en Letterkundich Sintrum](http://www.tresoar.nl/Pages/Default.aspx), Leeuwarden the Netherlands
 * *Leidensis* (also *Lugdunensis* or *Lugdunum Batavorum*, **Lugd. Bat.**): [Leiden University Library or Universitaire Bibliotheken Leiden](https://www.library.universiteitleiden.nl/) (**UBL**), Leiden, the Netherlands
   * *Bibliotheca Publica Graeca* (**BPG**)
