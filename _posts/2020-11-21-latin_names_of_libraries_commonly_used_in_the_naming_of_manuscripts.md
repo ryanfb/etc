@@ -47,7 +47,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Estensis*: [Biblioteca Estense](http://bibliotecaestense.beniculturali.it/), Modena, Italy
 * *Etonensis* (also *Etona*): [Eton College Library](https://collections.etoncollege.com/collections/college-library/), Windsor, England
 * *Ferrarensis*: [Biblioteca Comunale Ariostea](http://archibiblio.comune.fe.it/271/biblioteca-comunale-ariostea), Ferrara, Italy
-* *Florentinus*: Florence, Italy
+* *Florentinus* (also *Florentia*): Florence, Italy
   * *Laurentianus* (**Laur.**): [Laurentian Library or Biblioteca Medicea Laurenziana](http://www.bml.firenze.sbn.it/index_ing.htm) (**BML**)
     * *Ashburnhamensis*
     * *Gaddianus*
