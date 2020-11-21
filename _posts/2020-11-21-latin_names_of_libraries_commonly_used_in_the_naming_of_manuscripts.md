@@ -81,7 +81,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Londiniensis* (also *Londinensis* or *Londinum*): [The British Library](https://www.bl.uk/), London, England
   * *Burneianus*
   * *Harleianus*
-* Matritensis (also *Madritensis*, *Matritum*, or *Madritum*): Madrid, Spain
+* *Matritensis* (also *Madritensis*, *Matritum*, or *Madritum*): Madrid, Spain
   * [National Library of Spain or Biblioteca Nacional de España](http://www.bne.es/) (**BNE**)
   * [Biblioteca Complutense](https://biblioteca.ucm.es)
   * [Real Biblioteca del Palacio Real de Madrid](https://realbiblioteca.es/)
