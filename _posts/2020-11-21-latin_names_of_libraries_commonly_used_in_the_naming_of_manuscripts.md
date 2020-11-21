@@ -131,7 +131,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * *Latinus* (**Lat.**)
   * *Ottobonianus* (also *Ottoboniani*, **Ottob.**)
   * *Palatinus* (also *Palatini*, **Pal.**): but see also *Palatinus* referring to Heidelberg above
-	* *Reginensis* (also *Reginenses*, **Reg.**)
+  * *Reginensis* (also *Reginenses*, **Reg.**)
   * *Rossianus* (**Ross.**)
   * *Urbinas* (also *Urbinum* or *Urbinates*, **Urb.**)
 * *Venetus* (also *Venetiae*): Venice, Italy
