@@ -68,7 +68,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Holmiensis* (also *Holmia*): [Stockholms stadsbibliotek](http://biblioteket.stockholm.se/), Stockholm, Sweden
 
 * *Leovardiensis* (also *Leovardia* or *Frisianus*): Provinciale Bibliotheek van Friesland, now the [Tresoar or Frysk Histoarysk en Letterkundich Sintrum](http://www.tresoar.nl/Pages/Default.aspx), Leeuwarden the Netherlands
-* *Leidensis* (also *Lugdunensis* or *Lugdunum Batavorum*): [Leiden University Library or Universitaire Bibliotheken Leiden](https://www.library.universiteitleiden.nl/) (**UBL**), Leiden, the Netherlands 
+* *Leidensis* (also *Lugdunensis* or *Lugdunum Batavorum*, **Lugd. Bat.**): [Leiden University Library or Universitaire Bibliotheken Leiden](https://www.library.universiteitleiden.nl/) (**UBL**), Leiden, the Netherlands
   * *Bibliotheca Publica Graeca* (**BPG**)
   * *Bibliotheca Publica Latina* (**BPL**)
   * *Heinsius*
@@ -82,7 +82,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Londiniensis* (also *Londinensis* or *Londinum*): [The British Library](https://www.bl.uk/), London, England
   * *Burneianus*
   * *Harleianus*
-* Matritensis (also *Madritensis*, *Matritum* or *Madritum*): Madrid, Spain
+* Matritensis (also *Madritensis*, *Matritum*, or *Madritum*): Madrid, Spain
   * [National Library of Spain or Biblioteca Nacional de España](http://www.bne.es/) (**BNE**)
   * [Biblioteca Complutense](https://biblioteca.ucm.es)
   * [Real Biblioteca del Palacio Real de Madrid](https://realbiblioteca.es/)
