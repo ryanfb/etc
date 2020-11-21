@@ -56,7 +56,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
     * *Strozzianus*
   * [Biblioteca Nazionale Centrale di Firenze](http://www.bncf.firenze.sbn.it/) (**BNCF**)
   * *Marcianus*: [Library of San Marco](http://www.polomusealetoscana.beniculturali.it/index.php?it/190/museo-di-san-marco-firenze) (but see also *Marcianus* under *Venetus*)
-  * *Riccardianus*: [Biblioteca Riccardiana](http://www.riccardiana.firenze.sbn.it/index.php/it/), Florence, Italy
+  * *Riccardianus*: [Biblioteca Riccardiana](http://www.riccardiana.firenze.sbn.it/index.php/it/)
 * *Francofortanus* (also *Francofurtum*): [German National Library or Deutsche Nationalbibliothek](http://www.dnb.de/EN/Home/home_node.html) (**DNB**), Frankfurt, Germany (see also *Lipsiensis*)
 * *Goettengensis* (also *Gotingensis* or *Gotinga*): [Göttingen State and University Library](https://www.sub.uni-goettingen.de/en/) (**SUB Göttingen**), Göttingen, Germany
 * *Guelferbytanus* (also *Guelferbytum*): [Herzog August Library or Herzog August Bibliothek](http://www.hab.de/) (**HAB**), Wolfenbüttel, Germany
