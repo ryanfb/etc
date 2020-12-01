@@ -1,5 +1,6 @@
 ---
 title: Latin Names of Libraries Commonly Used in the Naming of Manuscripts
+pinned: true
 ---
 
 Often when working with Greek & Latin texts, you'll find manuscripts referred to using Latin names which indicate where the manuscript is currently located. For example, "Escorialensis Ω.I.12" refers to a manuscript with the shelfmark Ω.I.12 in the Real Biblioteca del Monasterio de El Escorial, Spain. Unfortunately, the list of names used is quite extensive and this can be a somewhat confusing barrier to tracking down more information about a given manuscript. Unless you happen to know the Latin names for various European cities as well as the most significant collection(s) of manuscript holdings in those cities, it can take some sleuthing to discover what collection you even need to look in for a given shelfmark. In order to aid others (and as a handy reference for myself), I intend to collect here a list of commonly-used Latin names for libraries with Greek & Latin manuscript holdings.
