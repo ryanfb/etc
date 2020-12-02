@@ -43,6 +43,9 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * *Collegium Trinitatis*: [Trinity College Library](https://www.trin.cam.ac.uk/library/)
   * *Pembrokianus*: [Pembroke College Library](https://www.pem.cam.ac.uk/college/library)
 * *Carolsruhensis* (also *Caroli Hesychia*): [Baden State Library or Badische Landesbibliothek](http://www.blb-karlsruhe.de/) (**BLB**), Karlsruhe, Germany
+* *Coloniensis* (also *Colonia Agrippina*): Cologne (Köln), Germany
+  * [University and City Library of Cologne](https://www.ub.uni-koeln.de/index_eng.html)
+  * [Cologne Public Library or Stadtbibliothek Köln](http://www.stadt-koeln.de/5/stadtbibliothek/)
 * *Dresdensis* (also *Dresda*): [Saxon State and University Library Dresden](http://www.slub-dresden.de/en/home/) (**SLUB Dresden**), Dresden, Germany
 * *Escorialensis* (also *Matritensis Escorialensis* or *Scorialensis*): [Real Biblioteca del Monasterio de El Escorial](http://rbme.patrimonionacional.es/), El Escorial, Spain
 * *Estensis*: [Biblioteca Estense](http://bibliotecaestense.beniculturali.it/), Modena, Italy
