@@ -1,8 +1,11 @@
 ---
 title: AliceVision and Meshroom on Mac OS X
+hidden: true
 tags:
 - photogrammetry
 ---
+
+**UPDATE**: I no longer have access to any CUDA-compatible Macs running macOS High Sierra, and am unable to update this guide or the related Homebrew formulas. If you want to run AliceVision/Meshroom on a modern Mac, your best bet is to wait for [AliceVision to support building without CUDA](https://github.com/alicevision/AliceVision/issues/439).
 
 **NOTE**: This guide was updated on 2020-07-30 to recommend using CUDA 10.1 and Xcode 10.1 versions. The Homebrew formula was also updated on 2019-11-06 to AliceVision 2.2.0 to support Meshroom 2019.2.0.
 
