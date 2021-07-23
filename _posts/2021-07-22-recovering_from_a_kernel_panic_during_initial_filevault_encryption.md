@@ -9,7 +9,7 @@ After doing so, I got a "Reset Password" recovery boot screen, with the options 
 
 I selected the last option (since that was the case), and when selecting the user I knew the password for and entering the correct password, was prompted to confirm that I wanted to use it to disable FileVault, and when confirming it would give the error message "The supplied password failed to unlock the disk." I also tried entering the FileVault recovery key here, with no luck.
 
-As an aside here, I opted to use key-based recovery for FileVault instead of iCloud-based recovery. Luckily I had the key. I assume that if I used iCloud-based recovery, any step where I used the key would be replaced with an iCloud authentication and confirmation step.
+(As an aside here, I opted to use key-based recovery for FileVault instead of iCloud-based recovery. Luckily I had the key. I assume that if I used iCloud-based recovery, any step where I used the key would be replaced with an iCloud authentication and confirmation step.)
 
 Since that didn't seem to do anything, I also tried the "My password doesn't work when logging in" option to reset my password, but after rebooting still had the same problem that no keyboard input was recognized (trying with both the standard Bluetooth Apple Keyboard I use day-to-day and a wired USB keyboard). Rebooting after the prompt got me back to the same "Reset Password" recovery boot screen with three options.
 
