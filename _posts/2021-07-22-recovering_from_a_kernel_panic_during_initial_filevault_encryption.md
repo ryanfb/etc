@@ -17,7 +17,7 @@ At this point, I knew I had a working Time Machine backup and figured there was 
 
 I was seemingly stuck, since normal Recovery Mode startup key combinations didn't seem to get me out of this specific "Reset Password" recovery mode.
 
-Out of desperation, I tried the "I forgot my password" option even though that wasn't the case - and finally got a screen which prompted my for my FileVault recovery key. After typing it in it let me reset the password for my account, and after rebooting my keyboard worked at the login screen and my password (which I reset to be the same password) let me log in, though this initial boot was quite slow.
+Out of desperation, I tried the "I forgot my password" option even though that wasn't the case - and finally got a screen which prompted me for my FileVault recovery key. After typing it in it let me reset the password for my account, and after rebooting my keyboard worked at the login screen and my password (which I reset to be the same password) let me log in, though this initial boot was quite slow.
 
 It seems like this recovery process allowed me to use the FileVault recovery key to re-set my actual password as an acceptable FileVault password to be able to decrypt the startup disk during startup. This was completely counterintuitive, as I had not actually forgotten my password, and nobody else I found having this issue discussed eventually recovering their partially-encrypted FileVault disk in this way.
 
