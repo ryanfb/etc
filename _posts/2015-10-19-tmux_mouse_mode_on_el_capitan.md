@@ -1,5 +1,7 @@
 ---
 title: tmux mouse mode on El Capitan
+tags: mac
+hidden: true
 ---
 
 #### UPDATE: With recent releases of `tmux` many configuration options have changed. If you're running `tmux` 2.4 or later please read [this issue comment](https://github.com/tmux/tmux/issues/754#issuecomment-297452143) for a potential resolution.

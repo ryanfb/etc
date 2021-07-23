@@ -2,6 +2,7 @@
 title: Command-Line OCR with Tesseract on Mac OS X
 tags:
 - ocr
+- mac
 ---
 
 This is a short writeup of the working process I came up with for command-line OCR of a non-OCR'd PDF with searchable PDF output on OS X, after running into a thousand little gotchas. [^gotchas]

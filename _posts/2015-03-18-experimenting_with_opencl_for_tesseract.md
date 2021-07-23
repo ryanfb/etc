@@ -3,6 +3,7 @@ title: Experimenting with OpenCL for Tesseract
 tags:
 - ocr
 - docker
+- mac
 ---
 
 #### Update (2015-09-08):

@@ -1,5 +1,6 @@
 ---
 title: Building CloudCompare with E57 Support on OS X
+tags: mac
 ---
 
 The E57 format is used for storing 3D point clouds (from e.g. LiDAR), and is implemented in [libE57](http://www.libe57.org/). Unfortunately, that library is relatively unmaintained, and doesn't build out-of-the-box on Mac OS X. Fortunately, [Andy Maloney has already forked it and patched it to address OS X compatibility and other issues](https://github.com/asmaloney/libE57Format).

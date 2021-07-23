@@ -1,5 +1,6 @@
 ---
 title: Recovering From a Kernel Panic During Initial FileVault Encryption
+tags: mac
 ---
 After upgrading my iMac (late 2013, and thus [T2-chipless](https://support.apple.com/en-us/HT208862) in case you have a T2 chip and the behavior is different for those models) to macOS Catalina 10.15, I noticed that I needed to re-enable FileVault encryption for my startup disk. Soon after doing so, during the initial FileVault disk encryption step, my iMac reported a kernel panic and shut down.
 

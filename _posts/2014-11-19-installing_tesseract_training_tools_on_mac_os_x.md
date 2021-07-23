@@ -2,6 +2,7 @@
 title: Installing Tesseract training tools on Mac OS X
 tags:
 - ocr
+- mac
 ---
 
 #### Update (2015-09-08):
