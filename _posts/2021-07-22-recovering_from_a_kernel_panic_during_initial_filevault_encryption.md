@@ -13,7 +13,7 @@ As an aside here, I opted to use key-based recovery for FileVault instead of iCl
 
 Since that didn't seem to do anything, I also tried the "My password doesn't work when logging in" option to reset my password, but after rebooting still had the same problem that no keyboard input was recognized (trying with both the standard Bluetooth Apple Keyboard I use day-to-day and a wired USB keyboard). Rebooting after the prompt got me back to the same "Reset Password" recovery boot screen with three options.
 
-At this point, I knew I had a working Time Machine backup and figured there was no recoverying the mis-encrypted FileVault startup disk, so I tried to go through the only other menu option to erase the disk. However, every time I tried this, I got the error "Couldn't open device (-69877)".
+At this point, I knew I had a working Time Machine backup and figured there was no recovering the mis-encrypted FileVault startup disk, so I tried to go through the only other menu option to erase the disk. However, every time I tried this, I got the error "Couldn't open device (-69877)".
 
 I was seemingly stuck, since normal Recovery Mode startup key combinations didn't seem to get me out of this specific "Reset Password" recovery mode.
 
