@@ -23,4 +23,4 @@ It seems like this recovery process allowed me to use the FileVault recovery key
 
 But, it worked for me, and maybe this post will help someone else out there who doesn't have the option of restoring from backups.
 
-So while you're here, take that as a reminder to make sure you have working backups. I use both Time Machine to a local disk, as well as Backblaze Personal Backup. Sign up for Backblaze using [this link](https://secure.backblaze.com/r/01r46t) and you'll get an extra month free (full disclosure: I'll also get a free month if you decide to subscribe).
+So while you're here, take that as a reminder to make sure you have working backups. I use both Time Machine to a local disk, as well as Backblaze Personal Backup for offsite backups. Sign up for Backblaze using [this link](https://secure.backblaze.com/r/01r46t) and you'll get an extra month free (full disclosure: I'll also get a free month if you decide to subscribe).
