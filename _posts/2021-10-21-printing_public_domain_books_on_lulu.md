@@ -15,7 +15,7 @@ However, I still encountered various errors when uploading the PDF to Lulu. One 
 
     cpdf -gs $(which gs) -embed-missing-fonts joannisstobaeian01stovuoft_bw_vol_1.pdf -o joannisstobaeian01stovuoft_bw_vol_1_embed_fonts.pdf
 
-The next issue was that I needed to size the PDF to the exact print size I wanted on Lulu. For this, you'll need to reference the [Lulu book creation guide PDF](https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf). For example, I decied I wanted a "US Trade" trim size: `152mm x 229mm`. I needed to convert `mm` to `pts` for the `cpdf` command, so using [an online converter](https://www.conversionunites.com/converter-mm-to-points) I got `431pts x 649pts` which I could use with `cpdf` to resize to fit:
+The next issue was that I needed to size the PDF to the exact print size I wanted on Lulu. For this, you'll need to reference the [Lulu book creation guide PDF](https://assets.lulu.com/media/guides/en/lulu-book-creation-guide.pdf). For example, I decided I wanted a "US Trade" trim size: `152mm x 229mm`. I needed to convert `mm` to `pts` for the `cpdf` command, so using [an online converter](https://www.conversionunites.com/converter-mm-to-points) I got `431pts x 649pts` which I could use with `cpdf` to resize to fit:
 
     cpdf -scale-to-fit "431 649" joannisstobaeian01stovuoft_bw_vol_1_embed_fonts.pdf -o joannisstobaeian01stovuoft_bw_vol_1_scaled.pdf
 
