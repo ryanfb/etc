@@ -1,11 +1,9 @@
 ---
 title: Printing Public Domain Books on Lulu
 ---
-I've been interested in printing my own personal copies of some public domain works for a while with a print-on-demand service, and wound up wanting some printed copies of the reference edition of [Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) for reading and working with.
+I've been interested in printing my own personal copies of some public domain works for a while with a print-on-demand service, and wound up wanting some printed copies of the reference edition of [Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) for reading and working with. This seemed as good an opportunity as any to finally try my hand at it, and I went with [Lulu](https://www.lulu.com/) since I had purchased some books for sale there before, where a seller had cleaned up public domain editions I wanted a physical copy of (I may make the corrected versions of my Stobaeus prints available for general purchase later on Lulu, and if I do so I'll update here).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extremely niche offering, but I’m about to try getting all five volumes of the (public domain) Wachsmuth &amp; Hense Stobaeus printed for myself on Lulu as cheap paperbacks if anyone else on <a href="https://twitter.com/hashtag/ClassicsTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ClassicsTwitter</a> is interested <a href="https://t.co/Hf7zucpHFa">https://t.co/Hf7zucpHFa</a></p>&mdash; Ryan Baumann (@ryanfb) <a href="https://twitter.com/ryanfb/status/1448674050348302343?ref_src=twsrc%5Etfw">October 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-This seemed as good an opportunity as any, and I went with [Lulu](https://www.lulu.com/) since I had purchased some books for sale there before, where a seller had cleaned up public domain editions I wanted a physical copy of (I may make the corrected versions of my Stobaeus prints available for general purchase later on Lulu, and if I do so I'll update here).
 
 Since the process of going from PDFs on the [Internet Archive](https://archive.org) to something that's actually printable was not at all intuitive, I thought I would document what I had to do in case it could be of use to others. There may be some additional formatting steps I didn't encounter, feel free to let me know if you have to do any additional workarounds.
 
