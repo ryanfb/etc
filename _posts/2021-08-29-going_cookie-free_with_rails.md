@@ -8,8 +8,11 @@ For my purposes, it was sufficient to disable the session cookie *unless* you we
 
 ```ruby
 after_action lambda {
-               request.session_options[:skip] = !(user_signed_in? || devise_controller?)
-             }
+  cookies.delete(Rails.application.config.session_options[:key]) unless user_signed_in?
+  request.session_options[:skip] = !(user_signed_in? || devise_controller?)
+}
 ```
+
+[Thanks to a suggestion from Goulven Champenois](https://github.com/ryanfb/etc/issues/105), this also deletes any leftover session cookie for logged-out users, fixing a possible issue with flash messages getting "stuck" displaying with the session cookie after signing out.
 
 You could also easily exempt other controllers as necessary, but this is an excellent way to both respect privacy **and** not have to display an annoying GDPR cookie notification!
