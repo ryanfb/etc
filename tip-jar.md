@@ -6,6 +6,7 @@ hidden: true
 
 Appreciate my work? Here's some ways you can support it:
 
+* [Subscribe to PodQueue](https://podqueue.fm)
 * [PayPal.me](https://www.paypal.me/ryanfb)
 * [Cash App](https://cash.me/$rfbaumann)
 * [Venmo](https://venmo.com/ryanfb)
