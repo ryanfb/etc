@@ -1,5 +1,6 @@
 ---
 title: "Using a Rails App Layout with Jekyll"
+tags: rails
 ---
 There's a number of different strategies you can use to host a blog for your app or company, and for [PodQueue](https://podqueue.fm) I went with the tried-and-true "static Jekyll site on a blog subdomain" approach. There are tradeoffs to every approach, and one here is that I initially ran the blog with a generic Jekyll theme just to have something up and running. I wanted the blog to have the same styling and layout as the main site with just a few blog-specific tweaks, so here's how I accomplished that.
 
