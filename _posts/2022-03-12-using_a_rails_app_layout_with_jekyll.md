@@ -2,7 +2,7 @@
 title: "Using a Rails App Layout with Jekyll"
 tags: rails
 ---
-There's a number of different strategies you can use to host a blog for your app or company, and for [PodQueue](https://podqueue.fm) I went with the tried-and-true "static Jekyll site on a blog subdomain" approach. There are tradeoffs to every approach, and one here is that I initially ran the blog with a generic Jekyll theme just to have something up and running. I wanted the blog to have the same styling and layout as the main site with just a few blog-specific tweaks, so here's how I accomplished that.
+There's a number of different strategies you can use to host a blog for your app or company, and for [PodQueue](https://podqueue.fm) I went with the tried-and-true "[static Jekyll site](https://jekyllrb.com/) on a blog subdomain" approach. There are tradeoffs to every approach, and one here is that I initially ran the blog with a generic Jekyll theme just to have something up and running. I wanted the blog to instead have the same styling and layout as the main site with just a few blog-specific tweaks, so here's how I accomplished that.
 
 The main PodQueue website runs on Rails, and has an app-wide layout used for most pages. So to generate my Jekyll layout, I have a single page/endpoint in the Rails app that uses that layout with Jekyll's <code>&lbrace;&lbrace; content &rbrace;&rbrace;</code> templating tag as the only content. I can then just download that `/layout` endpoint as the HTML I'm going to use for my Jekyll layout (`_layouts/default.html`).
 
