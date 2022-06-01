@@ -25,6 +25,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * [National Library of Greece](https://www.nlg.gr)
   * [Benaki Museum](https://www.benaki.org/index.php?lang=en)
   * [Byzantine and Christian Museum](https://byzantinemuseum.gr/en/)
+* *Bambergensis*: [Bamberg State Library or Staatsbibliothek Bamberg](https://www.staatsbibliothek-bamberg.de/en/) (**SBB**), Bamberg, Germany
 * *Basileensis* (also *Basilea*): [Basel University Library](https://www.unibas.ch/en/University/University-Society/University-Library-Basel-.html), Basel, Switzerland
 * *Bernensis* (also *Berna*): [Swiss National Library](https://www.nb.admin.ch/snl/en/home.html), Berne, Switzerland
 * *Berolinensis* (also *Berolinum*, **Ber./Berol./Berl.**): [Berlin State Library or Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/en/) (**SBB**), Berlin, Germany
@@ -43,12 +44,18 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * *Collegium Trinitatis*: [Trinity College Library](https://www.trin.cam.ac.uk/library/)
   * *Pembrokianus*: [Pembroke College Library](https://www.pem.cam.ac.uk/college/library)
 * *Carolsruhensis* (also *Caroli Hesychia*): [Baden State Library or Badische Landesbibliothek](http://www.blb-karlsruhe.de/) (**BLB**), Karlsruhe, Germany
+* *Cassellanus*: [Kassel University Library or Universitätsbibliothek Kassel](https://www.uni-kassel.de/ub/), Kassel, Germany
+* *Cheltoniensis*: Cheltenham, England
+  * *Phillippsiensis*: see [this article](https://doi.org/10.1017/S0362152900008898) on the distribution of this collection
 * *Coloniensis* (also *Colonia Agrippina*): Cologne (Köln), Germany
   * [University and City Library of Cologne](https://www.ub.uni-koeln.de/index_eng.html)
   * [Cologne Public Library or Stadtbibliothek Köln](http://www.stadt-koeln.de/5/stadtbibliothek/)
 * *Dresdensis* (also *Dresda*): [Saxon State and University Library Dresden](http://www.slub-dresden.de/en/home/) (**SLUB Dresden**), Dresden, Germany
+* *Dublinensis*: Dublin, Ireland
+  * [The Library of Trinity College Dublin](https://www.tcd.ie/library/research-collections/)
+  * [Chester Beatty](https://chesterbeatty.ie/)
 * *Escorialensis* (also *Matritensis Escorialensis* or *Scorialensis*): [Real Biblioteca del Monasterio de El Escorial](http://rbme.patrimonionacional.es/), El Escorial, Spain
-* *Estensis*: [Biblioteca Estense](http://bibliotecaestense.beniculturali.it/), Modena, Italy
+* *Estensis*: [Biblioteca Estense](http://bibliotecaestense.beniculturali.it/), Modena, Italy - see also *Mutinensis*
 * *Etonensis* (also *Etona*): [Eton College Library](https://collections.etoncollege.com/collections/college-library/), Windsor, England
 * *Ferrarensis*: [Biblioteca Comunale Ariostea](http://archibiblio.comune.fe.it/271/biblioteca-comunale-ariostea), Ferrara, Italy
 * *Florentinus* (also *Florentia*): Florence, Italy
@@ -93,6 +100,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * [Biblioteca Real Academia de la Historia](https://www.rah.es/biblioteca/)
 * *Monacensis* (also *Monachium*): [Bavarian State Library or Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/en/) (**BSB**), Munich, Germany
 * *Montepessulanus* (also *Mons Pessulanus*): [Bibliothèque municipale de Montpellier](https://mediatheques.montpellier3m.fr/default/bibliotheques-municipales.aspx?_lg=fr-FR), Montpellier, France
+* *Mutinensis*: [Biblioteca Estense](http://bibliotecaestense.beniculturali.it/), Modena, Italy - see also *Estensis*
 * *Neapolitanus*: Naples, Italy
   * *Farnesianus* or *Farnesinus*: [Biblioteca Nazionale di Napoli](http://www.bnnonline.it/) (**BNN**)
     * *Brancacciana*
@@ -103,7 +111,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
     * *Canonici* (**Canon. Class. Lat.**)
     * *Holkhamensis*
   * *Corpus Christi Collegium*: [Corpus Christi College Library](https://www.ccc.ox.ac.uk/about-corpus/library-and-archives)
-* *Palatinus* (**Pal.**): [University Library Heidelberg or Universitätsbibliothek Heidelberg](http://www.ub.uni-heidelberg.de/) (**UB Heidelberg**), Heidelberg, Germany
+* *Palatinus* (**Pal.**): [University Library Heidelberg or Universitätsbibliothek Heidelberg](http://www.ub.uni-heidelberg.de/) (**UB Heidelberg**), Heidelberg, Germany - but see also the *Palatinus* collection in the Vatican (*Vaticanus* below)
   * *Truebnerianus*
 * *Parisinus* (also *Parisiensis* or *Parisii*, **Par.**): [Bibliothèque nationale de France](http://www.bnf.fr/) (**BnF**), Paris, France
 	* *Regius*
@@ -115,6 +123,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
   * *Forteguerrianus*: [Liceo Statale Niccolò Forteguerri](https://www.forteguerri.edu.it/)
   * *Fabroniana*: [Biblioteca Fabroniana](http://www.bibliotecafabroniana.it/)
 * *Ravennas* (also *Classensis*): [Biblioteca Classense](https://www.classense.ra.it/), Ravenna, Italy
+* *Roffensis*: [University of Rochester Libraries](https://www.library.rochester.edu/rbscp), Rochester, England
 * *Romanus* (also *Roma*): Rome, Italy
   * *Angelicus* (also *Angelica*): [Biblioteca Angelica](http://www.bibliotecaangelica.beniculturali.it/), Piazza S. Agostino
   * [Biblioteca Nazionale Centrale di Roma](http://www.bncrm.librari.beniculturali.it/)
