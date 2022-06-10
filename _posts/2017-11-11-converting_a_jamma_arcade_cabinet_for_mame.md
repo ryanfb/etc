@@ -24,7 +24,7 @@ There are a number of boards that attach to the Raspberry Pi's GPIO pins and con
 
 The issue I had with these is that many seemed to be poorly documented and have mixed reviews. I didn't want to be locked into whatever emulator/OS/frontend happened to work with a particular board, with no documentation available for using something else. I also didn't want to spend $150 on a board/adapter that would *only* work with a Raspberry Pi - I wanted something more generic that would give me an upgrade path (to a full x86 PC, for example) later on.
 
-The [Ultimarc J-PAC](https://www.ultimarc.com/jpac.html) ($59) seemed to be the best solution for this. It converts the JAMMA connector to standard VGA and USB (converting the arcade buttons to act as a keyboard), making it easy to connect to a Raspberry Pi or other computer.
+The [Ultimarc J-PAC](https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/) ($59) seemed to be the best solution for this. It converts the JAMMA connector to standard VGA and USB (converting the arcade buttons to act as a keyboard), making it easy to connect to a Raspberry Pi or other computer.
 
 # Video
 
