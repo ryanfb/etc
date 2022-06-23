@@ -108,6 +108,7 @@ Before we move on to the list, I'd also like to note the [Pinakes](https://pinak
 * *Oxoniensis* (also *Oxonia* or *Oxonium*): Oxford, England
   * *Bodleianus* (**Bodl.**): [Bodleian Libraries](https://www.bodleian.ox.ac.uk)
     * *Auctarium* (**Auct.**)
+    * [*Baroccianus*](https://en.wikipedia.org/wiki/Codex_Baroccianus)
     * *Canonici* (**Canon. Class. Lat.**)
     * *Holkhamensis*
   * *Corpus Christi Collegium*: [Corpus Christi College Library](https://www.ccc.ox.ac.uk/about-corpus/library-and-archives)
