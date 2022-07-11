@@ -10,3 +10,5 @@ So, if you're familiar with the command line, you can use this one-liner on the 
     grep '^From:' ~/Downloads/Takeout/Mail/All\ mail\ Including\ Spam\ and\ Trash.mbox | cut -d'<' -f2 | tr -d '>' | sort | uniq -c | sort -rn > senders.txt
 
 Sure, it's not perfect, but for `From:` lines that don't conform it still fails gracefully. You can then work your way through the resulting sorted output of most frequent senders and deleting all mail from them (I suggest deleting lines in the output as you delete email, so you can keep track of what you've already deleted). It may take a little while for your storage quota report to update, but I deleted many tens of thousands of emails this way, freeing up about 5GB of storage and getting comfortably back under the quota as a result.
+
+**Update:** If you want a more accurate picture of how your email storage is being used, I've written [a short Ruby script](https://gist.github.com/ryanfb/7c587b77c47db4fa163cc2aa3b0bb96a) which tries to calculate the total number of bytes for each sender in an Mbox file from Google Takeout.
