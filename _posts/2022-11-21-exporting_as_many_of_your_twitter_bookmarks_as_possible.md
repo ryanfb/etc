@@ -1,0 +1,10 @@
+---
+title: Exporting As Many of Your Twitter Bookmarks As Possible
+---
+Twitter Bookmarks were [first introduced in 2018](https://techcrunch.com/2018/02/28/twitter-launches-bookmarks-a-private-way-to-save-tweets/), and ever since, Twitter has treated machine-readable access to these bookmarks like they're pushing vegetables around on their plate. The export available from your "Twitter Archive" doesn't include your Twitter Bookmarks (likely in violation of GDPR), and official API access to Bookmarks [only started in March of 2022](https://twitter.com/TwitterDev/status/1507070437557096461).
+
+Unfortunately, this API access, the only real way to get your Twitter Bookmarks out of Twitter, is still extremely limited. You can only fetch *up to* 800 Bookmarks at a time, and this interface is both extremely flaky and prone to randomly returning prematurely. You can get around this by deleting 50 Bookmarks at a time every 15 minutes (the API limit for deletes) and re-fetching, but further limitations of the API or the internal backend for Twitter Bookmarks mean that beyond a certain amount of time or number of Bookmarks, you simply will not be able to retrieve your old Twitter Bookmarks at all.
+
+If you would like to export as many of your Twitter Bookmarks as possible, I've written a Ruby script which will use the official API to export as many of your Twitter Bookmarks as possible while deleting them, available here: <https://github.com/ryanfb/twitter-bookmarks-export>
+
+In simple terms, the best way to export as many of your Twitter Bookmarks as possible is to run this script immediately, and once it's deleted all the Twitter Bookmarks it can retrieve, re-run it periodically. If you have more than about 2,500 Bookmarks, you probably won't be able to retrieve much beyond that limit, and I have no way of knowing exactly where the limit is or what percentage of bookmarks may also be randomly missing from what's returned by Twitter before the limit is reached. Twitter themselves seem to have been silently losing your Bookmarks data beyond whatever this limit is.
