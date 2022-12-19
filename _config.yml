@@ -15,7 +15,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      image: https://www.gravatar.com/avatar/5c60848658ff9b47c42196635fe0449b.jpg
+      image: https://ryanfb.xyz/logo.png
 title: /etc
 description: blog, wiki, miscellany, et cetera
 url: https://ryanfb.xyz
