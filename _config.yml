@@ -24,7 +24,7 @@ sitemap:
   changefreq: daily
 remote_theme: ryanfb/jekyll-theme-palaios
 citation_type: blog
-donation_url: https://ryanfb.github.io/etc/tip-jar
+donation_url: https://ryanfb.xyz/etc/tip-jar
 author:
   name: Ryan Baumann
   first_name: Ryan
