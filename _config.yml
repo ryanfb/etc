@@ -18,7 +18,7 @@ defaults:
       image: https://www.gravatar.com/avatar/5c60848658ff9b47c42196635fe0449b.jpg
 title: /etc
 description: blog, wiki, miscellany, et cetera
-url: https://ryanfb.github.io
+url: https://ryanfb.xyz
 repository: ryanfb/etc
 sitemap:
   changefreq: daily
