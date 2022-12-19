@@ -2,7 +2,6 @@
 layout: default
 title: index
 ---
-
 {% for post in site.posts %}{% if post.pinned %}
   <div class="post hentry">
     <h2 id="post-{{ post.id | replace:'/','-' }}" class="entry-title"><i class="fas fa-thumbtack"></i> <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
