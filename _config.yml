@@ -22,7 +22,7 @@ url: https://ryanfb.xyz
 repository: ryanfb/etc
 sitemap:
   changefreq: daily
-remote_theme: ryanfb/jekyll-theme-palaios
+remote_theme: ryanfb/jekyll-theme-palaios@systemfonts
 citation_type: blog
 donation_url: https://ryanfb.xyz/etc/tip-jar
 author:
