@@ -1,5 +1,6 @@
 ---
 title: Reading List
+hidden: true
 affiliate: true
 tags:
 - reading
