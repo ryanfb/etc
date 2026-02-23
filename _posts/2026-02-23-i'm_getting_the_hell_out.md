@@ -1,0 +1,14 @@
+---
+title: I'm getting the hell out
+---
+I've reached a breaking point with where Big Tech is taking us. I'm getting the hell out.
+
+I'm tired of Google. Microsoft. Apple. Amazon. Facebook. Spotify. All eagerly collaborating with and ushering in fascists. I'm getting the hell out.
+
+This isn't a perfect process. It's also not one that they, or I, just started just now. They've been getting more fascist for a while. I've been getting the hell out for a while. This is just me publicly announcing the fact, as many others have done. I'm getting the hell out.
+
+Here are some small ways I've gotten or been getting the hell out, to give you an idea or what I'm talking about or maybe give you some inspiration. I've changed the email contact on this site to one that's not on gmail.com, but a domain I own and control. In 2023 following Elon Musk's purchase and takeover of Twitter I deleted all my posts and closed my account, moving completely over to [the fediverse](https://digipres.club/@ryanfb) instead (a process made easier by having a presence there since 2017). I'm now removing old Twitter links from this blog and instead pointing them at [my personal archive](https://ryanfb.xyz/twitter-archive/) or the Wayback Machine. I recently finished moving all my photos and videos out of Amazon Photos (a long story) and into [a self-hosted immich server](https://immich.app/). These are just some small examples. I'm getting the hell out.
+
+As the examples may show, it's not always a perfect or easy process. It's a transition. It's not always overnight. Sometimes it involves building up parallel infrastructure and gaining confidence in it before cutting the cord. But still. I'm getting the hell out.
+
+That's not the only thing I'm doing. And that's not the only way I'm getting the hell out. It's not purely technical. In some cases there aren't easy replacements. And in some cases you're not getting the hell out by switching from the Torment Nexus to the Self-Hosted Open Source Torment Nexus. It's a case-by-case basis. It's getting the hell out in other ways. It's embracing your humanity. Yes, it's been almost 4 years since my last post on this blog (my last post, in 2022, [was also about getting the hell out of Twitter](https://ryanfb.xyz/etc/2022/11/21/exporting_as_many_of_your_twitter_bookmarks_as_possible.html)). Getting the hell out of these platforms takes time and energy. I also fully realize that this alone is not the One Weird Trick that will get us out of our present moment. I understand that divesting from these corporations may even feel ridiculously inconsequential when compared with the real human suffering they're eagerly ushering in. I still think it's worth doing. Once you're out, you can invest the time, energy, and money they were capturing from you into the causes, activities, and people you actually value instead. So. I'm getting the hell out.
