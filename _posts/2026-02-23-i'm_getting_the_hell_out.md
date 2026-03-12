@@ -1,5 +1,6 @@
 ---
 title: I'm getting the hell out
+pinned: true
 ---
 I've reached a breaking point with where Big Tech is taking us. I'm getting the hell out.
 
